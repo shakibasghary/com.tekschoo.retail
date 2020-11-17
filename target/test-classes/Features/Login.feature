@@ -6,7 +6,7 @@ Feature: Login to Retail Website
 Background:
 	Given User is on Retail Website 
 	And User Clicks on MyAccount
-@Login 
+@regression @login
 Scenario: Login to MyAccount 
  
 	When User Clicks on Login 
@@ -17,7 +17,7 @@ Scenario: Login to MyAccount
 	
 	#if i want to run same scenario with multiple userName and Password 
 	# Should i copy and past same scenario with multiple user and pass ? 
-@MultipleUserLogin 
+@regression @login
 Scenario Outline: Login to Retail Site with multiple users 
 
 	When User Clicks on Login 
@@ -30,7 +30,7 @@ Scenario Outline: Login to Retail Site with multiple users
 		|consumer@tekschool.us|JBond|
 		|students@tekschool.us|TEST|
 		
-@Logout
+@regression @login
 Scenario: Log out from MyAccount 
 
 	When User Clicks on Login 

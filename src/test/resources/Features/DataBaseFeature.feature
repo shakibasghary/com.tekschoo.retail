@@ -1,5 +1,5 @@
 Feature: Database SQL query feature 
-@Sqlquery
+@regression @sqlquery
 Scenario: Execute all information from Actor Table 
 	Given User connects to PostgreSQL 
 	When User sends "select * from public.actor" 

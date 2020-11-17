@@ -1,3 +1,11 @@
-stepDefinitions\Initializer.class
+stepDefinitions\SqlQueryStepDefinition.class
 stepDefinitions\LoginTestStepDefinition.class
+stepDefinitions\RegisterFormStepDefinition.class
+stepDefinitions\CurrencyManipulation.class
+stepDefinitions\RemoveProductFromShoppingCart.class
+stepDefinitions\Initializer.class
+stepDefinitions\AddProductsToShoppingCart.class
+stepDefinitions\RemoveProductFromWishList.class
 runner\TestRunner.class
+stepDefinitions\AddProductIntoWishList.class
+stepDefinitions\ShoppingCartCheckoutPageStepDefinition.class

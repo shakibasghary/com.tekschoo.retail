@@ -7,7 +7,7 @@ Scenario: Register Account for new Retail user
 	And User click on Register 
 	And User fill out Register form with below information 
 		|firstName|lastName|email|phone|password|
-		|James|Madison|jmadison@max2.com|1112223344|james123|
+		|James|Madison|jmadison@max3.com|1112223344|james123|
 	And User select 'yes' for Subscribe 
 	And User click on privacy and policy check box 
 	And User click on Continue button 

@@ -3437,3 +3437,1589 @@
 2020-11-16 15:57:41,562 - logger_file -INFO - User click on Login button
 2020-11-16 15:57:42,324 - logger_file -INFO - Default Currency is changed to Pound Sterling
 2020-11-16 15:57:43,213 - logger_file -INFO - select different currency as default when logging in and out   passed
+2020-11-16 17:33:15,457 - logger_file -INFO - Scenario Add product to wish listStarted 
+2020-11-16 17:33:27,766 - logger_file -INFO - Retail page is opened
+2020-11-16 17:33:27,862 - logger_file -INFO - Page title  is verified
+2020-11-16 17:33:28,483 - logger_file -INFO - User click on My Account
+2020-11-16 17:33:28,917 - logger_file -INFO - User click on Login
+2020-11-16 17:33:32,627 - logger_file -INFO - User enter email address
+2020-11-16 17:33:32,761 - logger_file -INFO - User enter password
+2020-11-16 17:33:33,516 - logger_file -INFO - User click on Login button
+2020-11-16 17:33:34,086 - logger_file -INFO - User clicks on Camera Button from product menu
+2020-11-16 17:33:34,538 - logger_file -INFO - user selects a canon product
+2020-11-16 17:33:35,174 - logger_file -INFO - Wish list heart button is present
+2020-11-16 17:33:35,255 - logger_file -INFO - User clicks on Wish List heart button
+2020-11-16 17:33:35,719 - logger_file -INFO - product successfully added into wish list
+2020-11-16 17:33:36,656 - logger_file -INFO - Add product to wish list   passed
+2020-11-16 17:33:36,683 - logger_file -INFO - Scenario Add product to wish list by clicking on product linkStarted 
+2020-11-16 17:33:44,535 - logger_file -INFO - Retail page is opened
+2020-11-16 17:33:44,554 - logger_file -INFO - Page title  is verified
+2020-11-16 17:33:45,080 - logger_file -INFO - User click on My Account
+2020-11-16 17:33:45,510 - logger_file -INFO - User click on Login
+2020-11-16 17:33:48,994 - logger_file -INFO - User enter email address
+2020-11-16 17:33:49,123 - logger_file -INFO - User enter password
+2020-11-16 17:33:49,874 - logger_file -INFO - User click on Login button
+2020-11-16 17:33:50,433 - logger_file -INFO - User clicks on Camera Button from product menu
+2020-11-16 17:33:50,840 - logger_file -INFO - user selects a canon product
+2020-11-16 17:33:52,517 - logger_file -INFO - User clicks on canon link
+2020-11-16 17:33:53,602 - logger_file -INFO - Wish list heart button is present
+2020-11-16 17:33:53,696 - logger_file -INFO - User clicks on Wish List heart button
+2020-11-16 17:33:54,150 - logger_file -INFO - product successfully added into wish list
+2020-11-16 17:33:55,110 - logger_file -INFO - Add product to wish list by clicking on product link   passed
+2020-11-16 17:33:55,125 - logger_file -INFO - Scenario list of product added into wish listStarted 
+2020-11-16 17:34:03,018 - logger_file -INFO - Retail page is opened
+2020-11-16 17:34:03,045 - logger_file -INFO - Page title  is verified
+2020-11-16 17:34:03,564 - logger_file -INFO - User click on My Account
+2020-11-16 17:34:03,965 - logger_file -INFO - User click on Login
+2020-11-16 17:34:07,536 - logger_file -INFO - User enter email address
+2020-11-16 17:34:07,677 - logger_file -INFO - User enter password
+2020-11-16 17:34:08,454 - logger_file -INFO - User click on Login button
+2020-11-16 17:34:08,984 - logger_file -INFO - User clicks on Camera Button from product menu
+2020-11-16 17:34:09,411 - logger_file -INFO - user selects a canon product
+2020-11-16 17:34:09,976 - logger_file -INFO - Wish list heart button is present
+2020-11-16 17:34:10,058 - logger_file -INFO - User clicks on Wish List heart button
+2020-11-16 17:34:10,545 - logger_file -INFO - product successfully added into wish list
+2020-11-16 17:34:11,235 - logger_file -INFO - User clicked on WishList Button
+2020-11-16 17:34:11,625 - logger_file -INFO - Product confirmed to be in the wish list
+2020-11-16 17:34:12,484 - logger_file -INFO - list of product added into wish list   passed
+2020-11-16 17:34:12,499 - logger_file -INFO - Scenario Add product into shopping cart scenario oneStarted 
+2020-11-16 17:34:19,882 - logger_file -INFO - Retail page is opened
+2020-11-16 17:34:19,905 - logger_file -INFO - Page title  is verified
+2020-11-16 17:34:20,411 - logger_file -INFO - User clicks on Camera Button from product menu
+2020-11-16 17:34:20,885 - logger_file -INFO - user selects a canon product
+2020-11-16 17:34:21,005 - logger_file -INFO - User clicks on ADD TO CART button
+2020-11-16 17:34:37,209 - logger_file -INFO - User successfully added product into the shopping cart
+2020-11-16 17:34:38,167 - logger_file -INFO - Add product into shopping cart scenario one   passed
+2020-11-16 17:34:38,178 - logger_file -INFO - Scenario Add product into shopping cart scenario twoStarted 
+2020-11-16 17:34:45,639 - logger_file -INFO - Retail page is opened
+2020-11-16 17:34:45,664 - logger_file -INFO - Page title  is verified
+2020-11-16 17:34:46,199 - logger_file -INFO - User clicks on Camera Button from product menu
+2020-11-16 17:34:46,617 - logger_file -INFO - user selects a canon product
+2020-11-16 17:34:47,765 - logger_file -INFO - User clicks on canon link
+2020-11-16 17:34:48,248 - logger_file -INFO - user selects the available options for product
+2020-11-16 17:34:48,487 - logger_file -INFO - User enters the quantity
+2020-11-16 17:34:48,696 - logger_file -INFO - User clicks on Blue Add to Cart Button
+2020-11-16 17:34:48,828 - logger_file -INFO - User successfully added product into the shopping cart
+2020-11-16 17:34:49,633 - logger_file -INFO - Add product into shopping cart scenario two   passed
+2020-11-16 17:34:49,653 - logger_file -INFO - Scenario confirmation of quantities of product added to shopping cartStarted 
+2020-11-16 17:34:57,180 - logger_file -INFO - Retail page is opened
+2020-11-16 17:34:57,199 - logger_file -INFO - Page title  is verified
+2020-11-16 17:34:57,758 - logger_file -INFO - User clicks on Camera Button from product menu
+2020-11-16 17:34:58,164 - logger_file -INFO - user selects a canon product
+2020-11-16 17:34:59,495 - logger_file -INFO - User clicks on canon link
+2020-11-16 17:35:00,030 - logger_file -INFO - user selects the available options for product
+2020-11-16 17:35:00,307 - logger_file -INFO - User enters the quantity
+2020-11-16 17:35:00,518 - logger_file -INFO - User clicks on Blue Add to Cart Button
+2020-11-16 17:35:00,654 - logger_file -INFO - User successfully added product into the shopping cart
+2020-11-16 17:35:00,764 - logger_file -INFO - User clicks on Shopping Cart
+2020-11-16 17:35:01,211 - logger_file -INFO - Product is added successfully into the shopping cart
+2020-11-16 17:35:02,102 - logger_file -INFO - confirmation of quantities of product added to shopping cart   passed
+2020-11-16 17:35:02,116 - logger_file -INFO - Scenario Confirmation of adding more quantities of productStarted 
+2020-11-16 17:35:10,608 - logger_file -INFO - Retail page is opened
+2020-11-16 17:35:10,627 - logger_file -INFO - Page title  is verified
+2020-11-16 17:35:11,158 - logger_file -INFO - User clicks on Camera Button from product menu
+2020-11-16 17:35:11,605 - logger_file -INFO - user selects a canon product
+2020-11-16 17:35:13,178 - logger_file -INFO - User clicks on canon link
+2020-11-16 17:35:13,565 - logger_file -INFO - user selects the available options for product
+2020-11-16 17:35:13,815 - logger_file -INFO - User enters the quantity
+2020-11-16 17:35:14,015 - logger_file -INFO - User clicks on Blue Add to Cart Button
+2020-11-16 17:35:14,156 - logger_file -INFO - User successfully added product into the shopping cart
+2020-11-16 17:35:14,276 - logger_file -INFO - User clicks on Shopping Cart
+2020-11-16 17:35:14,727 - logger_file -INFO - Product is added successfully into the shopping cart
+2020-11-16 17:35:14,889 - logger_file -INFO - User clicks on Blue Add to Cart Button
+2020-11-16 17:35:14,952 - logger_file -INFO - User clicks on Shopping Cart
+2020-11-16 17:35:15,137 - logger_file -INFO - Product quantity increase confirmed
+2020-11-16 17:35:17,212 - logger_file -INFO - Confirmation of adding more quantities of product   passed
+2020-11-16 17:35:17,230 - logger_file -INFO - Scenario Execute all information from Actor TableStarted 
+2020-11-16 17:35:24,382 - logger_file -INFO - Connection has been established
+2020-11-16 17:35:24,817 - logger_file -INFO - select * from public.actor has been executed
+2020-11-16 17:35:24,930 - logger_file -INFO - Resultset is stored in csv file in outcome folder
+2020-11-16 17:35:24,933 - logger_file -INFO - DataBase connection has been closed
+2020-11-16 17:35:27,038 - logger_file -INFO - Execute all information from Actor Table   passed
+2020-11-16 17:35:27,072 - logger_file -INFO - Scenario Login to MyAccountStarted 
+2020-11-16 17:35:34,849 - logger_file -INFO - Retail page is opened
+2020-11-16 17:35:34,862 - logger_file -INFO - Page title  is verified
+2020-11-16 17:35:35,385 - logger_file -INFO - User click on My Account
+2020-11-16 17:35:35,816 - logger_file -INFO - User click on Login
+2020-11-16 17:35:39,302 - logger_file -INFO - User enter email address
+2020-11-16 17:35:39,432 - logger_file -INFO - User enter password
+2020-11-16 17:35:40,546 - logger_file -INFO - User click on Login button
+2020-11-16 17:35:41,804 - logger_file -INFO - Login to MyAccount   passed
+2020-11-16 17:35:41,826 - logger_file -INFO - Scenario Login to Retail Site with multiple usersStarted 
+2020-11-16 17:35:49,212 - logger_file -INFO - Retail page is opened
+2020-11-16 17:35:49,230 - logger_file -INFO - Page title  is verified
+2020-11-16 17:35:49,814 - logger_file -INFO - User click on My Account
+2020-11-16 17:35:50,241 - logger_file -INFO - User click on Login
+2020-11-16 17:35:53,716 - logger_file -INFO - User enter email address
+2020-11-16 17:35:53,845 - logger_file -INFO - User enter password
+2020-11-16 17:35:54,678 - logger_file -INFO - User click on Login button
+2020-11-16 17:35:55,948 - logger_file -INFO - Login to Retail Site with multiple users   passed
+2020-11-16 17:35:55,959 - logger_file -INFO - Scenario Login to Retail Site with multiple usersStarted 
+2020-11-16 17:36:03,181 - logger_file -INFO - Retail page is opened
+2020-11-16 17:36:03,196 - logger_file -INFO - Page title  is verified
+2020-11-16 17:36:03,727 - logger_file -INFO - User click on My Account
+2020-11-16 17:36:04,140 - logger_file -INFO - User click on Login
+2020-11-16 17:36:07,676 - logger_file -INFO - User enter email address
+2020-11-16 17:36:07,809 - logger_file -INFO - User enter password
+2020-11-16 17:36:08,588 - logger_file -INFO - User click on Login button
+2020-11-16 17:36:09,880 - logger_file -INFO - Login to Retail Site with multiple users   passed
+2020-11-16 17:36:09,895 - logger_file -INFO - Scenario Login to Retail Site with multiple usersStarted 
+2020-11-16 17:36:17,005 - logger_file -INFO - Retail page is opened
+2020-11-16 17:36:17,020 - logger_file -INFO - Page title  is verified
+2020-11-16 17:36:17,531 - logger_file -INFO - User click on My Account
+2020-11-16 17:36:17,910 - logger_file -INFO - User click on Login
+2020-11-16 17:36:21,394 - logger_file -INFO - User enter email address
+2020-11-16 17:36:21,531 - logger_file -INFO - User enter password
+2020-11-16 17:36:22,299 - logger_file -INFO - User click on Login button
+2020-11-16 17:36:23,576 - logger_file -INFO - Login to Retail Site with multiple users   passed
+2020-11-16 17:36:23,589 - logger_file -INFO - Scenario Log out from MyAccountStarted 
+2020-11-16 17:36:30,546 - logger_file -INFO - Retail page is opened
+2020-11-16 17:36:30,558 - logger_file -INFO - Page title  is verified
+2020-11-16 17:36:31,105 - logger_file -INFO - User click on My Account
+2020-11-16 17:36:31,628 - logger_file -INFO - User click on Login
+2020-11-16 17:36:35,129 - logger_file -INFO - User enter email address
+2020-11-16 17:36:35,260 - logger_file -INFO - User enter password
+2020-11-16 17:36:36,094 - logger_file -INFO - User click on Login button
+2020-11-16 17:36:36,605 - logger_file -INFO - User click on My Account
+2020-11-16 17:36:38,247 - logger_file -INFO - Log out from MyAccount   passed
+2020-11-16 17:36:38,259 - logger_file -INFO - Scenario Remove product from wish listStarted 
+2020-11-16 17:36:45,178 - logger_file -INFO - Retail page is opened
+2020-11-16 17:36:45,194 - logger_file -INFO - Page title  is verified
+2020-11-16 17:36:45,724 - logger_file -INFO - User click on My Account
+2020-11-16 17:36:46,142 - logger_file -INFO - User click on Login
+2020-11-16 17:36:49,624 - logger_file -INFO - User enter email address
+2020-11-16 17:36:49,751 - logger_file -INFO - User enter password
+2020-11-16 17:36:50,489 - logger_file -INFO - User click on Login button
+2020-11-16 17:36:51,011 - logger_file -INFO - User clicks on Camera Button from product menu
+2020-11-16 17:36:51,478 - logger_file -INFO - user selects a canon product
+2020-11-16 17:36:52,063 - logger_file -INFO - Wish list heart button is present
+2020-11-16 17:36:52,147 - logger_file -INFO - User clicks on Wish List heart button
+2020-11-16 17:36:53,071 - logger_file -INFO - product successfully added into wish list
+2020-11-16 17:36:53,832 - logger_file -INFO - User clicked on WishList Button
+2020-11-16 17:36:54,191 - logger_file -INFO - Product confirmed to be in the wish list
+2020-11-16 17:36:54,597 - logger_file -INFO - User clicks on red 'X' remove from wish list button
+2020-11-16 17:36:54,655 - logger_file -INFO - User successfully removes the product from the wish list cart
+2020-11-16 17:36:55,501 - logger_file -INFO - Remove product from wish list   passed
+2020-11-16 17:36:55,513 - logger_file -INFO - Scenario Removing product from shopping cartStarted 
+2020-11-16 17:37:02,840 - logger_file -INFO - Retail page is opened
+2020-11-16 17:37:02,863 - logger_file -INFO - Page title  is verified
+2020-11-16 17:37:03,426 - logger_file -INFO - User clicks on Camera Button from product menu
+2020-11-16 17:37:03,853 - logger_file -INFO - user selects a canon product
+2020-11-16 17:37:05,162 - logger_file -INFO - User clicks on canon link
+2020-11-16 17:37:05,740 - logger_file -INFO - user selects the available options for product
+2020-11-16 17:37:05,992 - logger_file -INFO - User enters the quantity
+2020-11-16 17:37:06,186 - logger_file -INFO - User clicks on Blue Add to Cart Button
+2020-11-16 17:37:06,323 - logger_file -INFO - User successfully added product into the shopping cart
+2020-11-16 17:37:06,431 - logger_file -INFO - User clicks on Shopping Cart
+2020-11-16 17:37:06,827 - logger_file -INFO - Product is added successfully into the shopping cart
+2020-11-16 17:37:06,936 - logger_file -INFO - Produt is removed from the cart
+2020-11-16 17:37:07,496 - logger_file -INFO - Cart is successfully emptied
+2020-11-16 17:37:08,331 - logger_file -INFO - Removing product from shopping cart   passed
+2020-11-16 17:37:08,347 - logger_file -INFO - Scenario Register Account for new Retail userStarted 
+2020-11-16 17:37:16,448 - logger_file -INFO - Retail page is opened
+2020-11-16 17:37:16,465 - logger_file -INFO - Page title  is verified
+2020-11-16 17:37:17,001 - logger_file -INFO - User click on My Account
+2020-11-16 17:37:17,527 - logger_file -INFO - user clicked on Register
+2020-11-16 17:37:18,402 - logger_file -INFO - user completed Register form with required information
+2020-11-16 17:37:24,572 - logger_file -INFO - Account was created Successfully
+2020-11-16 17:37:25,792 - logger_file -INFO - Register Account for new Retail user   passed
+2020-11-16 17:37:25,801 - logger_file -INFO - Scenario confirm calculation of price x quantity of totalStarted 
+2020-11-16 17:37:33,104 - logger_file -INFO - Retail page is opened
+2020-11-16 17:37:33,124 - logger_file -INFO - Page title  is verified
+2020-11-16 17:37:33,853 - logger_file -INFO - Retail page is opened
+2020-11-16 17:37:33,863 - logger_file -INFO - Page title  is verified
+2020-11-16 17:37:34,355 - logger_file -INFO - User click on My Account
+2020-11-16 17:37:34,779 - logger_file -INFO - User click on Login
+2020-11-16 17:37:38,299 - logger_file -INFO - User enter email address
+2020-11-16 17:37:38,434 - logger_file -INFO - User enter password
+2020-11-16 17:37:39,251 - logger_file -INFO - User click on Login button
+2020-11-16 17:37:39,761 - logger_file -INFO - User clicks on Camera Button from product menu
+2020-11-16 17:37:40,166 - logger_file -INFO - user selects a canon product
+2020-11-16 17:37:40,267 - logger_file -INFO - User clicks on ADD TO CART button
+2020-11-16 17:37:41,889 - logger_file -INFO - user selects the available options for product
+2020-11-16 17:37:42,135 - logger_file -INFO - User enters the quantity
+2020-11-16 17:37:42,343 - logger_file -INFO - User clicks on Blue Add to Cart Button
+2020-11-16 17:37:42,469 - logger_file -INFO - User successfully added product into the shopping cart
+2020-11-16 17:37:42,580 - logger_file -INFO - User clicks on Shopping Cart
+2020-11-16 17:37:43,028 - logger_file -INFO - Product is added successfully into the shopping cart
+2020-11-16 17:37:43,509 - logger_file -INFO - User successfully clicks on View Cart Button
+2020-11-16 17:37:43,568 - logger_file -INFO - Quantity field is present in shopping cart
+2020-11-16 17:37:43,613 - logger_file -INFO - Unit Price field is present in shopping cart
+2020-11-16 17:37:43,655 - logger_file -INFO - Total field is present in shopping cart
+2020-11-16 17:37:43,841 - logger_file -INFO - User updates the quantity of product in shopping cart
+2020-11-16 17:37:44,625 - logger_file -INFO - Quantity is successfully updated
+2020-11-16 17:38:30,574 - logger_file -INFO - confirm calculation of price x quantity of total   failed
+2020-11-16 17:38:30,598 - logger_file -INFO - Scenario user adds coupon code into shopping cartStarted 
+2020-11-16 17:38:37,807 - logger_file -INFO - Retail page is opened
+2020-11-16 17:38:37,826 - logger_file -INFO - Page title  is verified
+2020-11-16 17:38:38,600 - logger_file -INFO - Retail page is opened
+2020-11-16 17:38:38,611 - logger_file -INFO - Page title  is verified
+2020-11-16 17:38:39,106 - logger_file -INFO - User click on My Account
+2020-11-16 17:38:39,439 - logger_file -INFO - User click on Login
+2020-11-16 17:38:42,913 - logger_file -INFO - User enter email address
+2020-11-16 17:38:43,045 - logger_file -INFO - User enter password
+2020-11-16 17:38:43,886 - logger_file -INFO - User click on Login button
+2020-11-16 17:38:44,387 - logger_file -INFO - User clicks on Camera Button from product menu
+2020-11-16 17:38:44,858 - logger_file -INFO - user selects a canon product
+2020-11-16 17:38:44,955 - logger_file -INFO - User clicks on ADD TO CART button
+2020-11-16 17:38:46,720 - logger_file -INFO - user selects the available options for product
+2020-11-16 17:38:46,931 - logger_file -INFO - User enters the quantity
+2020-11-16 17:38:47,125 - logger_file -INFO - User clicks on Blue Add to Cart Button
+2020-11-16 17:38:47,249 - logger_file -INFO - User successfully added product into the shopping cart
+2020-11-16 17:38:47,349 - logger_file -INFO - User clicks on Shopping Cart
+2020-11-16 17:38:47,757 - logger_file -INFO - Product is added successfully into the shopping cart
+2020-11-16 17:38:48,244 - logger_file -INFO - User successfully clicks on View Cart Button
+2020-11-16 17:38:48,299 - logger_file -INFO - User is on 'What would you like to do next?' section of page
+2020-11-16 17:38:48,443 - logger_file -INFO - User clicks on Use Coupon Code Element
+2020-11-16 17:38:48,629 - logger_file -INFO - User enters coupon code successfully
+2020-11-16 17:38:48,817 - logger_file -INFO - User clicks on Apply Coupon Button
+2020-11-16 17:38:48,923 - logger_file -INFO - Coupon Successfully added
+2020-11-16 17:38:49,778 - logger_file -INFO - user adds coupon code into shopping cart   passed
+2020-11-16 17:38:49,791 - logger_file -INFO - Scenario User completes Estimate Shipping & Taxes sectionStarted 
+2020-11-16 17:38:57,088 - logger_file -INFO - Retail page is opened
+2020-11-16 17:38:57,099 - logger_file -INFO - Page title  is verified
+2020-11-16 17:38:57,824 - logger_file -INFO - Retail page is opened
+2020-11-16 17:38:57,833 - logger_file -INFO - Page title  is verified
+2020-11-16 17:38:58,316 - logger_file -INFO - User click on My Account
+2020-11-16 17:38:58,767 - logger_file -INFO - User click on Login
+2020-11-16 17:39:02,258 - logger_file -INFO - User enter email address
+2020-11-16 17:39:02,391 - logger_file -INFO - User enter password
+2020-11-16 17:39:03,212 - logger_file -INFO - User click on Login button
+2020-11-16 17:39:03,729 - logger_file -INFO - User clicks on Camera Button from product menu
+2020-11-16 17:39:04,217 - logger_file -INFO - user selects a canon product
+2020-11-16 17:39:04,315 - logger_file -INFO - User clicks on ADD TO CART button
+2020-11-16 17:39:06,107 - logger_file -INFO - user selects the available options for product
+2020-11-16 17:39:06,308 - logger_file -INFO - User enters the quantity
+2020-11-16 17:39:06,508 - logger_file -INFO - User clicks on Blue Add to Cart Button
+2020-11-16 17:39:06,678 - logger_file -INFO - User successfully added product into the shopping cart
+2020-11-16 17:39:06,793 - logger_file -INFO - User clicks on Shopping Cart
+2020-11-16 17:39:07,194 - logger_file -INFO - Product is added successfully into the shopping cart
+2020-11-16 17:39:07,736 - logger_file -INFO - User successfully clicks on View Cart Button
+2020-11-16 17:39:07,801 - logger_file -INFO - User is on 'What would you like to do next?' section of page
+2020-11-16 17:39:08,112 - logger_file -INFO - User clicks on Estimate Shipping & Taxes Section
+2020-11-16 17:39:08,692 - logger_file -INFO - User updates Country field in Shopping Cart
+2020-11-16 17:39:09,043 - logger_file -INFO - User updates Region/State field in Shopping Cart
+2020-11-16 17:39:09,251 - logger_file -INFO - User Enters value into Post Code Field
+2020-11-16 17:39:09,344 - logger_file -INFO - User clicks on Get Quote Button
+2020-11-16 17:39:09,517 - logger_file -INFO - User clicks on Flat Shipping & Rate Button
+2020-11-16 17:39:09,616 - logger_file -INFO - User clicks on Apply Shipping Button
+2020-11-16 17:39:09,991 - logger_file -INFO - Successfully updated estimate of shipping
+2020-11-16 17:39:10,850 - logger_file -INFO - User completes Estimate Shipping & Taxes section   passed
+2020-11-16 17:39:10,869 - logger_file -INFO - Scenario Users applies gift certificate into shopping cartStarted 
+2020-11-16 17:39:18,396 - logger_file -INFO - Retail page is opened
+2020-11-16 17:39:18,417 - logger_file -INFO - Page title  is verified
+2020-11-16 17:39:19,183 - logger_file -INFO - Retail page is opened
+2020-11-16 17:39:19,193 - logger_file -INFO - Page title  is verified
+2020-11-16 17:39:19,698 - logger_file -INFO - User click on My Account
+2020-11-16 17:39:20,173 - logger_file -INFO - User click on Login
+2020-11-16 17:39:23,661 - logger_file -INFO - User enter email address
+2020-11-16 17:39:23,794 - logger_file -INFO - User enter password
+2020-11-16 17:39:24,597 - logger_file -INFO - User click on Login button
+2020-11-16 17:39:25,128 - logger_file -INFO - User clicks on Camera Button from product menu
+2020-11-16 17:39:25,530 - logger_file -INFO - user selects a canon product
+2020-11-16 17:39:25,631 - logger_file -INFO - User clicks on ADD TO CART button
+2020-11-16 17:39:27,402 - logger_file -INFO - user selects the available options for product
+2020-11-16 17:39:27,606 - logger_file -INFO - User enters the quantity
+2020-11-16 17:39:27,788 - logger_file -INFO - User clicks on Blue Add to Cart Button
+2020-11-16 17:39:27,944 - logger_file -INFO - User successfully added product into the shopping cart
+2020-11-16 17:39:28,042 - logger_file -INFO - User clicks on Shopping Cart
+2020-11-16 17:39:28,458 - logger_file -INFO - Product is added successfully into the shopping cart
+2020-11-16 17:39:28,929 - logger_file -INFO - User successfully clicks on View Cart Button
+2020-11-16 17:39:28,990 - logger_file -INFO - User is on 'What would you like to do next?' section of page
+2020-11-16 17:39:29,033 - logger_file -INFO - User is in Gift Certificate Section
+2020-11-16 17:39:29,128 - logger_file -INFO - User exapnds the Gift Certificate Section
+2020-11-16 17:39:29,635 - logger_file -INFO - User enters value into the gift certificate field
+2020-11-16 17:39:29,753 - logger_file -INFO - User applies gift voucher
+2020-11-16 17:39:29,872 - logger_file -INFO - User applied gift certificate
+2020-11-16 17:39:31,054 - logger_file -INFO - Users applies gift certificate into shopping cart   passed
+2020-11-16 17:39:31,088 - logger_file -INFO - Scenario Confirmation of checkout table fieldsStarted 
+2020-11-16 17:39:38,870 - logger_file -INFO - Retail page is opened
+2020-11-16 17:39:38,891 - logger_file -INFO - Page title  is verified
+2020-11-16 17:39:39,644 - logger_file -INFO - Retail page is opened
+2020-11-16 17:39:39,655 - logger_file -INFO - Page title  is verified
+2020-11-16 17:39:40,125 - logger_file -INFO - User click on My Account
+2020-11-16 17:39:40,516 - logger_file -INFO - User click on Login
+2020-11-16 17:39:44,002 - logger_file -INFO - User enter email address
+2020-11-16 17:39:44,137 - logger_file -INFO - User enter password
+2020-11-16 17:39:44,921 - logger_file -INFO - User click on Login button
+2020-11-16 17:39:45,432 - logger_file -INFO - User clicks on Camera Button from product menu
+2020-11-16 17:39:45,873 - logger_file -INFO - user selects a canon product
+2020-11-16 17:39:45,967 - logger_file -INFO - User clicks on ADD TO CART button
+2020-11-16 17:39:47,569 - logger_file -INFO - user selects the available options for product
+2020-11-16 17:39:47,820 - logger_file -INFO - User enters the quantity
+2020-11-16 17:39:48,019 - logger_file -INFO - User clicks on Blue Add to Cart Button
+2020-11-16 17:39:48,239 - logger_file -INFO - User successfully added product into the shopping cart
+2020-11-16 17:39:48,358 - logger_file -INFO - User clicks on Shopping Cart
+2020-11-16 17:39:48,818 - logger_file -INFO - Product is added successfully into the shopping cart
+2020-11-16 17:39:49,644 - logger_file -INFO - User successfully clicks on View Cart Button
+2020-11-16 17:39:49,708 - logger_file -INFO - User is on 'What would you like to do next?' section of page
+2020-11-16 17:40:35,651 - logger_file -INFO - Confirmation of checkout table fields   failed
+2020-11-16 17:40:35,661 - logger_file -INFO - Scenario All three currencies should be presentStarted 
+2020-11-16 17:40:44,554 - logger_file -INFO - Retail page is opened
+2020-11-16 17:40:44,568 - logger_file -INFO - Page title  is verified
+2020-11-16 17:40:45,353 - logger_file -INFO - Retail page is opened
+2020-11-16 17:40:45,363 - logger_file -INFO - Page title  is verified
+2020-11-16 17:40:45,850 - logger_file -INFO - User click on My Account
+2020-11-16 17:40:46,247 - logger_file -INFO - User click on Login
+2020-11-16 17:40:49,731 - logger_file -INFO - User enter email address
+2020-11-16 17:40:49,875 - logger_file -INFO - User enter password
+2020-11-16 17:40:51,068 - logger_file -INFO - User click on Login button
+2020-11-16 17:40:51,590 - logger_file -INFO - User clicks on Camera Button from product menu
+2020-11-16 17:40:52,004 - logger_file -INFO - user selects a canon product
+2020-11-16 17:40:52,127 - logger_file -INFO - User clicks on Currency Button
+2020-11-16 17:40:52,178 - logger_file -INFO - Euro currency button is displayed
+2020-11-16 17:40:52,222 - logger_file -INFO - Pound Sterling currency button is displayed
+2020-11-16 17:40:52,265 - logger_file -INFO - US Dollar currency button is displayed
+2020-11-16 17:40:53,501 - logger_file -INFO - All three currencies should be present   passed
+2020-11-16 17:40:53,517 - logger_file -INFO - Scenario currency should be visible under product descriptionStarted 
+2020-11-16 17:41:01,826 - logger_file -INFO - Retail page is opened
+2020-11-16 17:41:01,844 - logger_file -INFO - Page title  is verified
+2020-11-16 17:41:02,597 - logger_file -INFO - Retail page is opened
+2020-11-16 17:41:02,608 - logger_file -INFO - Page title  is verified
+2020-11-16 17:41:03,092 - logger_file -INFO - User click on My Account
+2020-11-16 17:41:03,440 - logger_file -INFO - User click on Login
+2020-11-16 17:41:07,000 - logger_file -INFO - User enter email address
+2020-11-16 17:41:07,143 - logger_file -INFO - User enter password
+2020-11-16 17:41:08,058 - logger_file -INFO - User click on Login button
+2020-11-16 17:41:08,571 - logger_file -INFO - User clicks on Camera Button from product menu
+2020-11-16 17:41:08,984 - logger_file -INFO - user selects a canon product
+2020-11-16 17:41:09,092 - logger_file -INFO - User clicks on Currency Button
+2020-11-16 17:41:09,549 - logger_file -INFO - user clicks on US Dollar Button
+2020-11-16 17:41:10,069 - logger_file -INFO - Currency is US Dollar under product description
+2020-11-16 17:41:11,415 - logger_file -INFO - currency should be visible under product description   passed
+2020-11-16 17:41:11,428 - logger_file -INFO - Scenario currency should be visible under product detailsStarted 
+2020-11-16 17:41:19,048 - logger_file -INFO - Retail page is opened
+2020-11-16 17:41:19,066 - logger_file -INFO - Page title  is verified
+2020-11-16 17:41:19,824 - logger_file -INFO - Retail page is opened
+2020-11-16 17:41:19,834 - logger_file -INFO - Page title  is verified
+2020-11-16 17:41:20,303 - logger_file -INFO - User click on My Account
+2020-11-16 17:41:20,665 - logger_file -INFO - User click on Login
+2020-11-16 17:41:24,220 - logger_file -INFO - User enter email address
+2020-11-16 17:41:24,348 - logger_file -INFO - User enter password
+2020-11-16 17:41:25,245 - logger_file -INFO - User click on Login button
+2020-11-16 17:41:25,778 - logger_file -INFO - User clicks on Camera Button from product menu
+2020-11-16 17:41:26,229 - logger_file -INFO - user selects a canon product
+2020-11-16 17:41:27,499 - logger_file -INFO - User clicks on canon link
+2020-11-16 17:41:28,510 - logger_file -INFO - Curreny is US Dollar under product details
+2020-11-16 17:41:29,396 - logger_file -INFO - currency should be visible under product details   passed
+2020-11-16 17:41:29,407 - logger_file -INFO - Scenario currency should be visible under shopping cartStarted 
+2020-11-16 17:41:37,212 - logger_file -INFO - Retail page is opened
+2020-11-16 17:41:37,242 - logger_file -INFO - Page title  is verified
+2020-11-16 17:41:38,076 - logger_file -INFO - Retail page is opened
+2020-11-16 17:41:38,086 - logger_file -INFO - Page title  is verified
+2020-11-16 17:41:38,555 - logger_file -INFO - User click on My Account
+2020-11-16 17:41:38,892 - logger_file -INFO - User click on Login
+2020-11-16 17:41:42,370 - logger_file -INFO - User enter email address
+2020-11-16 17:41:42,499 - logger_file -INFO - User enter password
+2020-11-16 17:41:43,363 - logger_file -INFO - User click on Login button
+2020-11-16 17:41:43,868 - logger_file -INFO - User clicks on Camera Button from product menu
+2020-11-16 17:41:44,359 - logger_file -INFO - user selects a canon product
+2020-11-16 17:41:45,781 - logger_file -INFO - User clicks on canon link
+2020-11-16 17:41:46,248 - logger_file -INFO - User clicks on canon link
+2020-11-16 17:41:47,273 - logger_file -INFO - user selects the available options for product
+2020-11-16 17:41:47,506 - logger_file -INFO - User enters the quantity
+2020-11-16 17:41:47,758 - logger_file -INFO - User clicks on Blue Add to Cart Button
+2020-11-16 17:41:47,914 - logger_file -INFO - User successfully added product into the shopping cart
+2020-11-16 17:41:48,089 - logger_file -INFO - User clicks on Shopping Cart
+2020-11-16 17:41:48,811 - logger_file -INFO - Curreny is US Dollar under shopping cart
+2020-11-16 17:41:49,665 - logger_file -INFO - currency should be visible under shopping cart   passed
+2020-11-16 17:41:49,673 - logger_file -INFO - Scenario currency should be visible under wish list cartStarted 
+2020-11-16 17:41:57,323 - logger_file -INFO - Retail page is opened
+2020-11-16 17:41:57,338 - logger_file -INFO - Page title  is verified
+2020-11-16 17:41:58,116 - logger_file -INFO - Retail page is opened
+2020-11-16 17:41:58,125 - logger_file -INFO - Page title  is verified
+2020-11-16 17:41:58,617 - logger_file -INFO - User click on My Account
+2020-11-16 17:41:58,967 - logger_file -INFO - User click on Login
+2020-11-16 17:42:02,466 - logger_file -INFO - User enter email address
+2020-11-16 17:42:02,605 - logger_file -INFO - User enter password
+2020-11-16 17:42:03,497 - logger_file -INFO - User click on Login button
+2020-11-16 17:42:03,995 - logger_file -INFO - User clicks on Camera Button from product menu
+2020-11-16 17:42:04,454 - logger_file -INFO - user selects a canon product
+2020-11-16 17:42:04,580 - logger_file -INFO - User clicks on Wish List heart button
+2020-11-16 17:42:05,120 - logger_file -INFO - product successfully added into wish list
+2020-11-16 17:42:05,832 - logger_file -INFO - User clicked on WishList Button
+2020-11-16 17:42:07,032 - logger_file -INFO - currency should be visible under wish list cart   failed
+2020-11-16 17:42:07,038 - logger_file -INFO - Scenario default currency should be US Dollar upon loginStarted 
+2020-11-16 17:42:14,141 - logger_file -INFO - Retail page is opened
+2020-11-16 17:42:14,154 - logger_file -INFO - Page title  is verified
+2020-11-16 17:42:14,932 - logger_file -INFO - Retail page is opened
+2020-11-16 17:42:14,942 - logger_file -INFO - Page title  is verified
+2020-11-16 17:42:15,425 - logger_file -INFO - User click on My Account
+2020-11-16 17:42:15,765 - logger_file -INFO - User click on Login
+2020-11-16 17:42:19,244 - logger_file -INFO - User enter email address
+2020-11-16 17:42:19,391 - logger_file -INFO - User enter password
+2020-11-16 17:42:20,225 - logger_file -INFO - User click on Login button
+2020-11-16 17:42:20,725 - logger_file -INFO - User clicks on Camera Button from product menu
+2020-11-16 17:42:21,174 - logger_file -INFO - user selects a canon product
+2020-11-16 17:42:21,565 - logger_file -INFO - The retail page default currency is US Dollar
+2020-11-16 17:42:22,502 - logger_file -INFO - default currency should be US Dollar upon login   passed
+2020-11-16 17:42:22,510 - logger_file -INFO - Scenario select different currency as default when logging in and outStarted 
+2020-11-16 17:42:29,479 - logger_file -INFO - Retail page is opened
+2020-11-16 17:42:29,500 - logger_file -INFO - Page title  is verified
+2020-11-16 17:42:30,245 - logger_file -INFO - Retail page is opened
+2020-11-16 17:42:30,253 - logger_file -INFO - Page title  is verified
+2020-11-16 17:42:30,714 - logger_file -INFO - User click on My Account
+2020-11-16 17:42:31,073 - logger_file -INFO - User click on Login
+2020-11-16 17:42:34,556 - logger_file -INFO - User enter email address
+2020-11-16 17:42:34,687 - logger_file -INFO - User enter password
+2020-11-16 17:42:35,485 - logger_file -INFO - User click on Login button
+2020-11-16 17:42:35,996 - logger_file -INFO - User clicks on Camera Button from product menu
+2020-11-16 17:42:36,394 - logger_file -INFO - user selects a canon product
+2020-11-16 17:42:36,500 - logger_file -INFO - User clicks on Currency Button
+2020-11-16 17:42:36,983 - logger_file -INFO - User selects Pound Sterling as Default currency
+2020-11-16 17:42:37,077 - logger_file -INFO - User click on My Account
+2020-11-16 17:42:37,918 - logger_file -INFO - User click on My Account
+2020-11-16 17:42:38,278 - logger_file -INFO - User click on Login
+2020-11-16 17:42:41,773 - logger_file -INFO - User enter email address
+2020-11-16 17:42:41,882 - logger_file -INFO - User enter password
+2020-11-16 17:42:42,608 - logger_file -INFO - User click on Login button
+2020-11-16 17:42:43,411 - logger_file -INFO - Default Currency is changed to Pound Sterling
+2020-11-16 17:42:44,290 - logger_file -INFO - select different currency as default when logging in and out   passed
+2020-11-16 17:49:55,179 - logger_file -INFO - Scenario confirm calculation of price x quantity of totalStarted 
+2020-11-16 17:50:08,360 - logger_file -INFO - Retail page is opened
+2020-11-16 17:50:08,405 - logger_file -INFO - Page title  is verified
+2020-11-16 17:50:09,257 - logger_file -INFO - Retail page is opened
+2020-11-16 17:50:09,269 - logger_file -INFO - Page title  is verified
+2020-11-16 17:50:09,786 - logger_file -INFO - User click on My Account
+2020-11-16 17:50:10,128 - logger_file -INFO - User click on Login
+2020-11-16 17:50:13,649 - logger_file -INFO - User enter email address
+2020-11-16 17:50:13,777 - logger_file -INFO - User enter password
+2020-11-16 17:50:14,652 - logger_file -INFO - User click on Login button
+2020-11-16 17:50:15,248 - logger_file -INFO - User clicks on Camera Button from product menu
+2020-11-16 17:50:15,685 - logger_file -INFO - user selects a canon product
+2020-11-16 17:50:15,784 - logger_file -INFO - User clicks on ADD TO CART button
+2020-11-16 17:50:17,795 - logger_file -INFO - user selects the available options for product
+2020-11-16 17:50:18,025 - logger_file -INFO - User enters the quantity
+2020-11-16 17:50:18,242 - logger_file -INFO - User clicks on Blue Add to Cart Button
+2020-11-16 17:50:18,431 - logger_file -INFO - User successfully added product into the shopping cart
+2020-11-16 17:50:18,536 - logger_file -INFO - User clicks on Shopping Cart
+2020-11-16 17:50:18,977 - logger_file -INFO - Product is added successfully into the shopping cart
+2020-11-16 17:50:19,464 - logger_file -INFO - User successfully clicks on View Cart Button
+2020-11-16 17:50:19,521 - logger_file -INFO - Quantity field is present in shopping cart
+2020-11-16 17:50:19,564 - logger_file -INFO - Unit Price field is present in shopping cart
+2020-11-16 17:50:19,607 - logger_file -INFO - Total field is present in shopping cart
+2020-11-16 17:50:19,777 - logger_file -INFO - User updates the quantity of product in shopping cart
+2020-11-16 17:50:20,598 - logger_file -INFO - Quantity is successfully updated
+2020-11-16 17:51:07,830 - logger_file -INFO - confirm calculation of price x quantity of total   failed
+2020-11-16 17:55:19,342 - logger_file -INFO - Scenario confirm calculation of price x quantity of totalStarted 
+2020-11-16 17:55:30,617 - logger_file -INFO - Retail page is opened
+2020-11-16 17:55:30,653 - logger_file -INFO - Page title  is verified
+2020-11-16 17:55:31,494 - logger_file -INFO - Retail page is opened
+2020-11-16 17:55:31,504 - logger_file -INFO - Page title  is verified
+2020-11-16 17:55:32,018 - logger_file -INFO - User click on My Account
+2020-11-16 17:55:32,393 - logger_file -INFO - User click on Login
+2020-11-16 17:55:35,899 - logger_file -INFO - User enter email address
+2020-11-16 17:55:36,037 - logger_file -INFO - User enter password
+2020-11-16 17:55:36,954 - logger_file -INFO - User click on Login button
+2020-11-16 17:55:37,513 - logger_file -INFO - User clicks on Camera Button from product menu
+2020-11-16 17:55:39,136 - logger_file -INFO - user selects a canon product
+2020-11-16 17:55:39,230 - logger_file -INFO - User clicks on ADD TO CART button
+2020-11-16 17:55:41,147 - logger_file -INFO - user selects the available options for product
+2020-11-16 17:55:41,408 - logger_file -INFO - User enters the quantity
+2020-11-16 17:55:41,657 - logger_file -INFO - User clicks on Blue Add to Cart Button
+2020-11-16 17:55:41,810 - logger_file -INFO - User successfully added product into the shopping cart
+2020-11-16 17:55:41,919 - logger_file -INFO - User clicks on Shopping Cart
+2020-11-16 17:55:42,343 - logger_file -INFO - Product is added successfully into the shopping cart
+2020-11-16 17:55:42,900 - logger_file -INFO - User successfully clicks on View Cart Button
+2020-11-16 17:55:42,956 - logger_file -INFO - Quantity field is present in shopping cart
+2020-11-16 17:55:43,000 - logger_file -INFO - Unit Price field is present in shopping cart
+2020-11-16 17:55:43,042 - logger_file -INFO - Total field is present in shopping cart
+2020-11-16 17:55:43,227 - logger_file -INFO - User updates the quantity of product in shopping cart
+2020-11-16 17:55:44,200 - logger_file -INFO - Quantity is successfully updated
+2020-11-16 17:55:45,245 - logger_file -INFO - confirm calculation of price x quantity of total   failed
+2020-11-16 17:57:50,265 - logger_file -INFO - Scenario confirm calculation of price x quantity of totalStarted 
+2020-11-16 17:58:01,841 - logger_file -INFO - Retail page is opened
+2020-11-16 17:58:01,868 - logger_file -INFO - Page title  is verified
+2020-11-16 17:58:02,684 - logger_file -INFO - Retail page is opened
+2020-11-16 17:58:02,694 - logger_file -INFO - Page title  is verified
+2020-11-16 17:58:03,220 - logger_file -INFO - User click on My Account
+2020-11-16 17:58:03,665 - logger_file -INFO - User click on Login
+2020-11-16 17:58:07,172 - logger_file -INFO - User enter email address
+2020-11-16 17:58:07,302 - logger_file -INFO - User enter password
+2020-11-16 17:58:08,173 - logger_file -INFO - User click on Login button
+2020-11-16 17:58:08,794 - logger_file -INFO - User clicks on Camera Button from product menu
+2020-11-16 17:58:09,214 - logger_file -INFO - user selects a canon product
+2020-11-16 17:58:09,345 - logger_file -INFO - User clicks on ADD TO CART button
+2020-11-16 17:58:10,624 - logger_file -INFO - user selects the available options for product
+2020-11-16 17:58:11,601 - logger_file -INFO - User enters the quantity
+2020-11-16 17:58:11,837 - logger_file -INFO - User clicks on Blue Add to Cart Button
+2020-11-16 17:58:12,111 - logger_file -INFO - User successfully added product into the shopping cart
+2020-11-16 17:58:12,213 - logger_file -INFO - User clicks on Shopping Cart
+2020-11-16 17:58:12,637 - logger_file -INFO - Product is added successfully into the shopping cart
+2020-11-16 17:58:13,143 - logger_file -INFO - User successfully clicks on View Cart Button
+2020-11-16 17:58:13,203 - logger_file -INFO - Quantity field is present in shopping cart
+2020-11-16 17:58:13,247 - logger_file -INFO - Unit Price field is present in shopping cart
+2020-11-16 17:58:13,290 - logger_file -INFO - Total field is present in shopping cart
+2020-11-16 17:58:13,473 - logger_file -INFO - User updates the quantity of product in shopping cart
+2020-11-16 17:58:14,306 - logger_file -INFO - Quantity is successfully updated
+2020-11-16 17:58:14,355 - logger_file -INFO - Unit price amount confirmed
+2020-11-16 17:58:15,201 - logger_file -INFO - confirm calculation of price x quantity of total   passed
+2020-11-16 19:03:04,478 - logger_file -INFO - Scenario confirm calculation of price x quantity of totalStarted 
+2020-11-16 19:03:19,558 - logger_file -INFO - Retail page is opened
+2020-11-16 19:03:19,584 - logger_file -INFO - Page title  is verified
+2020-11-16 19:03:20,732 - logger_file -INFO - Retail page is opened
+2020-11-16 19:03:20,743 - logger_file -INFO - Page title  is verified
+2020-11-16 19:03:21,270 - logger_file -INFO - User click on My Account
+2020-11-16 19:03:21,629 - logger_file -INFO - User click on Login
+2020-11-16 19:03:25,206 - logger_file -INFO - User enter email address
+2020-11-16 19:03:25,341 - logger_file -INFO - User enter password
+2020-11-16 19:03:26,275 - logger_file -INFO - User click on Login button
+2020-11-16 19:03:26,980 - logger_file -INFO - User clicks on Camera Button from product menu
+2020-11-16 19:03:27,468 - logger_file -INFO - user selects a canon product
+2020-11-16 19:03:27,581 - logger_file -INFO - User clicks on ADD TO CART button
+2020-11-16 19:03:30,016 - logger_file -INFO - user selects the available options for product
+2020-11-16 19:03:30,319 - logger_file -INFO - User enters the quantity
+2020-11-16 19:03:30,535 - logger_file -INFO - User clicks on Blue Add to Cart Button
+2020-11-16 19:03:30,723 - logger_file -INFO - User successfully added product into the shopping cart
+2020-11-16 19:03:30,859 - logger_file -INFO - User clicks on Shopping Cart
+2020-11-16 19:03:31,310 - logger_file -INFO - Product is added successfully into the shopping cart
+2020-11-16 19:03:31,905 - logger_file -INFO - User successfully clicks on View Cart Button
+2020-11-16 19:03:31,959 - logger_file -INFO - Quantity field is present in shopping cart
+2020-11-16 19:03:32,006 - logger_file -INFO - Unit Price field is present in shopping cart
+2020-11-16 19:03:32,050 - logger_file -INFO - Total field is present in shopping cart
+2020-11-16 19:03:32,262 - logger_file -INFO - User updates the quantity of product in shopping cart
+2020-11-16 19:03:33,246 - logger_file -INFO - Quantity is successfully updated
+2020-11-16 19:03:33,302 - logger_file -INFO - Unit price amount confirmed
+2020-11-16 19:03:34,327 - logger_file -INFO - confirm calculation of price x quantity of total   passed
+2020-11-16 19:07:48,276 - logger_file -INFO - Scenario Add product to wish listStarted 
+2020-11-16 19:08:04,212 - logger_file -INFO - Retail page is opened
+2020-11-16 19:08:04,346 - logger_file -INFO - Page title  is verified
+2020-11-16 19:08:04,924 - logger_file -INFO - User click on My Account
+2020-11-16 19:08:05,349 - logger_file -INFO - User click on Login
+2020-11-16 19:08:09,068 - logger_file -INFO - User enter email address
+2020-11-16 19:08:09,220 - logger_file -INFO - User enter password
+2020-11-16 19:08:09,963 - logger_file -INFO - User click on Login button
+2020-11-16 19:08:10,492 - logger_file -INFO - User clicks on Camera Button from product menu
+2020-11-16 19:08:10,998 - logger_file -INFO - user selects a canon product
+2020-11-16 19:08:11,668 - logger_file -INFO - Wish list heart button is present
+2020-11-16 19:08:11,755 - logger_file -INFO - User clicks on Wish List heart button
+2020-11-16 19:08:12,275 - logger_file -INFO - product successfully added into wish list
+2020-11-16 19:08:13,290 - logger_file -INFO - Add product to wish list   passed
+2020-11-16 19:08:13,301 - logger_file -INFO - Scenario Add product to wish list by clicking on product linkStarted 
+2020-11-16 19:08:21,655 - logger_file -INFO - Retail page is opened
+2020-11-16 19:08:21,670 - logger_file -INFO - Page title  is verified
+2020-11-16 19:08:22,181 - logger_file -INFO - User click on My Account
+2020-11-16 19:08:22,707 - logger_file -INFO - User click on Login
+2020-11-16 19:08:26,183 - logger_file -INFO - User enter email address
+2020-11-16 19:08:26,319 - logger_file -INFO - User enter password
+2020-11-16 19:08:27,150 - logger_file -INFO - User click on Login button
+2020-11-16 19:08:27,710 - logger_file -INFO - User clicks on Camera Button from product menu
+2020-11-16 19:08:28,129 - logger_file -INFO - user selects a canon product
+2020-11-16 19:08:29,281 - logger_file -INFO - User clicks on canon link
+2020-11-16 19:08:29,890 - logger_file -INFO - Wish list heart button is present
+2020-11-16 19:08:29,979 - logger_file -INFO - User clicks on Wish List heart button
+2020-11-16 19:08:30,461 - logger_file -INFO - product successfully added into wish list
+2020-11-16 19:08:31,620 - logger_file -INFO - Add product to wish list by clicking on product link   passed
+2020-11-16 19:08:31,654 - logger_file -INFO - Scenario list of product added into wish listStarted 
+2020-11-16 19:08:39,409 - logger_file -INFO - Retail page is opened
+2020-11-16 19:08:39,423 - logger_file -INFO - Page title  is verified
+2020-11-16 19:08:39,880 - logger_file -INFO - User click on My Account
+2020-11-16 19:08:40,319 - logger_file -INFO - User click on Login
+2020-11-16 19:08:43,874 - logger_file -INFO - User enter email address
+2020-11-16 19:08:44,025 - logger_file -INFO - User enter password
+2020-11-16 19:08:54,932 - logger_file -INFO - User click on Login button
+2020-11-16 19:08:55,469 - logger_file -INFO - User clicks on Camera Button from product menu
+2020-11-16 19:08:55,891 - logger_file -INFO - user selects a canon product
+2020-11-16 19:08:56,441 - logger_file -INFO - Wish list heart button is present
+2020-11-16 19:08:56,522 - logger_file -INFO - User clicks on Wish List heart button
+2020-11-16 19:08:57,041 - logger_file -INFO - product successfully added into wish list
+2020-11-16 19:08:58,154 - logger_file -INFO - User clicked on WishList Button
+2020-11-16 19:08:58,508 - logger_file -INFO - Product confirmed to be in the wish list
+2020-11-16 19:08:59,373 - logger_file -INFO - list of product added into wish list   passed
+2020-11-16 19:08:59,388 - logger_file -INFO - Scenario Add product into shopping cart scenario oneStarted 
+2020-11-16 19:09:06,770 - logger_file -INFO - Retail page is opened
+2020-11-16 19:09:06,790 - logger_file -INFO - Page title  is verified
+2020-11-16 19:09:07,277 - logger_file -INFO - User clicks on Camera Button from product menu
+2020-11-16 19:09:07,707 - logger_file -INFO - user selects a canon product
+2020-11-16 19:09:07,835 - logger_file -INFO - User clicks on ADD TO CART button
+2020-11-16 19:09:17,720 - logger_file -INFO - User successfully added product into the shopping cart
+2020-11-16 19:09:18,653 - logger_file -INFO - Add product into shopping cart scenario one   passed
+2020-11-16 19:09:18,666 - logger_file -INFO - Scenario Add product into shopping cart scenario twoStarted 
+2020-11-16 19:09:25,961 - logger_file -INFO - Retail page is opened
+2020-11-16 19:09:25,984 - logger_file -INFO - Page title  is verified
+2020-11-16 19:09:26,519 - logger_file -INFO - User clicks on Camera Button from product menu
+2020-11-16 19:09:27,064 - logger_file -INFO - user selects a canon product
+2020-11-16 19:09:29,903 - logger_file -INFO - User clicks on canon link
+2020-11-16 19:09:30,144 - logger_file -INFO - user selects the available options for product
+2020-11-16 19:09:30,408 - logger_file -INFO - User enters the quantity
+2020-11-16 19:09:30,624 - logger_file -INFO - User clicks on Blue Add to Cart Button
+2020-11-16 19:09:30,798 - logger_file -INFO - User successfully added product into the shopping cart
+2020-11-16 19:09:31,669 - logger_file -INFO - Add product into shopping cart scenario two   passed
+2020-11-16 19:09:31,696 - logger_file -INFO - Scenario confirmation of quantities of product added to shopping cartStarted 
+2020-11-16 19:09:39,119 - logger_file -INFO - Retail page is opened
+2020-11-16 19:09:39,135 - logger_file -INFO - Page title  is verified
+2020-11-16 19:09:39,628 - logger_file -INFO - User clicks on Camera Button from product menu
+2020-11-16 19:09:40,087 - logger_file -INFO - user selects a canon product
+2020-11-16 19:09:41,370 - logger_file -INFO - User clicks on canon link
+2020-11-16 19:09:42,031 - logger_file -INFO - user selects the available options for product
+2020-11-16 19:09:42,236 - logger_file -INFO - User enters the quantity
+2020-11-16 19:09:42,459 - logger_file -INFO - User clicks on Blue Add to Cart Button
+2020-11-16 19:09:42,628 - logger_file -INFO - User successfully added product into the shopping cart
+2020-11-16 19:09:42,735 - logger_file -INFO - User clicks on Shopping Cart
+2020-11-16 19:09:43,151 - logger_file -INFO - Product is added successfully into the shopping cart
+2020-11-16 19:09:43,987 - logger_file -INFO - confirmation of quantities of product added to shopping cart   passed
+2020-11-16 19:09:43,999 - logger_file -INFO - Scenario Confirmation of adding more quantities of productStarted 
+2020-11-16 19:09:51,163 - logger_file -INFO - Retail page is opened
+2020-11-16 19:09:51,175 - logger_file -INFO - Page title  is verified
+2020-11-16 19:09:51,698 - logger_file -INFO - User clicks on Camera Button from product menu
+2020-11-16 19:09:52,140 - logger_file -INFO - user selects a canon product
+2020-11-16 19:09:53,542 - logger_file -INFO - User clicks on canon link
+2020-11-16 19:09:54,071 - logger_file -INFO - user selects the available options for product
+2020-11-16 19:09:54,334 - logger_file -INFO - User enters the quantity
+2020-11-16 19:09:54,541 - logger_file -INFO - User clicks on Blue Add to Cart Button
+2020-11-16 19:09:54,679 - logger_file -INFO - User successfully added product into the shopping cart
+2020-11-16 19:09:54,786 - logger_file -INFO - User clicks on Shopping Cart
+2020-11-16 19:09:55,203 - logger_file -INFO - Product is added successfully into the shopping cart
+2020-11-16 19:09:55,413 - logger_file -INFO - User clicks on Blue Add to Cart Button
+2020-11-16 19:09:55,475 - logger_file -INFO - User clicks on Shopping Cart
+2020-11-16 19:09:55,694 - logger_file -INFO - Product quantity increase confirmed
+2020-11-16 19:09:56,555 - logger_file -INFO - Confirmation of adding more quantities of product   passed
+2020-11-16 19:09:56,575 - logger_file -INFO - Scenario Execute all information from Actor TableStarted 
+2020-11-16 19:10:03,134 - logger_file -INFO - Connection has been established
+2020-11-16 19:10:03,493 - logger_file -INFO - select * from public.actor has been executed
+2020-11-16 19:10:03,625 - logger_file -INFO - Resultset is stored in csv file in outcome folder
+2020-11-16 19:10:03,627 - logger_file -INFO - DataBase connection has been closed
+2020-11-16 19:10:04,491 - logger_file -INFO - Execute all information from Actor Table   passed
+2020-11-16 19:10:04,500 - logger_file -INFO - Scenario Login to MyAccountStarted 
+2020-11-16 19:10:12,737 - logger_file -INFO - Retail page is opened
+2020-11-16 19:10:12,750 - logger_file -INFO - Page title  is verified
+2020-11-16 19:10:13,222 - logger_file -INFO - User click on My Account
+2020-11-16 19:10:13,636 - logger_file -INFO - User click on Login
+2020-11-16 19:10:17,112 - logger_file -INFO - User enter email address
+2020-11-16 19:10:17,235 - logger_file -INFO - User enter password
+2020-11-16 19:10:18,090 - logger_file -INFO - User click on Login button
+2020-11-16 19:10:19,375 - logger_file -INFO - Login to MyAccount   passed
+2020-11-16 19:10:19,399 - logger_file -INFO - Scenario Login to Retail Site with multiple usersStarted 
+2020-11-16 19:10:26,680 - logger_file -INFO - Retail page is opened
+2020-11-16 19:10:26,714 - logger_file -INFO - Page title  is verified
+2020-11-16 19:10:27,255 - logger_file -INFO - User click on My Account
+2020-11-16 19:10:27,683 - logger_file -INFO - User click on Login
+2020-11-16 19:10:31,174 - logger_file -INFO - User enter email address
+2020-11-16 19:10:31,307 - logger_file -INFO - User enter password
+2020-11-16 19:10:32,123 - logger_file -INFO - User click on Login button
+2020-11-16 19:10:33,386 - logger_file -INFO - Login to Retail Site with multiple users   passed
+2020-11-16 19:10:33,397 - logger_file -INFO - Scenario Login to Retail Site with multiple usersStarted 
+2020-11-16 19:10:40,735 - logger_file -INFO - Retail page is opened
+2020-11-16 19:10:40,747 - logger_file -INFO - Page title  is verified
+2020-11-16 19:10:41,210 - logger_file -INFO - User click on My Account
+2020-11-16 19:10:41,588 - logger_file -INFO - User click on Login
+2020-11-16 19:10:45,171 - logger_file -INFO - User enter email address
+2020-11-16 19:10:45,338 - logger_file -INFO - User enter password
+2020-11-16 19:10:46,132 - logger_file -INFO - User click on Login button
+2020-11-16 19:10:47,366 - logger_file -INFO - Login to Retail Site with multiple users   passed
+2020-11-16 19:10:47,380 - logger_file -INFO - Scenario Login to Retail Site with multiple usersStarted 
+2020-11-16 19:10:54,984 - logger_file -INFO - Retail page is opened
+2020-11-16 19:10:55,001 - logger_file -INFO - Page title  is verified
+2020-11-16 19:10:55,496 - logger_file -INFO - User click on My Account
+2020-11-16 19:10:55,920 - logger_file -INFO - User click on Login
+2020-11-16 19:10:59,427 - logger_file -INFO - User enter email address
+2020-11-16 19:10:59,586 - logger_file -INFO - User enter password
+2020-11-16 19:11:00,398 - logger_file -INFO - User click on Login button
+2020-11-16 19:11:01,731 - logger_file -INFO - Login to Retail Site with multiple users   passed
+2020-11-16 19:11:01,742 - logger_file -INFO - Scenario Log out from MyAccountStarted 
+2020-11-16 19:11:09,558 - logger_file -INFO - Retail page is opened
+2020-11-16 19:11:09,581 - logger_file -INFO - Page title  is verified
+2020-11-16 19:11:10,094 - logger_file -INFO - User click on My Account
+2020-11-16 19:11:10,611 - logger_file -INFO - User click on Login
+2020-11-16 19:11:14,128 - logger_file -INFO - User enter email address
+2020-11-16 19:11:14,255 - logger_file -INFO - User enter password
+2020-11-16 19:11:15,045 - logger_file -INFO - User click on Login button
+2020-11-16 19:11:15,646 - logger_file -INFO - User click on My Account
+2020-11-16 19:11:18,636 - logger_file -INFO - Log out from MyAccount   passed
+2020-11-16 19:11:18,656 - logger_file -INFO - Scenario Remove product from wish listStarted 
+2020-11-16 19:11:26,420 - logger_file -INFO - Retail page is opened
+2020-11-16 19:11:26,435 - logger_file -INFO - Page title  is verified
+2020-11-16 19:11:26,897 - logger_file -INFO - User click on My Account
+2020-11-16 19:11:27,281 - logger_file -INFO - User click on Login
+2020-11-16 19:11:30,752 - logger_file -INFO - User enter email address
+2020-11-16 19:11:30,873 - logger_file -INFO - User enter password
+2020-11-16 19:11:31,725 - logger_file -INFO - User click on Login button
+2020-11-16 19:11:32,358 - logger_file -INFO - User clicks on Camera Button from product menu
+2020-11-16 19:11:32,837 - logger_file -INFO - user selects a canon product
+2020-11-16 19:11:33,412 - logger_file -INFO - Wish list heart button is present
+2020-11-16 19:11:33,512 - logger_file -INFO - User clicks on Wish List heart button
+2020-11-16 19:11:33,979 - logger_file -INFO - product successfully added into wish list
+2020-11-16 19:11:34,473 - logger_file -INFO - User clicked on WishList Button
+2020-11-16 19:11:34,861 - logger_file -INFO - Product confirmed to be in the wish list
+2020-11-16 19:11:47,672 - logger_file -INFO - User clicks on red 'X' remove from wish list button
+2020-11-16 19:11:47,733 - logger_file -INFO - User successfully removes the product from the wish list cart
+2020-11-16 19:11:48,607 - logger_file -INFO - Remove product from wish list   passed
+2020-11-16 19:11:48,620 - logger_file -INFO - Scenario Removing product from shopping cartStarted 
+2020-11-16 19:11:56,471 - logger_file -INFO - Retail page is opened
+2020-11-16 19:11:56,487 - logger_file -INFO - Page title  is verified
+2020-11-16 19:11:56,955 - logger_file -INFO - User clicks on Camera Button from product menu
+2020-11-16 19:11:57,388 - logger_file -INFO - user selects a canon product
+2020-11-16 19:11:59,084 - logger_file -INFO - User clicks on canon link
+2020-11-16 19:11:59,420 - logger_file -INFO - user selects the available options for product
+2020-11-16 19:12:00,108 - logger_file -INFO - User enters the quantity
+2020-11-16 19:12:00,780 - logger_file -INFO - User clicks on Blue Add to Cart Button
+2020-11-16 19:12:00,846 - logger_file -INFO - User successfully added product into the shopping cart
+2020-11-16 19:12:00,970 - logger_file -INFO - User clicks on Shopping Cart
+2020-11-16 19:12:01,430 - logger_file -INFO - Product is added successfully into the shopping cart
+2020-11-16 19:12:01,552 - logger_file -INFO - Produt is removed from the cart
+2020-11-16 19:12:02,053 - logger_file -INFO - Cart is successfully emptied
+2020-11-16 19:12:02,942 - logger_file -INFO - Removing product from shopping cart   passed
+2020-11-16 19:12:02,957 - logger_file -INFO - Scenario Register Account for new Retail userStarted 
+2020-11-16 19:12:11,323 - logger_file -INFO - Retail page is opened
+2020-11-16 19:12:11,338 - logger_file -INFO - Page title  is verified
+2020-11-16 19:12:11,805 - logger_file -INFO - User click on My Account
+2020-11-16 19:12:12,455 - logger_file -INFO - user clicked on Register
+2020-11-16 19:12:13,389 - logger_file -INFO - user completed Register form with required information
+2020-11-16 19:12:19,766 - logger_file -INFO - Account was created Successfully
+2020-11-16 19:12:20,917 - logger_file -INFO - Register Account for new Retail user   passed
+2020-11-16 19:12:20,935 - logger_file -INFO - Scenario confirm calculation of price x quantity of totalStarted 
+2020-11-16 19:12:28,892 - logger_file -INFO - Retail page is opened
+2020-11-16 19:12:28,908 - logger_file -INFO - Page title  is verified
+2020-11-16 19:12:29,598 - logger_file -INFO - Retail page is opened
+2020-11-16 19:12:29,610 - logger_file -INFO - Page title  is verified
+2020-11-16 19:12:30,102 - logger_file -INFO - User click on My Account
+2020-11-16 19:12:30,444 - logger_file -INFO - User click on Login
+2020-11-16 19:12:34,065 - logger_file -INFO - User enter email address
+2020-11-16 19:12:34,238 - logger_file -INFO - User enter password
+2020-11-16 19:12:35,000 - logger_file -INFO - User click on Login button
+2020-11-16 19:12:35,491 - logger_file -INFO - User clicks on Camera Button from product menu
+2020-11-16 19:12:35,899 - logger_file -INFO - user selects a canon product
+2020-11-16 19:12:35,999 - logger_file -INFO - User clicks on ADD TO CART button
+2020-11-16 19:12:37,739 - logger_file -INFO - user selects the available options for product
+2020-11-16 19:12:38,016 - logger_file -INFO - User enters the quantity
+2020-11-16 19:12:38,284 - logger_file -INFO - User clicks on Blue Add to Cart Button
+2020-11-16 19:12:38,449 - logger_file -INFO - User successfully added product into the shopping cart
+2020-11-16 19:12:38,563 - logger_file -INFO - User clicks on Shopping Cart
+2020-11-16 19:12:38,961 - logger_file -INFO - Product is added successfully into the shopping cart
+2020-11-16 19:12:39,491 - logger_file -INFO - User successfully clicks on View Cart Button
+2020-11-16 19:12:39,553 - logger_file -INFO - Quantity field is present in shopping cart
+2020-11-16 19:12:39,596 - logger_file -INFO - Unit Price field is present in shopping cart
+2020-11-16 19:12:39,637 - logger_file -INFO - Total field is present in shopping cart
+2020-11-16 19:12:39,824 - logger_file -INFO - User updates the quantity of product in shopping cart
+2020-11-16 19:12:40,684 - logger_file -INFO - Quantity is successfully updated
+2020-11-16 19:12:40,728 - logger_file -INFO - Unit price amount confirmed
+2020-11-16 19:12:41,597 - logger_file -INFO - confirm calculation of price x quantity of total   passed
+2020-11-16 19:12:41,615 - logger_file -INFO - Scenario user adds coupon code into shopping cartStarted 
+2020-11-16 19:12:49,877 - logger_file -INFO - Retail page is opened
+2020-11-16 19:12:49,904 - logger_file -INFO - Page title  is verified
+2020-11-16 19:12:50,606 - logger_file -INFO - Retail page is opened
+2020-11-16 19:12:50,617 - logger_file -INFO - Page title  is verified
+2020-11-16 19:12:51,119 - logger_file -INFO - User click on My Account
+2020-11-16 19:12:51,469 - logger_file -INFO - User click on Login
+2020-11-16 19:12:54,964 - logger_file -INFO - User enter email address
+2020-11-16 19:12:55,097 - logger_file -INFO - User enter password
+2020-11-16 19:12:55,905 - logger_file -INFO - User click on Login button
+2020-11-16 19:12:56,396 - logger_file -INFO - User clicks on Camera Button from product menu
+2020-11-16 19:12:56,903 - logger_file -INFO - user selects a canon product
+2020-11-16 19:12:57,002 - logger_file -INFO - User clicks on ADD TO CART button
+2020-11-16 19:12:58,873 - logger_file -INFO - user selects the available options for product
+2020-11-16 19:12:59,130 - logger_file -INFO - User enters the quantity
+2020-11-16 19:12:59,319 - logger_file -INFO - User clicks on Blue Add to Cart Button
+2020-11-16 19:12:59,489 - logger_file -INFO - User successfully added product into the shopping cart
+2020-11-16 19:12:59,591 - logger_file -INFO - User clicks on Shopping Cart
+2020-11-16 19:12:59,987 - logger_file -INFO - Product is added successfully into the shopping cart
+2020-11-16 19:13:00,496 - logger_file -INFO - User successfully clicks on View Cart Button
+2020-11-16 19:13:00,553 - logger_file -INFO - User is on 'What would you like to do next?' section of page
+2020-11-16 19:13:00,691 - logger_file -INFO - User clicks on Use Coupon Code Element
+2020-11-16 19:13:00,866 - logger_file -INFO - User enters coupon code successfully
+2020-11-16 19:13:01,063 - logger_file -INFO - User clicks on Apply Coupon Button
+2020-11-16 19:13:01,169 - logger_file -INFO - Coupon Successfully added
+2020-11-16 19:13:02,075 - logger_file -INFO - user adds coupon code into shopping cart   passed
+2020-11-16 19:13:02,084 - logger_file -INFO - Scenario User completes Estimate Shipping & Taxes sectionStarted 
+2020-11-16 19:13:09,444 - logger_file -INFO - Retail page is opened
+2020-11-16 19:13:09,457 - logger_file -INFO - Page title  is verified
+2020-11-16 19:13:10,200 - logger_file -INFO - Retail page is opened
+2020-11-16 19:13:10,211 - logger_file -INFO - Page title  is verified
+2020-11-16 19:13:10,691 - logger_file -INFO - User click on My Account
+2020-11-16 19:13:11,068 - logger_file -INFO - User click on Login
+2020-11-16 19:13:14,701 - logger_file -INFO - User enter email address
+2020-11-16 19:13:14,919 - logger_file -INFO - User enter password
+2020-11-16 19:13:15,788 - logger_file -INFO - User click on Login button
+2020-11-16 19:13:16,355 - logger_file -INFO - User clicks on Camera Button from product menu
+2020-11-16 19:13:16,790 - logger_file -INFO - user selects a canon product
+2020-11-16 19:13:16,890 - logger_file -INFO - User clicks on ADD TO CART button
+2020-11-16 19:13:18,526 - logger_file -INFO - user selects the available options for product
+2020-11-16 19:13:19,083 - logger_file -INFO - User enters the quantity
+2020-11-16 19:13:19,330 - logger_file -INFO - User clicks on Blue Add to Cart Button
+2020-11-16 19:13:19,508 - logger_file -INFO - User successfully added product into the shopping cart
+2020-11-16 19:13:19,688 - logger_file -INFO - User clicks on Shopping Cart
+2020-11-16 19:13:20,155 - logger_file -INFO - Product is added successfully into the shopping cart
+2020-11-16 19:13:20,612 - logger_file -INFO - User successfully clicks on View Cart Button
+2020-11-16 19:13:20,668 - logger_file -INFO - User is on 'What would you like to do next?' section of page
+2020-11-16 19:13:20,752 - logger_file -INFO - User clicks on Estimate Shipping & Taxes Section
+2020-11-16 19:13:25,930 - logger_file -INFO - User updates Country field in Shopping Cart
+2020-11-16 19:13:26,514 - logger_file -INFO - User updates Region/State field in Shopping Cart
+2020-11-16 19:13:26,811 - logger_file -INFO - User Enters value into Post Code Field
+2020-11-16 19:13:26,942 - logger_file -INFO - User clicks on Get Quote Button
+2020-11-16 19:13:27,218 - logger_file -INFO - User clicks on Flat Shipping & Rate Button
+2020-11-16 19:13:27,331 - logger_file -INFO - User clicks on Apply Shipping Button
+2020-11-16 19:13:27,719 - logger_file -INFO - Successfully updated estimate of shipping
+2020-11-16 19:13:28,584 - logger_file -INFO - User completes Estimate Shipping & Taxes section   passed
+2020-11-16 19:13:28,591 - logger_file -INFO - Scenario Users applies gift certificate into shopping cartStarted 
+2020-11-16 19:13:35,558 - logger_file -INFO - Retail page is opened
+2020-11-16 19:13:35,574 - logger_file -INFO - Page title  is verified
+2020-11-16 19:13:36,308 - logger_file -INFO - Retail page is opened
+2020-11-16 19:13:36,319 - logger_file -INFO - Page title  is verified
+2020-11-16 19:13:36,806 - logger_file -INFO - User click on My Account
+2020-11-16 19:13:37,202 - logger_file -INFO - User click on Login
+2020-11-16 19:13:40,703 - logger_file -INFO - User enter email address
+2020-11-16 19:13:40,834 - logger_file -INFO - User enter password
+2020-11-16 19:13:41,636 - logger_file -INFO - User click on Login button
+2020-11-16 19:13:42,157 - logger_file -INFO - User clicks on Camera Button from product menu
+2020-11-16 19:13:42,598 - logger_file -INFO - user selects a canon product
+2020-11-16 19:13:42,696 - logger_file -INFO - User clicks on ADD TO CART button
+2020-11-16 19:13:44,770 - logger_file -INFO - user selects the available options for product
+2020-11-16 19:13:45,261 - logger_file -INFO - User enters the quantity
+2020-11-16 19:13:45,536 - logger_file -INFO - User clicks on Blue Add to Cart Button
+2020-11-16 19:13:45,744 - logger_file -INFO - User successfully added product into the shopping cart
+2020-11-16 19:13:45,889 - logger_file -INFO - User clicks on Shopping Cart
+2020-11-16 19:13:46,312 - logger_file -INFO - Product is added successfully into the shopping cart
+2020-11-16 19:13:46,784 - logger_file -INFO - User successfully clicks on View Cart Button
+2020-11-16 19:13:46,847 - logger_file -INFO - User is on 'What would you like to do next?' section of page
+2020-11-16 19:13:46,894 - logger_file -INFO - User is in Gift Certificate Section
+2020-11-16 19:13:46,991 - logger_file -INFO - User exapnds the Gift Certificate Section
+2020-11-16 19:13:47,519 - logger_file -INFO - User enters value into the gift certificate field
+2020-11-16 19:13:47,649 - logger_file -INFO - User applies gift voucher
+2020-11-16 19:13:47,790 - logger_file -INFO - User applied gift certificate
+2020-11-16 19:13:49,216 - logger_file -INFO - Users applies gift certificate into shopping cart   passed
+2020-11-16 19:13:49,230 - logger_file -INFO - Scenario Confirmation of checkout table fieldsStarted 
+2020-11-16 19:13:56,664 - logger_file -INFO - Retail page is opened
+2020-11-16 19:13:56,677 - logger_file -INFO - Page title  is verified
+2020-11-16 19:13:57,454 - logger_file -INFO - Retail page is opened
+2020-11-16 19:13:57,465 - logger_file -INFO - Page title  is verified
+2020-11-16 19:13:57,937 - logger_file -INFO - User click on My Account
+2020-11-16 19:13:58,286 - logger_file -INFO - User click on Login
+2020-11-16 19:14:01,895 - logger_file -INFO - User enter email address
+2020-11-16 19:14:02,126 - logger_file -INFO - User enter password
+2020-11-16 19:14:02,966 - logger_file -INFO - User click on Login button
+2020-11-16 19:14:03,477 - logger_file -INFO - User clicks on Camera Button from product menu
+2020-11-16 19:14:03,895 - logger_file -INFO - user selects a canon product
+2020-11-16 19:14:03,994 - logger_file -INFO - User clicks on ADD TO CART button
+2020-11-16 19:14:05,323 - logger_file -INFO - user selects the available options for product
+2020-11-16 19:14:05,595 - logger_file -INFO - User enters the quantity
+2020-11-16 19:14:05,793 - logger_file -INFO - User clicks on Blue Add to Cart Button
+2020-11-16 19:14:05,958 - logger_file -INFO - User successfully added product into the shopping cart
+2020-11-16 19:14:06,067 - logger_file -INFO - User clicks on Shopping Cart
+2020-11-16 19:14:06,482 - logger_file -INFO - Product is added successfully into the shopping cart
+2020-11-16 19:14:07,142 - logger_file -INFO - User successfully clicks on View Cart Button
+2020-11-16 19:14:07,208 - logger_file -INFO - User is on 'What would you like to do next?' section of page
+2020-11-16 19:14:07,306 - logger_file -INFO - User clicks on Estimate Shipping & Taxes Section
+2020-11-16 19:14:14,697 - logger_file -INFO - Confirmation of checkout table fields   failed
+2020-11-16 19:14:14,717 - logger_file -INFO - Scenario All three currencies should be presentStarted 
+2020-11-16 19:14:22,570 - logger_file -INFO - Retail page is opened
+2020-11-16 19:14:22,581 - logger_file -INFO - Page title  is verified
+2020-11-16 19:14:23,379 - logger_file -INFO - Retail page is opened
+2020-11-16 19:14:23,390 - logger_file -INFO - Page title  is verified
+2020-11-16 19:14:23,963 - logger_file -INFO - User click on My Account
+2020-11-16 19:14:24,625 - logger_file -INFO - User click on Login
+2020-11-16 19:14:28,111 - logger_file -INFO - User enter email address
+2020-11-16 19:14:28,247 - logger_file -INFO - User enter password
+2020-11-16 19:14:29,053 - logger_file -INFO - User click on Login button
+2020-11-16 19:14:29,584 - logger_file -INFO - User clicks on Camera Button from product menu
+2020-11-16 19:14:30,007 - logger_file -INFO - user selects a canon product
+2020-11-16 19:14:30,128 - logger_file -INFO - User clicks on Currency Button
+2020-11-16 19:14:30,175 - logger_file -INFO - Euro currency button is displayed
+2020-11-16 19:14:30,217 - logger_file -INFO - Pound Sterling currency button is displayed
+2020-11-16 19:14:30,264 - logger_file -INFO - US Dollar currency button is displayed
+2020-11-16 19:14:31,434 - logger_file -INFO - All three currencies should be present   passed
+2020-11-16 19:14:31,440 - logger_file -INFO - Scenario currency should be visible under product descriptionStarted 
+2020-11-16 19:14:38,542 - logger_file -INFO - Retail page is opened
+2020-11-16 19:14:38,570 - logger_file -INFO - Page title  is verified
+2020-11-16 19:14:39,531 - logger_file -INFO - Retail page is opened
+2020-11-16 19:14:39,542 - logger_file -INFO - Page title  is verified
+2020-11-16 19:14:40,051 - logger_file -INFO - User click on My Account
+2020-11-16 19:14:40,456 - logger_file -INFO - User click on Login
+2020-11-16 19:14:43,917 - logger_file -INFO - User enter email address
+2020-11-16 19:14:44,046 - logger_file -INFO - User enter password
+2020-11-16 19:14:44,845 - logger_file -INFO - User click on Login button
+2020-11-16 19:14:45,446 - logger_file -INFO - User clicks on Camera Button from product menu
+2020-11-16 19:14:46,446 - logger_file -INFO - user selects a canon product
+2020-11-16 19:14:46,558 - logger_file -INFO - User clicks on Currency Button
+2020-11-16 19:14:46,996 - logger_file -INFO - user clicks on US Dollar Button
+2020-11-16 19:14:47,528 - logger_file -INFO - Currency is US Dollar under product description
+2020-11-16 19:14:48,534 - logger_file -INFO - currency should be visible under product description   passed
+2020-11-16 19:14:48,540 - logger_file -INFO - Scenario currency should be visible under product detailsStarted 
+2020-11-16 19:14:55,509 - logger_file -INFO - Retail page is opened
+2020-11-16 19:14:55,520 - logger_file -INFO - Page title  is verified
+2020-11-16 19:14:56,258 - logger_file -INFO - Retail page is opened
+2020-11-16 19:14:56,266 - logger_file -INFO - Page title  is verified
+2020-11-16 19:14:56,742 - logger_file -INFO - User click on My Account
+2020-11-16 19:14:57,099 - logger_file -INFO - User click on Login
+2020-11-16 19:15:00,623 - logger_file -INFO - User enter email address
+2020-11-16 19:15:00,763 - logger_file -INFO - User enter password
+2020-11-16 19:15:01,626 - logger_file -INFO - User click on Login button
+2020-11-16 19:15:02,106 - logger_file -INFO - User clicks on Camera Button from product menu
+2020-11-16 19:15:02,506 - logger_file -INFO - user selects a canon product
+2020-11-16 19:15:03,869 - logger_file -INFO - User clicks on canon link
+2020-11-16 19:15:04,288 - logger_file -INFO - Curreny is US Dollar under product details
+2020-11-16 19:15:05,148 - logger_file -INFO - currency should be visible under product details   passed
+2020-11-16 19:15:05,155 - logger_file -INFO - Scenario currency should be visible under shopping cartStarted 
+2020-11-16 19:15:12,399 - logger_file -INFO - Retail page is opened
+2020-11-16 19:15:12,411 - logger_file -INFO - Page title  is verified
+2020-11-16 19:15:13,191 - logger_file -INFO - Retail page is opened
+2020-11-16 19:15:13,202 - logger_file -INFO - Page title  is verified
+2020-11-16 19:15:13,710 - logger_file -INFO - User click on My Account
+2020-11-16 19:15:14,036 - logger_file -INFO - User click on Login
+2020-11-16 19:15:17,513 - logger_file -INFO - User enter email address
+2020-11-16 19:15:17,643 - logger_file -INFO - User enter password
+2020-11-16 19:15:18,379 - logger_file -INFO - User click on Login button
+2020-11-16 19:15:18,903 - logger_file -INFO - User clicks on Camera Button from product menu
+2020-11-16 19:15:19,313 - logger_file -INFO - user selects a canon product
+2020-11-16 19:15:20,619 - logger_file -INFO - User clicks on canon link
+2020-11-16 19:15:22,355 - logger_file -INFO - User clicks on canon link
+2020-11-16 19:15:22,603 - logger_file -INFO - user selects the available options for product
+2020-11-16 19:15:22,868 - logger_file -INFO - User enters the quantity
+2020-11-16 19:15:23,093 - logger_file -INFO - User clicks on Blue Add to Cart Button
+2020-11-16 19:15:23,648 - logger_file -INFO - User successfully added product into the shopping cart
+2020-11-16 19:15:23,767 - logger_file -INFO - User clicks on Shopping Cart
+2020-11-16 19:15:24,174 - logger_file -INFO - Curreny is US Dollar under shopping cart
+2020-11-16 19:15:25,088 - logger_file -INFO - currency should be visible under shopping cart   passed
+2020-11-16 19:15:25,099 - logger_file -INFO - Scenario currency should be visible under wish list cartStarted 
+2020-11-16 19:15:32,493 - logger_file -INFO - Retail page is opened
+2020-11-16 19:15:32,506 - logger_file -INFO - Page title  is verified
+2020-11-16 19:15:33,339 - logger_file -INFO - Retail page is opened
+2020-11-16 19:15:33,350 - logger_file -INFO - Page title  is verified
+2020-11-16 19:15:33,843 - logger_file -INFO - User click on My Account
+2020-11-16 19:15:34,189 - logger_file -INFO - User click on Login
+2020-11-16 19:15:37,667 - logger_file -INFO - User enter email address
+2020-11-16 19:15:37,796 - logger_file -INFO - User enter password
+2020-11-16 19:15:38,636 - logger_file -INFO - User click on Login button
+2020-11-16 19:15:39,202 - logger_file -INFO - User clicks on Camera Button from product menu
+2020-11-16 19:15:39,694 - logger_file -INFO - user selects a canon product
+2020-11-16 19:15:39,854 - logger_file -INFO - User clicks on Wish List heart button
+2020-11-16 19:15:40,427 - logger_file -INFO - product successfully added into wish list
+2020-11-16 19:15:41,137 - logger_file -INFO - User clicked on WishList Button
+2020-11-16 19:15:42,317 - logger_file -INFO - currency should be visible under wish list cart   failed
+2020-11-16 19:15:42,341 - logger_file -INFO - Scenario default currency should be US Dollar upon loginStarted 
+2020-11-16 19:15:49,377 - logger_file -INFO - Retail page is opened
+2020-11-16 19:15:49,396 - logger_file -INFO - Page title  is verified
+2020-11-16 19:15:50,265 - logger_file -INFO - Retail page is opened
+2020-11-16 19:15:50,275 - logger_file -INFO - Page title  is verified
+2020-11-16 19:15:50,763 - logger_file -INFO - User click on My Account
+2020-11-16 19:15:51,143 - logger_file -INFO - User click on Login
+2020-11-16 19:15:54,624 - logger_file -INFO - User enter email address
+2020-11-16 19:15:54,756 - logger_file -INFO - User enter password
+2020-11-16 19:15:55,537 - logger_file -INFO - User click on Login button
+2020-11-16 19:15:56,047 - logger_file -INFO - User clicks on Camera Button from product menu
+2020-11-16 19:15:56,461 - logger_file -INFO - user selects a canon product
+2020-11-16 19:15:56,869 - logger_file -INFO - The retail page default currency is US Dollar
+2020-11-16 19:15:58,133 - logger_file -INFO - default currency should be US Dollar upon login   passed
+2020-11-16 19:15:58,139 - logger_file -INFO - Scenario select different currency as default when logging in and outStarted 
+2020-11-16 19:16:06,036 - logger_file -INFO - Retail page is opened
+2020-11-16 19:16:06,048 - logger_file -INFO - Page title  is verified
+2020-11-16 19:16:06,772 - logger_file -INFO - Retail page is opened
+2020-11-16 19:16:06,782 - logger_file -INFO - Page title  is verified
+2020-11-16 19:16:07,267 - logger_file -INFO - User click on My Account
+2020-11-16 19:16:07,653 - logger_file -INFO - User click on Login
+2020-11-16 19:16:11,202 - logger_file -INFO - User enter email address
+2020-11-16 19:16:11,399 - logger_file -INFO - User enter password
+2020-11-16 19:16:12,199 - logger_file -INFO - User click on Login button
+2020-11-16 19:16:12,707 - logger_file -INFO - User clicks on Camera Button from product menu
+2020-11-16 19:16:13,175 - logger_file -INFO - user selects a canon product
+2020-11-16 19:16:13,282 - logger_file -INFO - User clicks on Currency Button
+2020-11-16 19:16:13,820 - logger_file -INFO - User selects Pound Sterling as Default currency
+2020-11-16 19:16:13,906 - logger_file -INFO - User click on My Account
+2020-11-16 19:16:14,818 - logger_file -INFO - User click on My Account
+2020-11-16 19:16:15,328 - logger_file -INFO - User click on Login
+2020-11-16 19:16:18,807 - logger_file -INFO - User enter email address
+2020-11-16 19:16:18,926 - logger_file -INFO - User enter password
+2020-11-16 19:16:19,725 - logger_file -INFO - User click on Login button
+2020-11-16 19:16:20,505 - logger_file -INFO - Default Currency is changed to Pound Sterling
+2020-11-16 19:16:21,380 - logger_file -INFO - select different currency as default when logging in and out   passed
+2020-11-16 19:23:27,409 - logger_file -INFO - Scenario Confirmation of checkout table fieldsStarted 
+2020-11-16 19:23:38,068 - logger_file -INFO - Retail page is opened
+2020-11-16 19:23:38,093 - logger_file -INFO - Page title  is verified
+2020-11-16 19:23:38,891 - logger_file -INFO - Retail page is opened
+2020-11-16 19:23:38,907 - logger_file -INFO - Page title  is verified
+2020-11-16 19:23:39,413 - logger_file -INFO - User click on My Account
+2020-11-16 19:23:39,785 - logger_file -INFO - User click on Login
+2020-11-16 19:23:43,302 - logger_file -INFO - User enter email address
+2020-11-16 19:23:43,437 - logger_file -INFO - User enter password
+2020-11-16 19:23:44,250 - logger_file -INFO - User click on Login button
+2020-11-16 19:23:44,853 - logger_file -INFO - User clicks on Camera Button from product menu
+2020-11-16 19:23:45,344 - logger_file -INFO - user selects a canon product
+2020-11-16 19:23:45,472 - logger_file -INFO - User clicks on ADD TO CART button
+2020-11-16 19:23:47,684 - logger_file -INFO - user selects the available options for product
+2020-11-16 19:23:48,017 - logger_file -INFO - User enters the quantity
+2020-11-16 19:23:48,248 - logger_file -INFO - User clicks on Blue Add to Cart Button
+2020-11-16 19:23:48,426 - logger_file -INFO - User successfully added product into the shopping cart
+2020-11-16 19:23:48,537 - logger_file -INFO - User clicks on Shopping Cart
+2020-11-16 19:23:48,977 - logger_file -INFO - Product is added successfully into the shopping cart
+2020-11-16 19:23:49,467 - logger_file -INFO - User successfully clicks on View Cart Button
+2020-11-16 19:23:49,529 - logger_file -INFO - User is on 'What would you like to do next?' section of page
+2020-11-16 19:23:49,615 - logger_file -INFO - User clicks on Estimate Shipping & Taxes Section
+2020-11-16 19:23:54,362 - logger_file -INFO - User updates Country field in Shopping Cart
+2020-11-16 19:23:54,728 - logger_file -INFO - User updates Region/State field in Shopping Cart
+2020-11-16 19:23:54,956 - logger_file -INFO - User Enters value into Post Code Field
+2020-11-16 19:23:55,055 - logger_file -INFO - User clicks on Get Quote Button
+2020-11-16 19:23:55,278 - logger_file -INFO - User clicks on Flat Shipping & Rate Button
+2020-11-16 19:23:55,383 - logger_file -INFO - User clicks on Apply Shipping Button
+2020-11-16 19:23:55,810 - logger_file -INFO - Successfully updated estimate of shipping
+2020-11-16 19:23:55,856 - logger_file -INFO - Sub-Total is present on CheckOut page
+2020-11-16 19:23:55,899 - logger_file -INFO - Flat Shipping Rate is present on CheckOut page
+2020-11-16 19:23:55,943 - logger_file -INFO - Total is present on CheckOut page
+2020-11-16 19:23:56,381 - logger_file -INFO - User clicks on CheckOut button
+2020-11-16 19:23:56,471 - logger_file -INFO - User is on Checkout page
+2020-11-16 19:23:57,757 - logger_file -INFO - Confirmation of checkout table fields   passed
+2020-11-16 19:33:13,897 - logger_file -INFO - Scenario list of product added into wish listStarted 
+2020-11-16 19:33:25,972 - logger_file -INFO - Retail page is opened
+2020-11-16 19:33:26,001 - logger_file -INFO - Page title  is verified
+2020-11-16 19:33:26,640 - logger_file -INFO - User click on My Account
+2020-11-16 19:33:27,071 - logger_file -INFO - User click on Login
+2020-11-16 19:33:30,718 - logger_file -INFO - User enter email address
+2020-11-16 19:33:30,875 - logger_file -INFO - User enter password
+2020-11-16 19:33:31,645 - logger_file -INFO - User click on Login button
+2020-11-16 19:33:32,195 - logger_file -INFO - User clicks on Camera Button from product menu
+2020-11-16 19:33:32,607 - logger_file -INFO - user selects a canon product
+2020-11-16 19:33:33,198 - logger_file -INFO - Wish list heart button is present
+2020-11-16 19:33:33,285 - logger_file -INFO - User clicks on Wish List heart button
+2020-11-16 19:33:33,762 - logger_file -INFO - product successfully added into wish list
+2020-11-16 19:33:34,488 - logger_file -INFO - User clicked on WishList Button
+2020-11-16 19:33:34,832 - logger_file -INFO - Product confirmed to be in the wish list
+2020-11-16 19:33:35,713 - logger_file -INFO - list of product added into wish list   passed
+2020-11-16 19:37:42,765 - logger_file -INFO - Scenario Confirmation of checkout table fieldsStarted 
+2020-11-16 19:37:54,379 - logger_file -INFO - Retail page is opened
+2020-11-16 19:37:54,399 - logger_file -INFO - Page title  is verified
+2020-11-16 19:37:55,240 - logger_file -INFO - Retail page is opened
+2020-11-16 19:37:55,252 - logger_file -INFO - Page title  is verified
+2020-11-16 19:37:55,789 - logger_file -INFO - User click on My Account
+2020-11-16 19:37:56,141 - logger_file -INFO - User click on Login
+2020-11-16 19:37:59,668 - logger_file -INFO - User enter email address
+2020-11-16 19:37:59,802 - logger_file -INFO - User enter password
+2020-11-16 19:38:00,637 - logger_file -INFO - User click on Login button
+2020-11-16 19:38:01,222 - logger_file -INFO - User clicks on Camera Button from product menu
+2020-11-16 19:38:01,673 - logger_file -INFO - user selects a canon product
+2020-11-16 19:38:01,791 - logger_file -INFO - User clicks on ADD TO CART button
+2020-11-16 19:38:03,086 - logger_file -INFO - user selects the available options for product
+2020-11-16 19:38:03,590 - logger_file -INFO - User enters the quantity
+2020-11-16 19:38:04,174 - logger_file -INFO - User clicks on Blue Add to Cart Button
+2020-11-16 19:38:04,353 - logger_file -INFO - User successfully added product into the shopping cart
+2020-11-16 19:38:04,485 - logger_file -INFO - User clicks on Shopping Cart
+2020-11-16 19:38:04,965 - logger_file -INFO - Product is added successfully into the shopping cart
+2020-11-16 19:38:05,543 - logger_file -INFO - User successfully clicks on View Cart Button
+2020-11-16 19:38:05,604 - logger_file -INFO - User is on 'What would you like to do next?' section of page
+2020-11-16 19:38:05,650 - logger_file -INFO - Sub-Total is present on CheckOut page
+2020-11-16 19:38:31,290 - logger_file -INFO - Flat Shipping Rate is present on CheckOut page
+2020-11-16 19:38:31,344 - logger_file -INFO - Total is present on CheckOut page
+2020-11-16 19:38:31,806 - logger_file -INFO - User clicks on CheckOut button
+2020-11-16 19:38:31,858 - logger_file -INFO - User is on Checkout page
+2020-11-16 19:38:34,491 - logger_file -INFO - Confirmation of checkout table fields   passed
+2020-11-16 19:43:27,481 - logger_file -INFO - Scenario Confirmation of checkout table fieldsStarted 
+2020-11-16 19:43:38,716 - logger_file -INFO - Retail page is opened
+2020-11-16 19:43:38,737 - logger_file -INFO - Page title  is verified
+2020-11-16 19:43:39,689 - logger_file -INFO - Retail page is opened
+2020-11-16 19:43:39,728 - logger_file -INFO - Page title  is verified
+2020-11-16 19:43:40,286 - logger_file -INFO - User click on My Account
+2020-11-16 19:43:40,634 - logger_file -INFO - User click on Login
+2020-11-16 19:43:44,138 - logger_file -INFO - User enter email address
+2020-11-16 19:43:44,278 - logger_file -INFO - User enter password
+2020-11-16 19:43:45,103 - logger_file -INFO - User click on Login button
+2020-11-16 19:43:45,655 - logger_file -INFO - User clicks on Camera Button from product menu
+2020-11-16 19:43:46,092 - logger_file -INFO - user selects a canon product
+2020-11-16 19:43:46,203 - logger_file -INFO - User clicks on ADD TO CART button
+2020-11-16 19:43:47,955 - logger_file -INFO - user selects the available options for product
+2020-11-16 19:43:48,191 - logger_file -INFO - User enters the quantity
+2020-11-16 19:43:48,407 - logger_file -INFO - User clicks on Blue Add to Cart Button
+2020-11-16 19:43:48,600 - logger_file -INFO - User successfully added product into the shopping cart
+2020-11-16 19:43:48,732 - logger_file -INFO - User clicks on Shopping Cart
+2020-11-16 19:43:49,174 - logger_file -INFO - Product is added successfully into the shopping cart
+2020-11-16 19:43:49,655 - logger_file -INFO - User successfully clicks on View Cart Button
+2020-11-16 19:43:49,713 - logger_file -INFO - User is on 'What would you like to do next?' section of page
+2020-11-16 19:43:49,801 - logger_file -INFO - User clicks on Estimate Shipping & Taxes Section
+2020-11-16 19:43:55,656 - logger_file -INFO - User updates Country field in Shopping Cart
+2020-11-16 19:43:56,018 - logger_file -INFO - User updates Region/State field in Shopping Cart
+2020-11-16 19:43:56,222 - logger_file -INFO - User Enters value into Post Code Field
+2020-11-16 19:43:56,322 - logger_file -INFO - User clicks on Get Quote Button
+2020-11-16 19:43:56,490 - logger_file -INFO - User clicks on Flat Shipping & Rate Button
+2020-11-16 19:43:56,593 - logger_file -INFO - User clicks on Apply Shipping Button
+2020-11-16 19:43:57,024 - logger_file -INFO - Successfully updated estimate of shipping
+2020-11-16 19:43:57,078 - logger_file -INFO - Sub-Total is present on CheckOut page
+2020-11-16 19:43:57,124 - logger_file -INFO - Flat Shipping Rate is present on CheckOut page
+2020-11-16 19:43:57,170 - logger_file -INFO - Total is present on CheckOut page
+2020-11-16 19:43:57,590 - logger_file -INFO - User clicks on CheckOut button
+2020-11-16 19:43:57,643 - logger_file -INFO - User is on Checkout page
+2020-11-16 19:43:58,900 - logger_file -INFO - Confirmation of checkout table fields   passed
+2020-11-16 19:47:25,628 - logger_file -INFO - Scenario Confirmation of checkout table fieldsStarted 
+2020-11-16 19:47:42,201 - logger_file -INFO - Retail page is opened
+2020-11-16 19:47:42,229 - logger_file -INFO - Page title  is verified
+2020-11-16 19:47:43,089 - logger_file -INFO - Retail page is opened
+2020-11-16 19:47:43,102 - logger_file -INFO - Page title  is verified
+2020-11-16 19:47:43,625 - logger_file -INFO - User click on My Account
+2020-11-16 19:47:44,005 - logger_file -INFO - User click on Login
+2020-11-16 19:47:47,516 - logger_file -INFO - User enter email address
+2020-11-16 19:47:47,645 - logger_file -INFO - User enter password
+2020-11-16 19:47:48,449 - logger_file -INFO - User click on Login button
+2020-11-16 19:47:49,046 - logger_file -INFO - User clicks on Camera Button from product menu
+2020-11-16 19:47:49,476 - logger_file -INFO - user selects a canon product
+2020-11-16 19:47:49,582 - logger_file -INFO - User clicks on ADD TO CART button
+2020-11-16 19:47:51,216 - logger_file -INFO - user selects the available options for product
+2020-11-16 19:47:51,445 - logger_file -INFO - User enters the quantity
+2020-11-16 19:47:51,690 - logger_file -INFO - User clicks on Blue Add to Cart Button
+2020-11-16 19:47:51,819 - logger_file -INFO - User successfully added product into the shopping cart
+2020-11-16 19:47:51,936 - logger_file -INFO - User clicks on Shopping Cart
+2020-11-16 19:47:52,367 - logger_file -INFO - Product is added successfully into the shopping cart
+2020-11-16 19:47:52,849 - logger_file -INFO - User successfully clicks on View Cart Button
+2020-11-16 19:47:52,911 - logger_file -INFO - User is on 'What would you like to do next?' section of page
+2020-11-16 19:47:52,999 - logger_file -INFO - User clicks on Estimate Shipping & Taxes Section
+2020-11-16 19:48:02,150 - logger_file -INFO - User updates Country field in Shopping Cart
+2020-11-16 19:48:02,543 - logger_file -INFO - User updates Region/State field in Shopping Cart
+2020-11-16 19:48:02,896 - logger_file -INFO - User Enters value into Post Code Field
+2020-11-16 19:48:03,058 - logger_file -INFO - User clicks on Get Quote Button
+2020-11-16 19:48:03,307 - logger_file -INFO - User clicks on Flat Shipping & Rate Button
+2020-11-16 19:48:03,441 - logger_file -INFO - User clicks on Apply Shipping Button
+2020-11-16 19:48:03,873 - logger_file -INFO - Successfully updated estimate of shipping
+2020-11-16 19:48:03,933 - logger_file -INFO - Sub-Total is present on CheckOut page
+2020-11-16 19:48:03,982 - logger_file -INFO - Flat Shipping Rate is present on CheckOut page
+2020-11-16 19:48:04,027 - logger_file -INFO - Total is present on CheckOut page
+2020-11-16 19:48:04,452 - logger_file -INFO - User clicks on CheckOut button
+2020-11-16 19:48:04,548 - logger_file -INFO - User is on Checkout page
+2020-11-16 19:48:05,788 - logger_file -INFO - Confirmation of checkout table fields   passed
+2020-11-16 19:49:09,871 - logger_file -INFO - Scenario Add product to wish listStarted 
+2020-11-16 19:49:26,937 - logger_file -INFO - Retail page is opened
+2020-11-16 19:49:26,961 - logger_file -INFO - Page title  is verified
+2020-11-16 19:49:27,526 - logger_file -INFO - User click on My Account
+2020-11-16 19:49:27,953 - logger_file -INFO - User click on Login
+2020-11-16 19:49:31,474 - logger_file -INFO - User enter email address
+2020-11-16 19:49:31,601 - logger_file -INFO - User enter password
+2020-11-16 19:49:32,384 - logger_file -INFO - User click on Login button
+2020-11-16 19:49:32,959 - logger_file -INFO - User clicks on Camera Button from product menu
+2020-11-16 19:49:33,410 - logger_file -INFO - user selects a canon product
+2020-11-16 19:49:34,019 - logger_file -INFO - Wish list heart button is present
+2020-11-16 19:49:34,117 - logger_file -INFO - User clicks on Wish List heart button
+2020-11-16 19:49:34,599 - logger_file -INFO - product successfully added into wish list
+2020-11-16 19:49:35,477 - logger_file -INFO - Add product to wish list   passed
+2020-11-16 19:49:35,499 - logger_file -INFO - Scenario Add product to wish list by clicking on product linkStarted 
+2020-11-16 19:49:48,288 - logger_file -INFO - Retail page is opened
+2020-11-16 19:49:48,300 - logger_file -INFO - Page title  is verified
+2020-11-16 19:49:48,809 - logger_file -INFO - User click on My Account
+2020-11-16 19:49:49,189 - logger_file -INFO - User click on Login
+2020-11-16 19:49:52,680 - logger_file -INFO - User enter email address
+2020-11-16 19:49:52,805 - logger_file -INFO - User enter password
+2020-11-16 19:49:53,578 - logger_file -INFO - User click on Login button
+2020-11-16 19:49:54,134 - logger_file -INFO - User clicks on Camera Button from product menu
+2020-11-16 19:49:54,699 - logger_file -INFO - user selects a canon product
+2020-11-16 19:49:57,295 - logger_file -INFO - User clicks on canon link
+2020-11-16 19:49:58,098 - logger_file -INFO - Wish list heart button is present
+2020-11-16 19:49:58,183 - logger_file -INFO - User clicks on Wish List heart button
+2020-11-16 19:49:58,656 - logger_file -INFO - product successfully added into wish list
+2020-11-16 19:49:59,731 - logger_file -INFO - Add product to wish list by clicking on product link   passed
+2020-11-16 19:49:59,744 - logger_file -INFO - Scenario list of product added into wish listStarted 
+2020-11-16 19:50:07,416 - logger_file -INFO - Retail page is opened
+2020-11-16 19:50:07,440 - logger_file -INFO - Page title  is verified
+2020-11-16 19:50:07,962 - logger_file -INFO - User click on My Account
+2020-11-16 19:50:08,346 - logger_file -INFO - User click on Login
+2020-11-16 19:50:11,821 - logger_file -INFO - User enter email address
+2020-11-16 19:50:11,957 - logger_file -INFO - User enter password
+2020-11-16 19:50:12,717 - logger_file -INFO - User click on Login button
+2020-11-16 19:50:13,240 - logger_file -INFO - User clicks on Camera Button from product menu
+2020-11-16 19:50:13,749 - logger_file -INFO - user selects a canon product
+2020-11-16 19:50:14,416 - logger_file -INFO - Wish list heart button is present
+2020-11-16 19:50:14,503 - logger_file -INFO - User clicks on Wish List heart button
+2020-11-16 19:50:14,999 - logger_file -INFO - product successfully added into wish list
+2020-11-16 19:50:15,751 - logger_file -INFO - User clicked on WishList Button
+2020-11-16 19:50:16,114 - logger_file -INFO - Product confirmed to be in the wish list
+2020-11-16 19:50:17,011 - logger_file -INFO - list of product added into wish list   passed
+2020-11-16 19:50:17,026 - logger_file -INFO - Scenario Add product into shopping cart scenario oneStarted 
+2020-11-16 19:50:24,142 - logger_file -INFO - Retail page is opened
+2020-11-16 19:50:24,160 - logger_file -INFO - Page title  is verified
+2020-11-16 19:50:24,696 - logger_file -INFO - User clicks on Camera Button from product menu
+2020-11-16 19:50:25,103 - logger_file -INFO - user selects a canon product
+2020-11-16 19:50:25,216 - logger_file -INFO - User clicks on ADD TO CART button
+2020-11-16 19:50:42,350 - logger_file -INFO - User successfully added product into the shopping cart
+2020-11-16 19:50:43,283 - logger_file -INFO - Add product into shopping cart scenario one   passed
+2020-11-16 19:50:43,299 - logger_file -INFO - Scenario Add product into shopping cart scenario twoStarted 
+2020-11-16 19:50:50,314 - logger_file -INFO - Retail page is opened
+2020-11-16 19:50:50,345 - logger_file -INFO - Page title  is verified
+2020-11-16 19:50:50,906 - logger_file -INFO - User clicks on Camera Button from product menu
+2020-11-16 19:50:51,427 - logger_file -INFO - user selects a canon product
+2020-11-16 19:50:54,141 - logger_file -INFO - User clicks on canon link
+2020-11-16 19:50:54,468 - logger_file -INFO - user selects the available options for product
+2020-11-16 19:50:54,984 - logger_file -INFO - User enters the quantity
+2020-11-16 19:50:55,345 - logger_file -INFO - User clicks on Blue Add to Cart Button
+2020-11-16 19:50:55,557 - logger_file -INFO - User successfully added product into the shopping cart
+2020-11-16 19:50:57,976 - logger_file -INFO - Add product into shopping cart scenario two   passed
+2020-11-16 19:50:57,991 - logger_file -INFO - Scenario confirmation of quantities of product added to shopping cartStarted 
+2020-11-16 19:51:05,099 - logger_file -INFO - Retail page is opened
+2020-11-16 19:51:05,133 - logger_file -INFO - Page title  is verified
+2020-11-16 19:51:05,663 - logger_file -INFO - User clicks on Camera Button from product menu
+2020-11-16 19:51:06,095 - logger_file -INFO - user selects a canon product
+2020-11-16 19:51:08,239 - logger_file -INFO - User clicks on canon link
+2020-11-16 19:51:08,672 - logger_file -INFO - user selects the available options for product
+2020-11-16 19:51:09,129 - logger_file -INFO - User enters the quantity
+2020-11-16 19:51:09,541 - logger_file -INFO - User clicks on Blue Add to Cart Button
+2020-11-16 19:51:10,516 - logger_file -INFO - User successfully added product into the shopping cart
+2020-11-16 19:51:10,627 - logger_file -INFO - User clicks on Shopping Cart
+2020-11-16 19:51:11,085 - logger_file -INFO - Product is added successfully into the shopping cart
+2020-11-16 19:51:11,958 - logger_file -INFO - confirmation of quantities of product added to shopping cart   passed
+2020-11-16 19:51:11,971 - logger_file -INFO - Scenario Confirmation of adding more quantities of productStarted 
+2020-11-16 19:51:19,611 - logger_file -INFO - Retail page is opened
+2020-11-16 19:51:19,626 - logger_file -INFO - Page title  is verified
+2020-11-16 19:51:20,145 - logger_file -INFO - User clicks on Camera Button from product menu
+2020-11-16 19:51:20,562 - logger_file -INFO - user selects a canon product
+2020-11-16 19:51:21,800 - logger_file -INFO - User clicks on canon link
+2020-11-16 19:51:22,216 - logger_file -INFO - user selects the available options for product
+2020-11-16 19:51:22,570 - logger_file -INFO - User enters the quantity
+2020-11-16 19:51:22,767 - logger_file -INFO - User clicks on Blue Add to Cart Button
+2020-11-16 19:51:22,954 - logger_file -INFO - User successfully added product into the shopping cart
+2020-11-16 19:51:23,064 - logger_file -INFO - User clicks on Shopping Cart
+2020-11-16 19:51:23,512 - logger_file -INFO - Product is added successfully into the shopping cart
+2020-11-16 19:51:23,694 - logger_file -INFO - User clicks on Blue Add to Cart Button
+2020-11-16 19:51:23,796 - logger_file -INFO - User clicks on Shopping Cart
+2020-11-16 19:51:23,915 - logger_file -INFO - Product quantity increase confirmed
+2020-11-16 19:51:24,862 - logger_file -INFO - Confirmation of adding more quantities of product   passed
+2020-11-16 19:51:24,878 - logger_file -INFO - Scenario Confirmation of checkout table fieldsStarted 
+2020-11-16 19:51:31,833 - logger_file -INFO - Retail page is opened
+2020-11-16 19:51:31,855 - logger_file -INFO - Page title  is verified
+2020-11-16 19:51:32,636 - logger_file -INFO - Retail page is opened
+2020-11-16 19:51:32,647 - logger_file -INFO - Page title  is verified
+2020-11-16 19:51:33,147 - logger_file -INFO - User click on My Account
+2020-11-16 19:51:33,487 - logger_file -INFO - User click on Login
+2020-11-16 19:51:36,964 - logger_file -INFO - User enter email address
+2020-11-16 19:51:37,088 - logger_file -INFO - User enter password
+2020-11-16 19:51:37,923 - logger_file -INFO - User click on Login button
+2020-11-16 19:51:38,434 - logger_file -INFO - User clicks on Camera Button from product menu
+2020-11-16 19:51:38,871 - logger_file -INFO - user selects a canon product
+2020-11-16 19:51:38,975 - logger_file -INFO - User clicks on ADD TO CART button
+2020-11-16 19:51:40,593 - logger_file -INFO - user selects the available options for product
+2020-11-16 19:51:40,951 - logger_file -INFO - User enters the quantity
+2020-11-16 19:51:41,171 - logger_file -INFO - User clicks on Blue Add to Cart Button
+2020-11-16 19:51:41,299 - logger_file -INFO - User successfully added product into the shopping cart
+2020-11-16 19:51:41,404 - logger_file -INFO - User clicks on Shopping Cart
+2020-11-16 19:51:41,839 - logger_file -INFO - Product is added successfully into the shopping cart
+2020-11-16 19:51:42,304 - logger_file -INFO - User successfully clicks on View Cart Button
+2020-11-16 19:51:42,360 - logger_file -INFO - User is on 'What would you like to do next?' section of page
+2020-11-16 19:51:42,443 - logger_file -INFO - User clicks on Estimate Shipping & Taxes Section
+2020-11-16 19:51:46,727 - logger_file -INFO - User updates Country field in Shopping Cart
+2020-11-16 19:51:47,149 - logger_file -INFO - User updates Region/State field in Shopping Cart
+2020-11-16 19:51:47,393 - logger_file -INFO - User Enters value into Post Code Field
+2020-11-16 19:51:47,504 - logger_file -INFO - User clicks on Get Quote Button
+2020-11-16 19:51:47,701 - logger_file -INFO - User clicks on Flat Shipping & Rate Button
+2020-11-16 19:51:47,814 - logger_file -INFO - User clicks on Apply Shipping Button
+2020-11-16 19:51:48,269 - logger_file -INFO - Successfully updated estimate of shipping
+2020-11-16 19:51:48,315 - logger_file -INFO - Sub-Total is present on CheckOut page
+2020-11-16 19:51:48,363 - logger_file -INFO - Flat Shipping Rate is present on CheckOut page
+2020-11-16 19:51:48,410 - logger_file -INFO - Total is present on CheckOut page
+2020-11-16 19:51:48,844 - logger_file -INFO - User clicks on CheckOut button
+2020-11-16 19:51:48,893 - logger_file -INFO - User is on Checkout page
+2020-11-16 19:51:50,138 - logger_file -INFO - Confirmation of checkout table fields   passed
+2020-11-16 19:51:50,162 - logger_file -INFO - Scenario Execute all information from Actor TableStarted 
+2020-11-16 19:51:57,072 - logger_file -INFO - Connection has been established
+2020-11-16 19:51:57,150 - logger_file -INFO - select * from public.actor has been executed
+2020-11-16 19:51:57,216 - logger_file -INFO - Resultset is stored in csv file in outcome folder
+2020-11-16 19:51:57,219 - logger_file -INFO - DataBase connection has been closed
+2020-11-16 19:51:58,065 - logger_file -INFO - Execute all information from Actor Table   passed
+2020-11-16 19:51:58,080 - logger_file -INFO - Scenario Login to MyAccountStarted 
+2020-11-16 19:52:05,494 - logger_file -INFO - Retail page is opened
+2020-11-16 19:52:05,511 - logger_file -INFO - Page title  is verified
+2020-11-16 19:52:06,058 - logger_file -INFO - User click on My Account
+2020-11-16 19:52:06,441 - logger_file -INFO - User click on Login
+2020-11-16 19:52:10,025 - logger_file -INFO - User enter email address
+2020-11-16 19:52:10,174 - logger_file -INFO - User enter password
+2020-11-16 19:52:11,183 - logger_file -INFO - User click on Login button
+2020-11-16 19:52:12,455 - logger_file -INFO - Login to MyAccount   passed
+2020-11-16 19:52:12,489 - logger_file -INFO - Scenario Login to Retail Site with multiple usersStarted 
+2020-11-16 19:52:19,486 - logger_file -INFO - Retail page is opened
+2020-11-16 19:52:19,510 - logger_file -INFO - Page title  is verified
+2020-11-16 19:52:20,050 - logger_file -INFO - User click on My Account
+2020-11-16 19:52:20,452 - logger_file -INFO - User click on Login
+2020-11-16 19:52:23,949 - logger_file -INFO - User enter email address
+2020-11-16 19:52:24,076 - logger_file -INFO - User enter password
+2020-11-16 19:52:24,911 - logger_file -INFO - User click on Login button
+2020-11-16 19:52:27,380 - logger_file -INFO - Login to Retail Site with multiple users   passed
+2020-11-16 19:52:27,391 - logger_file -INFO - Scenario Login to Retail Site with multiple usersStarted 
+2020-11-16 19:52:35,364 - logger_file -INFO - Retail page is opened
+2020-11-16 19:52:35,378 - logger_file -INFO - Page title  is verified
+2020-11-16 19:52:35,858 - logger_file -INFO - User click on My Account
+2020-11-16 19:52:36,310 - logger_file -INFO - User click on Login
+2020-11-16 19:52:39,840 - logger_file -INFO - User enter email address
+2020-11-16 19:52:39,977 - logger_file -INFO - User enter password
+2020-11-16 19:52:40,773 - logger_file -INFO - User click on Login button
+2020-11-16 19:52:42,151 - logger_file -INFO - Login to Retail Site with multiple users   passed
+2020-11-16 19:52:42,160 - logger_file -INFO - Scenario Login to Retail Site with multiple usersStarted 
+2020-11-16 19:52:49,853 - logger_file -INFO - Retail page is opened
+2020-11-16 19:52:49,863 - logger_file -INFO - Page title  is verified
+2020-11-16 19:52:50,325 - logger_file -INFO - User click on My Account
+2020-11-16 19:52:50,688 - logger_file -INFO - User click on Login
+2020-11-16 19:52:54,229 - logger_file -INFO - User enter email address
+2020-11-16 19:52:54,382 - logger_file -INFO - User enter password
+2020-11-16 19:52:55,154 - logger_file -INFO - User click on Login button
+2020-11-16 19:52:56,437 - logger_file -INFO - Login to Retail Site with multiple users   passed
+2020-11-16 19:52:56,448 - logger_file -INFO - Scenario Log out from MyAccountStarted 
+2020-11-16 19:53:04,311 - logger_file -INFO - Retail page is opened
+2020-11-16 19:53:04,325 - logger_file -INFO - Page title  is verified
+2020-11-16 19:53:04,787 - logger_file -INFO - User click on My Account
+2020-11-16 19:53:05,174 - logger_file -INFO - User click on Login
+2020-11-16 19:53:08,649 - logger_file -INFO - User enter email address
+2020-11-16 19:53:08,776 - logger_file -INFO - User enter password
+2020-11-16 19:53:09,470 - logger_file -INFO - User click on Login button
+2020-11-16 19:53:09,968 - logger_file -INFO - User click on My Account
+2020-11-16 19:53:11,579 - logger_file -INFO - Log out from MyAccount   passed
+2020-11-16 19:53:11,589 - logger_file -INFO - Scenario Remove product from wish listStarted 
+2020-11-16 19:53:19,203 - logger_file -INFO - Retail page is opened
+2020-11-16 19:53:19,222 - logger_file -INFO - Page title  is verified
+2020-11-16 19:53:19,725 - logger_file -INFO - User click on My Account
+2020-11-16 19:53:20,119 - logger_file -INFO - User click on Login
+2020-11-16 19:53:23,588 - logger_file -INFO - User enter email address
+2020-11-16 19:53:23,716 - logger_file -INFO - User enter password
+2020-11-16 19:53:24,526 - logger_file -INFO - User click on Login button
+2020-11-16 19:53:25,040 - logger_file -INFO - User clicks on Camera Button from product menu
+2020-11-16 19:53:25,479 - logger_file -INFO - user selects a canon product
+2020-11-16 19:53:26,072 - logger_file -INFO - Wish list heart button is present
+2020-11-16 19:53:26,157 - logger_file -INFO - User clicks on Wish List heart button
+2020-11-16 19:53:26,685 - logger_file -INFO - product successfully added into wish list
+2020-11-16 19:53:27,388 - logger_file -INFO - User clicked on WishList Button
+2020-11-16 19:53:27,775 - logger_file -INFO - Product confirmed to be in the wish list
+2020-11-16 19:53:28,226 - logger_file -INFO - User clicks on red 'X' remove from wish list button
+2020-11-16 19:53:28,285 - logger_file -INFO - User successfully removes the product from the wish list cart
+2020-11-16 19:53:29,216 - logger_file -INFO - Remove product from wish list   passed
+2020-11-16 19:53:29,225 - logger_file -INFO - Scenario Removing product from shopping cartStarted 
+2020-11-16 19:53:46,609 - logger_file -INFO - Retail page is opened
+2020-11-16 19:53:46,622 - logger_file -INFO - Page title  is verified
+2020-11-16 19:53:47,199 - logger_file -INFO - User clicks on Camera Button from product menu
+2020-11-16 19:53:47,663 - logger_file -INFO - user selects a canon product
+2020-11-16 19:53:48,931 - logger_file -INFO - User clicks on canon link
+2020-11-16 19:53:49,444 - logger_file -INFO - user selects the available options for product
+2020-11-16 19:53:49,710 - logger_file -INFO - User enters the quantity
+2020-11-16 19:53:49,912 - logger_file -INFO - User clicks on Blue Add to Cart Button
+2020-11-16 19:53:50,080 - logger_file -INFO - User successfully added product into the shopping cart
+2020-11-16 19:53:50,196 - logger_file -INFO - User clicks on Shopping Cart
+2020-11-16 19:53:50,649 - logger_file -INFO - Product is added successfully into the shopping cart
+2020-11-16 19:53:50,750 - logger_file -INFO - Produt is removed from the cart
+2020-11-16 19:53:51,322 - logger_file -INFO - Cart is successfully emptied
+2020-11-16 19:53:52,184 - logger_file -INFO - Removing product from shopping cart   passed
+2020-11-16 19:53:52,200 - logger_file -INFO - Scenario Register Account for new Retail userStarted 
+2020-11-16 19:53:59,725 - logger_file -INFO - Retail page is opened
+2020-11-16 19:53:59,739 - logger_file -INFO - Page title  is verified
+2020-11-16 19:54:00,237 - logger_file -INFO - User click on My Account
+2020-11-16 19:54:00,810 - logger_file -INFO - user clicked on Register
+2020-11-16 19:54:02,058 - logger_file -INFO - user completed Register form with required information
+2020-11-16 19:54:09,069 - logger_file -INFO - Account was created Successfully
+2020-11-16 19:54:10,255 - logger_file -INFO - Register Account for new Retail user   passed
+2020-11-16 19:54:10,273 - logger_file -INFO - Scenario confirm calculation of price x quantity of totalStarted 
+2020-11-16 19:54:18,550 - logger_file -INFO - Retail page is opened
+2020-11-16 19:54:18,562 - logger_file -INFO - Page title  is verified
+2020-11-16 19:54:19,284 - logger_file -INFO - Retail page is opened
+2020-11-16 19:54:19,293 - logger_file -INFO - Page title  is verified
+2020-11-16 19:54:19,776 - logger_file -INFO - User click on My Account
+2020-11-16 19:54:20,131 - logger_file -INFO - User click on Login
+2020-11-16 19:54:23,613 - logger_file -INFO - User enter email address
+2020-11-16 19:54:23,745 - logger_file -INFO - User enter password
+2020-11-16 19:54:24,504 - logger_file -INFO - User click on Login button
+2020-11-16 19:54:25,023 - logger_file -INFO - User clicks on Camera Button from product menu
+2020-11-16 19:54:25,408 - logger_file -INFO - user selects a canon product
+2020-11-16 19:54:25,506 - logger_file -INFO - User clicks on ADD TO CART button
+2020-11-16 19:54:27,375 - logger_file -INFO - user selects the available options for product
+2020-11-16 19:54:27,710 - logger_file -INFO - User enters the quantity
+2020-11-16 19:54:27,907 - logger_file -INFO - User clicks on Blue Add to Cart Button
+2020-11-16 19:54:28,040 - logger_file -INFO - User successfully added product into the shopping cart
+2020-11-16 19:54:28,321 - logger_file -INFO - User clicks on Shopping Cart
+2020-11-16 19:54:28,761 - logger_file -INFO - Product is added successfully into the shopping cart
+2020-11-16 19:54:29,301 - logger_file -INFO - User successfully clicks on View Cart Button
+2020-11-16 19:54:29,359 - logger_file -INFO - Quantity field is present in shopping cart
+2020-11-16 19:54:29,404 - logger_file -INFO - Unit Price field is present in shopping cart
+2020-11-16 19:54:29,446 - logger_file -INFO - Total field is present in shopping cart
+2020-11-16 19:54:29,628 - logger_file -INFO - User updates the quantity of product in shopping cart
+2020-11-16 19:54:30,482 - logger_file -INFO - Quantity is successfully updated
+2020-11-16 19:54:30,526 - logger_file -INFO - Unit price amount confirmed
+2020-11-16 19:54:31,409 - logger_file -INFO - confirm calculation of price x quantity of total   passed
+2020-11-16 19:54:31,420 - logger_file -INFO - Scenario user adds coupon code into shopping cartStarted 
+2020-11-16 19:54:39,141 - logger_file -INFO - Retail page is opened
+2020-11-16 19:54:39,168 - logger_file -INFO - Page title  is verified
+2020-11-16 19:54:39,952 - logger_file -INFO - Retail page is opened
+2020-11-16 19:54:39,964 - logger_file -INFO - Page title  is verified
+2020-11-16 19:54:40,441 - logger_file -INFO - User click on My Account
+2020-11-16 19:54:40,795 - logger_file -INFO - User click on Login
+2020-11-16 19:54:44,274 - logger_file -INFO - User enter email address
+2020-11-16 19:54:44,404 - logger_file -INFO - User enter password
+2020-11-16 19:54:45,198 - logger_file -INFO - User click on Login button
+2020-11-16 19:54:45,729 - logger_file -INFO - User clicks on Camera Button from product menu
+2020-11-16 19:54:46,197 - logger_file -INFO - user selects a canon product
+2020-11-16 19:54:46,308 - logger_file -INFO - User clicks on ADD TO CART button
+2020-11-16 19:54:47,768 - logger_file -INFO - user selects the available options for product
+2020-11-16 19:54:48,118 - logger_file -INFO - User enters the quantity
+2020-11-16 19:54:48,447 - logger_file -INFO - User clicks on Blue Add to Cart Button
+2020-11-16 19:54:48,584 - logger_file -INFO - User successfully added product into the shopping cart
+2020-11-16 19:54:48,689 - logger_file -INFO - User clicks on Shopping Cart
+2020-11-16 19:54:49,094 - logger_file -INFO - Product is added successfully into the shopping cart
+2020-11-16 19:54:49,584 - logger_file -INFO - User successfully clicks on View Cart Button
+2020-11-16 19:54:49,640 - logger_file -INFO - User is on 'What would you like to do next?' section of page
+2020-11-16 19:54:49,789 - logger_file -INFO - User clicks on Use Coupon Code Element
+2020-11-16 19:54:50,050 - logger_file -INFO - User enters coupon code successfully
+2020-11-16 19:54:50,226 - logger_file -INFO - User clicks on Apply Coupon Button
+2020-11-16 19:54:50,333 - logger_file -INFO - Coupon Successfully added
+2020-11-16 19:54:51,407 - logger_file -INFO - user adds coupon code into shopping cart   passed
+2020-11-16 19:54:51,415 - logger_file -INFO - Scenario User completes Estimate Shipping & Taxes sectionStarted 
+2020-11-16 19:54:58,719 - logger_file -INFO - Retail page is opened
+2020-11-16 19:54:58,742 - logger_file -INFO - Page title  is verified
+2020-11-16 19:54:59,499 - logger_file -INFO - Retail page is opened
+2020-11-16 19:54:59,508 - logger_file -INFO - Page title  is verified
+2020-11-16 19:54:59,985 - logger_file -INFO - User click on My Account
+2020-11-16 19:55:00,332 - logger_file -INFO - User click on Login
+2020-11-16 19:55:03,852 - logger_file -INFO - User enter email address
+2020-11-16 19:55:03,981 - logger_file -INFO - User enter password
+2020-11-16 19:55:04,770 - logger_file -INFO - User click on Login button
+2020-11-16 19:55:05,285 - logger_file -INFO - User clicks on Camera Button from product menu
+2020-11-16 19:55:05,817 - logger_file -INFO - user selects a canon product
+2020-11-16 19:55:05,964 - logger_file -INFO - User clicks on ADD TO CART button
+2020-11-16 19:55:07,848 - logger_file -INFO - user selects the available options for product
+2020-11-16 19:55:08,101 - logger_file -INFO - User enters the quantity
+2020-11-16 19:55:08,322 - logger_file -INFO - User clicks on Blue Add to Cart Button
+2020-11-16 19:55:08,493 - logger_file -INFO - User successfully added product into the shopping cart
+2020-11-16 19:55:08,657 - logger_file -INFO - User clicks on Shopping Cart
+2020-11-16 19:55:09,115 - logger_file -INFO - Product is added successfully into the shopping cart
+2020-11-16 19:55:09,770 - logger_file -INFO - User successfully clicks on View Cart Button
+2020-11-16 19:55:09,826 - logger_file -INFO - User is on 'What would you like to do next?' section of page
+2020-11-16 19:55:09,923 - logger_file -INFO - User clicks on Estimate Shipping & Taxes Section
+2020-11-16 19:55:17,005 - logger_file -INFO - User updates Country field in Shopping Cart
+2020-11-16 19:55:17,398 - logger_file -INFO - User updates Region/State field in Shopping Cart
+2020-11-16 19:55:17,610 - logger_file -INFO - User Enters value into Post Code Field
+2020-11-16 19:55:17,714 - logger_file -INFO - User clicks on Get Quote Button
+2020-11-16 19:55:17,890 - logger_file -INFO - User clicks on Flat Shipping & Rate Button
+2020-11-16 19:55:17,990 - logger_file -INFO - User clicks on Apply Shipping Button
+2020-11-16 19:55:18,405 - logger_file -INFO - Successfully updated estimate of shipping
+2020-11-16 19:55:19,302 - logger_file -INFO - User completes Estimate Shipping & Taxes section   passed
+2020-11-16 19:55:19,312 - logger_file -INFO - Scenario Users applies gift certificate into shopping cartStarted 
+2020-11-16 19:55:26,837 - logger_file -INFO - Retail page is opened
+2020-11-16 19:55:26,862 - logger_file -INFO - Page title  is verified
+2020-11-16 19:55:27,674 - logger_file -INFO - Retail page is opened
+2020-11-16 19:55:27,683 - logger_file -INFO - Page title  is verified
+2020-11-16 19:55:28,144 - logger_file -INFO - User click on My Account
+2020-11-16 19:55:28,487 - logger_file -INFO - User click on Login
+2020-11-16 19:55:31,951 - logger_file -INFO - User enter email address
+2020-11-16 19:55:32,074 - logger_file -INFO - User enter password
+2020-11-16 19:55:32,971 - logger_file -INFO - User click on Login button
+2020-11-16 19:55:33,551 - logger_file -INFO - User clicks on Camera Button from product menu
+2020-11-16 19:55:34,194 - logger_file -INFO - user selects a canon product
+2020-11-16 19:55:34,314 - logger_file -INFO - User clicks on ADD TO CART button
+2020-11-16 19:55:36,081 - logger_file -INFO - user selects the available options for product
+2020-11-16 19:55:36,326 - logger_file -INFO - User enters the quantity
+2020-11-16 19:55:36,517 - logger_file -INFO - User clicks on Blue Add to Cart Button
+2020-11-16 19:55:36,643 - logger_file -INFO - User successfully added product into the shopping cart
+2020-11-16 19:55:36,749 - logger_file -INFO - User clicks on Shopping Cart
+2020-11-16 19:55:37,167 - logger_file -INFO - Product is added successfully into the shopping cart
+2020-11-16 19:55:37,763 - logger_file -INFO - User successfully clicks on View Cart Button
+2020-11-16 19:55:37,816 - logger_file -INFO - User is on 'What would you like to do next?' section of page
+2020-11-16 19:55:37,857 - logger_file -INFO - User is in Gift Certificate Section
+2020-11-16 19:55:37,955 - logger_file -INFO - User exapnds the Gift Certificate Section
+2020-11-16 19:55:38,476 - logger_file -INFO - User enters value into the gift certificate field
+2020-11-16 19:55:38,581 - logger_file -INFO - User applies gift voucher
+2020-11-16 19:55:38,703 - logger_file -INFO - User applied gift certificate
+2020-11-16 19:55:39,890 - logger_file -INFO - Users applies gift certificate into shopping cart   passed
+2020-11-16 19:55:39,898 - logger_file -INFO - Scenario All three currencies should be presentStarted 
+2020-11-16 19:55:47,164 - logger_file -INFO - Retail page is opened
+2020-11-16 19:55:47,178 - logger_file -INFO - Page title  is verified
+2020-11-16 19:55:47,906 - logger_file -INFO - Retail page is opened
+2020-11-16 19:55:47,929 - logger_file -INFO - Page title  is verified
+2020-11-16 19:55:48,393 - logger_file -INFO - User click on My Account
+2020-11-16 19:55:48,808 - logger_file -INFO - User click on Login
+2020-11-16 19:55:52,304 - logger_file -INFO - User enter email address
+2020-11-16 19:55:52,445 - logger_file -INFO - User enter password
+2020-11-16 19:55:53,348 - logger_file -INFO - User click on Login button
+2020-11-16 19:55:53,865 - logger_file -INFO - User clicks on Camera Button from product menu
+2020-11-16 19:55:54,355 - logger_file -INFO - user selects a canon product
+2020-11-16 19:55:54,474 - logger_file -INFO - User clicks on Currency Button
+2020-11-16 19:55:54,523 - logger_file -INFO - Euro currency button is displayed
+2020-11-16 19:55:54,566 - logger_file -INFO - Pound Sterling currency button is displayed
+2020-11-16 19:55:54,608 - logger_file -INFO - US Dollar currency button is displayed
+2020-11-16 19:55:55,966 - logger_file -INFO - All three currencies should be present   passed
+2020-11-16 19:55:55,973 - logger_file -INFO - Scenario currency should be visible under product descriptionStarted 
+2020-11-16 19:56:03,044 - logger_file -INFO - Retail page is opened
+2020-11-16 19:56:03,072 - logger_file -INFO - Page title  is verified
+2020-11-16 19:56:03,876 - logger_file -INFO - Retail page is opened
+2020-11-16 19:56:03,886 - logger_file -INFO - Page title  is verified
+2020-11-16 19:56:04,357 - logger_file -INFO - User click on My Account
+2020-11-16 19:56:04,728 - logger_file -INFO - User click on Login
+2020-11-16 19:56:08,204 - logger_file -INFO - User enter email address
+2020-11-16 19:56:08,338 - logger_file -INFO - User enter password
+2020-11-16 19:56:09,118 - logger_file -INFO - User click on Login button
+2020-11-16 19:56:09,677 - logger_file -INFO - User clicks on Camera Button from product menu
+2020-11-16 19:56:10,193 - logger_file -INFO - user selects a canon product
+2020-11-16 19:56:10,306 - logger_file -INFO - User clicks on Currency Button
+2020-11-16 19:56:10,815 - logger_file -INFO - user clicks on US Dollar Button
+2020-11-16 19:56:11,345 - logger_file -INFO - Currency is US Dollar under product description
+2020-11-16 19:56:12,373 - logger_file -INFO - currency should be visible under product description   passed
+2020-11-16 19:56:12,386 - logger_file -INFO - Scenario currency should be visible under product detailsStarted 
+2020-11-16 19:56:20,051 - logger_file -INFO - Retail page is opened
+2020-11-16 19:56:20,066 - logger_file -INFO - Page title  is verified
+2020-11-16 19:56:20,766 - logger_file -INFO - Retail page is opened
+2020-11-16 19:56:20,776 - logger_file -INFO - Page title  is verified
+2020-11-16 19:56:21,261 - logger_file -INFO - User click on My Account
+2020-11-16 19:56:21,640 - logger_file -INFO - User click on Login
+2020-11-16 19:56:25,169 - logger_file -INFO - User enter email address
+2020-11-16 19:56:25,380 - logger_file -INFO - User enter password
+2020-11-16 19:56:26,192 - logger_file -INFO - User click on Login button
+2020-11-16 19:56:26,705 - logger_file -INFO - User clicks on Camera Button from product menu
+2020-11-16 19:56:27,123 - logger_file -INFO - user selects a canon product
+2020-11-16 19:56:28,967 - logger_file -INFO - User clicks on canon link
+2020-11-16 19:56:29,404 - logger_file -INFO - Curreny is US Dollar under product details
+2020-11-16 19:56:30,305 - logger_file -INFO - currency should be visible under product details   passed
+2020-11-16 19:56:30,315 - logger_file -INFO - Scenario currency should be visible under shopping cartStarted 
+2020-11-16 19:56:37,666 - logger_file -INFO - Retail page is opened
+2020-11-16 19:56:37,677 - logger_file -INFO - Page title  is verified
+2020-11-16 19:56:38,406 - logger_file -INFO - Retail page is opened
+2020-11-16 19:56:38,415 - logger_file -INFO - Page title  is verified
+2020-11-16 19:56:38,911 - logger_file -INFO - User click on My Account
+2020-11-16 19:56:39,261 - logger_file -INFO - User click on Login
+2020-11-16 19:56:42,715 - logger_file -INFO - User enter email address
+2020-11-16 19:56:42,843 - logger_file -INFO - User enter password
+2020-11-16 19:56:43,564 - logger_file -INFO - User click on Login button
+2020-11-16 19:56:44,070 - logger_file -INFO - User clicks on Camera Button from product menu
+2020-11-16 19:56:44,527 - logger_file -INFO - user selects a canon product
+2020-11-16 19:56:46,004 - logger_file -INFO - User clicks on canon link
+2020-11-16 19:56:47,303 - logger_file -INFO - User clicks on canon link
+2020-11-16 19:56:48,951 - logger_file -INFO - user selects the available options for product
+2020-11-16 19:56:49,463 - logger_file -INFO - User enters the quantity
+2020-11-16 19:56:49,917 - logger_file -INFO - User clicks on Blue Add to Cart Button
+2020-11-16 19:56:50,041 - logger_file -INFO - User successfully added product into the shopping cart
+2020-11-16 19:56:50,164 - logger_file -INFO - User clicks on Shopping Cart
+2020-11-16 19:56:50,617 - logger_file -INFO - Curreny is US Dollar under shopping cart
+2020-11-16 19:56:51,485 - logger_file -INFO - currency should be visible under shopping cart   passed
+2020-11-16 19:56:51,542 - logger_file -INFO - Scenario currency should be visible under wish list cartStarted 
+2020-11-16 19:56:58,838 - logger_file -INFO - Retail page is opened
+2020-11-16 19:56:58,867 - logger_file -INFO - Page title  is verified
+2020-11-16 19:56:59,585 - logger_file -INFO - Retail page is opened
+2020-11-16 19:56:59,594 - logger_file -INFO - Page title  is verified
+2020-11-16 19:57:00,062 - logger_file -INFO - User click on My Account
+2020-11-16 19:57:00,417 - logger_file -INFO - User click on Login
+2020-11-16 19:57:03,920 - logger_file -INFO - User enter email address
+2020-11-16 19:57:04,053 - logger_file -INFO - User enter password
+2020-11-16 19:57:04,829 - logger_file -INFO - User click on Login button
+2020-11-16 19:57:05,338 - logger_file -INFO - User clicks on Camera Button from product menu
+2020-11-16 19:57:05,762 - logger_file -INFO - user selects a canon product
+2020-11-16 19:57:05,881 - logger_file -INFO - User clicks on Wish List heart button
+2020-11-16 19:57:06,380 - logger_file -INFO - product successfully added into wish list
+2020-11-16 19:57:07,085 - logger_file -INFO - User clicked on WishList Button
+2020-11-16 19:57:07,441 - logger_file -INFO - Product confirmed to be in the wish list
+2020-11-16 19:57:07,813 - logger_file -INFO - Curreny is US Dollar under wish list cart
+2020-11-16 19:57:08,685 - logger_file -INFO - currency should be visible under wish list cart   passed
+2020-11-16 19:57:08,697 - logger_file -INFO - Scenario default currency should be US Dollar upon loginStarted 
+2020-11-16 19:57:15,789 - logger_file -INFO - Retail page is opened
+2020-11-16 19:57:15,810 - logger_file -INFO - Page title  is verified
+2020-11-16 19:57:16,589 - logger_file -INFO - Retail page is opened
+2020-11-16 19:57:16,598 - logger_file -INFO - Page title  is verified
+2020-11-16 19:57:17,083 - logger_file -INFO - User click on My Account
+2020-11-16 19:57:17,467 - logger_file -INFO - User click on Login
+2020-11-16 19:57:20,947 - logger_file -INFO - User enter email address
+2020-11-16 19:57:21,069 - logger_file -INFO - User enter password
+2020-11-16 19:57:21,847 - logger_file -INFO - User click on Login button
+2020-11-16 19:57:22,401 - logger_file -INFO - User clicks on Camera Button from product menu
+2020-11-16 19:57:22,927 - logger_file -INFO - user selects a canon product
+2020-11-16 19:57:23,348 - logger_file -INFO - The retail page default currency is US Dollar
+2020-11-16 19:57:24,310 - logger_file -INFO - default currency should be US Dollar upon login   passed
+2020-11-16 19:57:24,321 - logger_file -INFO - Scenario select different currency as default when logging in and outStarted 
+2020-11-16 19:57:31,457 - logger_file -INFO - Retail page is opened
+2020-11-16 19:57:31,471 - logger_file -INFO - Page title  is verified
+2020-11-16 19:57:32,178 - logger_file -INFO - Retail page is opened
+2020-11-16 19:57:32,187 - logger_file -INFO - Page title  is verified
+2020-11-16 19:57:32,671 - logger_file -INFO - User click on My Account
+2020-11-16 19:57:33,014 - logger_file -INFO - User click on Login
+2020-11-16 19:57:36,525 - logger_file -INFO - User enter email address
+2020-11-16 19:57:36,660 - logger_file -INFO - User enter password
+2020-11-16 19:57:37,397 - logger_file -INFO - User click on Login button
+2020-11-16 19:57:37,914 - logger_file -INFO - User clicks on Camera Button from product menu
+2020-11-16 19:57:38,335 - logger_file -INFO - user selects a canon product
+2020-11-16 19:57:38,458 - logger_file -INFO - User clicks on Currency Button
+2020-11-16 19:57:38,971 - logger_file -INFO - User selects Pound Sterling as Default currency
+2020-11-16 19:57:39,068 - logger_file -INFO - User click on My Account
+2020-11-16 19:57:39,956 - logger_file -INFO - User click on My Account
+2020-11-16 19:57:40,275 - logger_file -INFO - User click on Login
+2020-11-16 19:57:43,759 - logger_file -INFO - User enter email address
+2020-11-16 19:57:43,868 - logger_file -INFO - User enter password
+2020-11-16 19:57:44,614 - logger_file -INFO - User click on Login button
+2020-11-16 19:57:45,372 - logger_file -INFO - Default Currency is changed to Pound Sterling
+2020-11-16 19:57:46,599 - logger_file -INFO - select different currency as default when logging in and out   passed

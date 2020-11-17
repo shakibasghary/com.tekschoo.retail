@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="388" failures="8" name="runner.TestRunner" time="21.574" errors="0" skipped="3">
+<testsuite tests="388" failures="0" name="runner.TestRunner" time="28.858" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_251\jre\bin"/>
@@ -27,7 +27,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
     <property name="os.name" value="Windows 10"/>
-    <property name="classworlds.conf" value="C:\Users\Lizeth Colinj\Desktop\SOFTWARE TESTING\JAVA ECLIPES\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf8315371523478582420.tmp"/>
+    <property name="classworlds.conf" value="C:\Users\Lizeth Colinj\Desktop\SOFTWARE TESTING\JAVA ECLIPES\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf1388923938962402712.tmp"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
     <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_251\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jre1.8.0_251/bin/server;C:/Program Files/Java/jre1.8.0_251/bin;C:/Program Files/Java/jre1.8.0_251/lib/amd64;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\windows\System32;C:\windows;C:\windows\System32\wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Micros Systems, Inc\Opera\Print Client;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\AOMEI\AOMEI Backupper 5.8.0;C:\Program Files\Java\jdk1.8.0_251\bin;C:\apache-maven-3.6.3\bin;C:\Program Files\Git\cmd;C:\Users\Lizeth Colinj\AppData\Local\Microsoft\WindowsApps;;C:\WINDOWS\system32;;."/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
@@ -61,22 +61,22 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="Scenario: Add product to wish list" name="Given User is on Retail Website" time="0.01"/>
-  <testcase classname="Scenario: Add product to wish list" name="And User Clicks on MyAccount" time="0"/>
+  <testcase classname="Scenario: Add product to wish list" name="Given User is on Retail Website" time="0.005"/>
+  <testcase classname="Scenario: Add product to wish list" name="And User Clicks on MyAccount" time="0.001"/>
   <testcase classname="Scenario: Add product to wish list" name="When User Clicks on Login" time="0"/>
-  <testcase classname="Scenario: Add product to wish list" name="And User enter username &apos;sdet@tekschool.us&apos; and password &apos;sdet&apos;" time="0"/>
+  <testcase classname="Scenario: Add product to wish list" name="And User enter username &apos;shakib2@shakib.com&apos; and password &apos;sdet&apos;" time="0"/>
   <testcase classname="Scenario: Add product to wish list" name="And User clicks on Login Button" time="0"/>
   <testcase classname="Scenario: Add product to wish list" name="Then User should be logged into MyAccount dashboard" time="0"/>
-  <testcase classname="Scenario: Add product to wish list" name="And user clicks on &apos;Cameras&apos; from products menu" time="0.001"/>
-  <testcase classname="Scenario: Add product to wish list" name="And user clicks on &apos;Canon&apos; from dropdown list" time="0"/>
+  <testcase classname="Scenario: Add product to wish list" name="And user clicks on &apos;Cameras&apos; from products menu" time="0"/>
+  <testcase classname="Scenario: Add product to wish list" name="And user clicks on &apos;Canon&apos; from dropdown list" time="0.002"/>
   <testcase classname="Scenario: Add product to wish list" name="When users hover mouse over heart icon it should show &apos;Add to Wish list&apos;" time="0"/>
   <testcase classname="Scenario: Add product to wish list" name="And user clicks on wish list heart icon button" time="0"/>
   <testcase classname="Scenario: Add product to wish list" name="Then user should see &apos;Success: You have added &apos; product into the wishlist" time="0"/>
-  <testcase classname="Scenario: Add product to wish list" name="Scenario: Add product to wish list" time="0.867"/>
+  <testcase classname="Scenario: Add product to wish list" name="Scenario: Add product to wish list" time="0.88"/>
   <testcase classname="Scenario: Add product to wish list by clicking on product link" name="Given User is on Retail Website" time="0"/>
   <testcase classname="Scenario: Add product to wish list by clicking on product link" name="And User Clicks on MyAccount" time="0"/>
   <testcase classname="Scenario: Add product to wish list by clicking on product link" name="When User Clicks on Login" time="0"/>
-  <testcase classname="Scenario: Add product to wish list by clicking on product link" name="And User enter username &apos;sdet@tekschool.us&apos; and password &apos;sdet&apos;" time="0"/>
+  <testcase classname="Scenario: Add product to wish list by clicking on product link" name="And User enter username &apos;shakib2@shakib.com&apos; and password &apos;sdet&apos;" time="0"/>
   <testcase classname="Scenario: Add product to wish list by clicking on product link" name="And User clicks on Login Button" time="0"/>
   <testcase classname="Scenario: Add product to wish list by clicking on product link" name="Then User should be logged into MyAccount dashboard" time="0"/>
   <testcase classname="Scenario: Add product to wish list by clicking on product link" name="And user clicks on &apos;Cameras&apos; from products menu" time="0"/>
@@ -85,52 +85,36 @@
   <testcase classname="Scenario: Add product to wish list by clicking on product link" name="And users hover mouse over heart icon it should show &apos;Add to Wish list&apos;" time="0"/>
   <testcase classname="Scenario: Add product to wish list by clicking on product link" name="And user clicks on wish list heart icon button" time="0"/>
   <testcase classname="Scenario: Add product to wish list by clicking on product link" name="Then user should see &apos;Success: You have added &apos; product into the wishlist" time="0"/>
-  <testcase classname="Scenario: Add product to wish list by clicking on product link" name="Scenario: Add product to wish list by clicking on product link" time="0.912"/>
+  <testcase classname="Scenario: Add product to wish list by clicking on product link" name="Scenario: Add product to wish list by clicking on product link" time="1.079"/>
   <testcase classname="Scenario: list of product added into wish list" name="Given User is on Retail Website" time="0"/>
   <testcase classname="Scenario: list of product added into wish list" name="And User Clicks on MyAccount" time="0"/>
   <testcase classname="Scenario: list of product added into wish list" name="When User Clicks on Login" time="0"/>
-  <testcase classname="Scenario: list of product added into wish list" name="And User enter username &apos;sdet@tekschool.us&apos; and password &apos;sdet&apos;" time="0"/>
+  <testcase classname="Scenario: list of product added into wish list" name="And User enter username &apos;shakib2@shakib.com&apos; and password &apos;sdet&apos;" time="0"/>
   <testcase classname="Scenario: list of product added into wish list" name="And User clicks on Login Button" time="0"/>
-  <testcase classname="Scenario: list of product added into wish list" name="Then User should be logged into MyAccount dashboard" time="0.001"/>
+  <testcase classname="Scenario: list of product added into wish list" name="Then User should be logged into MyAccount dashboard" time="0"/>
   <testcase classname="Scenario: list of product added into wish list" name="And user clicks on &apos;Cameras&apos; from products menu" time="0"/>
   <testcase classname="Scenario: list of product added into wish list" name="And user clicks on &apos;Canon&apos; from dropdown list" time="0"/>
   <testcase classname="Scenario: list of product added into wish list" name="When users hover mouse over heart icon it should show &apos;Add to Wish list&apos;" time="0"/>
   <testcase classname="Scenario: list of product added into wish list" name="And user clicks on wish list heart icon button" time="0"/>
   <testcase classname="Scenario: list of product added into wish list" name="And user should see &apos;Success: You have added &apos; product into the wishlist" time="0"/>
   <testcase classname="Scenario: list of product added into wish list" name="And user clicks on wish list button" time="0"/>
-  <testcase classname="Scenario: list of product added into wish list" name="Then user should see the list of items added into the wish list" time="0.017">
-    <failure type="java.lang.AssertionError">java.lang.AssertionError
-	at org.junit.Assert.fail(Assert.java:87)
-	at org.junit.Assert.assertTrue(Assert.java:42)
-	at org.junit.Assert.assertTrue(Assert.java:53)
-	at stepDefinitions.AddProductIntoWishList.user_should_see_the_list_of_items_added_into_the_wish_list(AddProductIntoWishList.java:46)
-	at ✽.Then user should see the list of items added into the wish list(Features/AddProductToWishList.feature:34)
-</failure>
-  </testcase>
-  <testcase classname="Scenario: list of product added into wish list" name="Scenario: list of product added into wish list" time="0.018">
-    <failure type="java.lang.AssertionError">java.lang.AssertionError
-	at org.junit.Assert.fail(Assert.java:87)
-	at org.junit.Assert.assertTrue(Assert.java:42)
-	at org.junit.Assert.assertTrue(Assert.java:53)
-	at stepDefinitions.AddProductIntoWishList.user_should_see_the_list_of_items_added_into_the_wish_list(AddProductIntoWishList.java:46)
-	at ✽.Then user should see the list of items added into the wish list(Features/AddProductToWishList.feature:34)
-</failure>
-  </testcase>
+  <testcase classname="Scenario: list of product added into wish list" name="Then user should see the list of items added into the wish list" time="0"/>
+  <testcase classname="Scenario: list of product added into wish list" name="Scenario: list of product added into wish list" time="0.898"/>
   <testcase classname="Scenario: Add product into shopping cart scenario one" name="Given User is on Retail Website" time="0"/>
   <testcase classname="Scenario: Add product into shopping cart scenario one" name="When user clicks on &apos;Cameras&apos; from products menu" time="0"/>
   <testcase classname="Scenario: Add product into shopping cart scenario one" name="And user clicks on &apos;Canon&apos; from dropdown list" time="0"/>
   <testcase classname="Scenario: Add product into shopping cart scenario one" name="When user clicks on ADD TO CART button" time="0"/>
   <testcase classname="Scenario: Add product into shopping cart scenario one" name="Then user should see &apos;Success: You have added&apos; message" time="0"/>
-  <testcase classname="Scenario: Add product into shopping cart scenario one" name="Scenario: Add product into shopping cart scenario one" time="1.034"/>
+  <testcase classname="Scenario: Add product into shopping cart scenario one" name="Scenario: Add product into shopping cart scenario one" time="0.938"/>
   <testcase classname="Scenario: Add product into shopping cart scenario two" name="Given User is on Retail Website" time="0"/>
   <testcase classname="Scenario: Add product into shopping cart scenario two" name="When user clicks on &apos;Cameras&apos; from products menu" time="0"/>
   <testcase classname="Scenario: Add product into shopping cart scenario two" name="And user clicks on &apos;Canon&apos; from dropdown list" time="0"/>
   <testcase classname="Scenario: Add product into shopping cart scenario two" name="When user clicks on the image of the product Canon EOS 5D" time="0"/>
   <testcase classname="Scenario: Add product into shopping cart scenario two" name="And user select available options as &apos;Blue&apos;" time="0"/>
   <testcase classname="Scenario: Add product into shopping cart scenario two" name="And user enters quantity as &apos;1&apos;" time="0"/>
-  <testcase classname="Scenario: Add product into shopping cart scenario two" name="And user clicks on blue Add to Cart button" time="0"/>
+  <testcase classname="Scenario: Add product into shopping cart scenario two" name="And user clicks on blue Add to Cart button" time="0.001"/>
   <testcase classname="Scenario: Add product into shopping cart scenario two" name="Then user should see &apos;Success: You have added&apos; message" time="0"/>
-  <testcase classname="Scenario: Add product into shopping cart scenario two" name="Scenario: Add product into shopping cart scenario two" time="1.1"/>
+  <testcase classname="Scenario: Add product into shopping cart scenario two" name="Scenario: Add product into shopping cart scenario two" time="2.423"/>
   <testcase classname="Scenario: confirmation of quantities of product added to shopping cart" name="Given User is on Retail Website" time="0"/>
   <testcase classname="Scenario: confirmation of quantities of product added to shopping cart" name="When user clicks on &apos;Cameras&apos; from products menu" time="0"/>
   <testcase classname="Scenario: confirmation of quantities of product added to shopping cart" name="And user clicks on &apos;Canon&apos; from dropdown list" time="0"/>
@@ -139,9 +123,9 @@
   <testcase classname="Scenario: confirmation of quantities of product added to shopping cart" name="And user enters quantity as &apos;1&apos;" time="0"/>
   <testcase classname="Scenario: confirmation of quantities of product added to shopping cart" name="And user clicks on blue Add to Cart button" time="0"/>
   <testcase classname="Scenario: confirmation of quantities of product added to shopping cart" name="Then user should see &apos;Success: You have added&apos; message" time="0"/>
-  <testcase classname="Scenario: confirmation of quantities of product added to shopping cart" name="And user clicks on &apos;Shopping Cart&apos;" time="0"/>
+  <testcase classname="Scenario: confirmation of quantities of product added to shopping cart" name="And user clicks on &apos;Shopping Cart&apos;" time="0.001"/>
   <testcase classname="Scenario: confirmation of quantities of product added to shopping cart" name="Then user should see quantity of product added to shopping cart" time="0"/>
-  <testcase classname="Scenario: confirmation of quantities of product added to shopping cart" name="Scenario: confirmation of quantities of product added to shopping cart" time="0.845"/>
+  <testcase classname="Scenario: confirmation of quantities of product added to shopping cart" name="Scenario: confirmation of quantities of product added to shopping cart" time="0.874"/>
   <testcase classname="Scenario: Confirmation of adding more quantities of product" name="Given User is on Retail Website" time="0"/>
   <testcase classname="Scenario: Confirmation of adding more quantities of product" name="When user clicks on &apos;Cameras&apos; from products menu" time="0"/>
   <testcase classname="Scenario: Confirmation of adding more quantities of product" name="And user clicks on &apos;Canon&apos; from dropdown list" time="0"/>
@@ -155,41 +139,73 @@
   <testcase classname="Scenario: Confirmation of adding more quantities of product" name="And user clicks on blue Add to Cart button" time="0"/>
   <testcase classname="Scenario: Confirmation of adding more quantities of product" name="And user clicks on &apos;Shopping Cart&apos;" time="0"/>
   <testcase classname="Scenario: Confirmation of adding more quantities of product" name="Then user should see increase in quantities of product added to the cart" time="0"/>
-  <testcase classname="Scenario: Confirmation of adding more quantities of product" name="Scenario: Confirmation of adding more quantities of product" time="1.003"/>
+  <testcase classname="Scenario: Confirmation of adding more quantities of product" name="Scenario: Confirmation of adding more quantities of product" time="0.948"/>
+  <testcase classname="Scenario: Confirmation of checkout table fields" name="Given User is on Retail Website" time="0"/>
+  <testcase classname="Scenario: Confirmation of checkout table fields" name="And User is on Retail Website" time="0"/>
+  <testcase classname="Scenario: Confirmation of checkout table fields" name="And User Clicks on MyAccount" time="0"/>
+  <testcase classname="Scenario: Confirmation of checkout table fields" name="And User Clicks on Login" time="0"/>
+  <testcase classname="Scenario: Confirmation of checkout table fields" name="And User enter username &apos;shakib4@shakib.com&apos; and password &apos;sdet&apos;" time="0"/>
+  <testcase classname="Scenario: Confirmation of checkout table fields" name="And User clicks on Login Button" time="0"/>
+  <testcase classname="Scenario: Confirmation of checkout table fields" name="And User should be logged into MyAccount dashboard" time="0"/>
+  <testcase classname="Scenario: Confirmation of checkout table fields" name="And user clicks on &apos;Cameras&apos; from products menu" time="0.001"/>
+  <testcase classname="Scenario: Confirmation of checkout table fields" name="And user clicks on &apos;Canon&apos; from dropdown list" time="0"/>
+  <testcase classname="Scenario: Confirmation of checkout table fields" name="And user clicks on ADD TO CART button" time="0"/>
+  <testcase classname="Scenario: Confirmation of checkout table fields" name="And user select available options as &apos;Blue&apos;" time="0"/>
+  <testcase classname="Scenario: Confirmation of checkout table fields" name="And user enters quantity as &apos;1&apos;" time="0"/>
+  <testcase classname="Scenario: Confirmation of checkout table fields" name="And user clicks on blue Add to Cart button" time="0"/>
+  <testcase classname="Scenario: Confirmation of checkout table fields" name="And user should see &apos;Success: You have added&apos; message" time="0"/>
+  <testcase classname="Scenario: Confirmation of checkout table fields" name="And user clicks on &apos;Shopping Cart&apos;" time="0"/>
+  <testcase classname="Scenario: Confirmation of checkout table fields" name="And user should see quantity of product added to shopping cart" time="0"/>
+  <testcase classname="Scenario: Confirmation of checkout table fields" name="When user clicks View Cart" time="0.001"/>
+  <testcase classname="Scenario: Confirmation of checkout table fields" name="And user sees &apos;What would you like to do next?&apos; message in shopping cart" time="0"/>
+  <testcase classname="Scenario: Confirmation of checkout table fields" name="And user clicks on Estimate Shipping &amp; Taxes" time="0"/>
+  <testcase classname="Scenario: Confirmation of checkout table fields" name="And user selects &apos;Afghanistan&apos; as country" time="0"/>
+  <testcase classname="Scenario: Confirmation of checkout table fields" name="And user selects Region/State as &apos;Kabul&apos;" time="0"/>
+  <testcase classname="Scenario: Confirmation of checkout table fields" name="And user enters Post Code as &apos;95351&apos;" time="0"/>
+  <testcase classname="Scenario: Confirmation of checkout table fields" name="And user clicks on &apos;Get Quotes&apos; button" time="0"/>
+  <testcase classname="Scenario: Confirmation of checkout table fields" name="And user clicks on &apos;Flat Shipping Rate&apos; button" time="0"/>
+  <testcase classname="Scenario: Confirmation of checkout table fields" name="And user clicks on &apos;Apply Shipping&apos; button" time="0"/>
+  <testcase classname="Scenario: Confirmation of checkout table fields" name="And user sees &apos;Success: Your shipping estimate has been applied!&apos; message" time="0"/>
+  <testcase classname="Scenario: Confirmation of checkout table fields" name="And user should be able to see &apos;Sub-Total&apos; at the end of shopping cart" time="0"/>
+  <testcase classname="Scenario: Confirmation of checkout table fields" name="And user should be able to see &apos;Flat Shipping Rate&apos; at the end of shopping cart" time="0"/>
+  <testcase classname="Scenario: Confirmation of checkout table fields" name="And user should be able to see &apos;Total&apos; at the end of shopping cart" time="0"/>
+  <testcase classname="Scenario: Confirmation of checkout table fields" name="And user clicks on Checkout Button" time="0"/>
+  <testcase classname="Scenario: Confirmation of checkout table fields" name="Then user should get to &apos;Checkout&apos; page" time="0"/>
+  <testcase classname="Scenario: Confirmation of checkout table fields" name="Scenario: Confirmation of checkout table fields" time="0.882"/>
   <testcase classname="Scenario: Execute all information from Actor Table" name="Given User connects to PostgreSQL" time="0"/>
-  <testcase classname="Scenario: Execute all information from Actor Table" name="When User sends &quot;select * from public.actor&quot;" time="0"/>
+  <testcase classname="Scenario: Execute all information from Actor Table" name="When User sends &quot;select * from public.actor&quot;" time="0.002"/>
   <testcase classname="Scenario: Execute all information from Actor Table" name="Then User should get all information from that table" time="0"/>
-  <testcase classname="Scenario: Execute all information from Actor Table" name="Scenario: Execute all information from Actor Table" time="0.804"/>
+  <testcase classname="Scenario: Execute all information from Actor Table" name="Scenario: Execute all information from Actor Table" time="0.847"/>
   <testcase classname="Scenario: Login to MyAccount" name="Given User is on Retail Website" time="0"/>
   <testcase classname="Scenario: Login to MyAccount" name="And User Clicks on MyAccount" time="0"/>
   <testcase classname="Scenario: Login to MyAccount" name="When User Clicks on Login" time="0"/>
   <testcase classname="Scenario: Login to MyAccount" name="And User enter username &apos;sdet@tekschool.us&apos; and password &apos;sdet&apos;" time="0"/>
   <testcase classname="Scenario: Login to MyAccount" name="And User clicks on Login Button" time="0"/>
   <testcase classname="Scenario: Login to MyAccount" name="Then User should be logged into MyAccount dashboard" time="0"/>
-  <testcase classname="Scenario: Login to MyAccount" name="Scenario: Login to MyAccount" time="0.821"/>
+  <testcase classname="Scenario: Login to MyAccount" name="Scenario: Login to MyAccount" time="0.913"/>
   <testcase classname="| sdet@tekschool.us | sdet |" name="Given User is on Retail Website" time="0"/>
   <testcase classname="| sdet@tekschool.us | sdet |" name="And User Clicks on MyAccount" time="0"/>
   <testcase classname="| sdet@tekschool.us | sdet |" name="When User Clicks on Login" time="0"/>
   <testcase classname="| sdet@tekschool.us | sdet |" name="And User enter username &apos;sdet@tekschool.us&apos; and password &apos;sdet&apos;" time="0"/>
   <testcase classname="| sdet@tekschool.us | sdet |" name="And User clicks on Login Button" time="0"/>
   <testcase classname="| sdet@tekschool.us | sdet |" name="Then User should be logged into MyAccount dashboard" time="0"/>
-  <testcase classname="| sdet@tekschool.us | sdet |" name="| sdet@tekschool.us | sdet |" time="0.805"/>
+  <testcase classname="| sdet@tekschool.us | sdet |" name="| sdet@tekschool.us | sdet |" time="2.07"/>
   <testcase classname="| consumer@tekschool.us | JBond |" name="Given User is on Retail Website" time="0"/>
   <testcase classname="| consumer@tekschool.us | JBond |" name="And User Clicks on MyAccount" time="0"/>
   <testcase classname="| consumer@tekschool.us | JBond |" name="When User Clicks on Login" time="0"/>
   <testcase classname="| consumer@tekschool.us | JBond |" name="And User enter username &apos;consumer@tekschool.us&apos; and password &apos;JBond&apos;" time="0"/>
   <testcase classname="| consumer@tekschool.us | JBond |" name="And User clicks on Login Button" time="0"/>
   <testcase classname="| consumer@tekschool.us | JBond |" name="Then User should be logged into MyAccount dashboard" time="0"/>
-  <testcase classname="| consumer@tekschool.us | JBond |" name="| consumer@tekschool.us | JBond |" time="0.874"/>
+  <testcase classname="| consumer@tekschool.us | JBond |" name="| consumer@tekschool.us | JBond |" time="0.965"/>
   <testcase classname="| students@tekschool.us | TEST |" name="Given User is on Retail Website" time="0"/>
   <testcase classname="| students@tekschool.us | TEST |" name="And User Clicks on MyAccount" time="0"/>
   <testcase classname="| students@tekschool.us | TEST |" name="When User Clicks on Login" time="0"/>
   <testcase classname="| students@tekschool.us | TEST |" name="And User enter username &apos;students@tekschool.us&apos; and password &apos;TEST&apos;" time="0"/>
   <testcase classname="| students@tekschool.us | TEST |" name="And User clicks on Login Button" time="0"/>
   <testcase classname="| students@tekschool.us | TEST |" name="Then User should be logged into MyAccount dashboard" time="0"/>
-  <testcase classname="| students@tekschool.us | TEST |" name="| students@tekschool.us | TEST |" time="0.843"/>
+  <testcase classname="| students@tekschool.us | TEST |" name="| students@tekschool.us | TEST |" time="0.869"/>
   <testcase classname="Scenario: Log out from MyAccount" name="Given User is on Retail Website" time="0"/>
-  <testcase classname="Scenario: Log out from MyAccount" name="And User Clicks on MyAccount" time="0.001"/>
+  <testcase classname="Scenario: Log out from MyAccount" name="And User Clicks on MyAccount" time="0"/>
   <testcase classname="Scenario: Log out from MyAccount" name="When User Clicks on Login" time="0"/>
   <testcase classname="Scenario: Log out from MyAccount" name="And User enter username &apos;sdet@tekschool.us&apos; and password &apos;sdet&apos;" time="0"/>
   <testcase classname="Scenario: Log out from MyAccount" name="And User clicks on Login Button" time="0"/>
@@ -197,80 +213,37 @@
   <testcase classname="Scenario: Log out from MyAccount" name="When User Clicks on MyAccount" time="0"/>
   <testcase classname="Scenario: Log out from MyAccount" name="And User click on Logout" time="0"/>
   <testcase classname="Scenario: Log out from MyAccount" name="Then User Should be logged out from MyAccount dashboard" time="0"/>
-  <testcase classname="Scenario: Log out from MyAccount" name="Scenario: Log out from MyAccount" time="0.845"/>
+  <testcase classname="Scenario: Log out from MyAccount" name="Scenario: Log out from MyAccount" time="0.849"/>
   <testcase classname="Scenario: Remove product from wish list" name="Given User is on Retail Website" time="0"/>
   <testcase classname="Scenario: Remove product from wish list" name="When User Clicks on MyAccount" time="0"/>
   <testcase classname="Scenario: Remove product from wish list" name="And User Clicks on Login" time="0"/>
-  <testcase classname="Scenario: Remove product from wish list" name="And User enter username &apos;sdet@tekschool.us&apos; and password &apos;sdet&apos;" time="0"/>
-  <testcase classname="Scenario: Remove product from wish list" name="And User clicks on Login Button" time="0"/>
-  <testcase classname="Scenario: Remove product from wish list" name="And User should be logged into MyAccount dashboard" time="0.001"/>
+  <testcase classname="Scenario: Remove product from wish list" name="And User enter username &apos;shakib2@shakib.com&apos; and password &apos;sdet&apos;" time="0"/>
+  <testcase classname="Scenario: Remove product from wish list" name="And User clicks on Login Button" time="0.001"/>
+  <testcase classname="Scenario: Remove product from wish list" name="And User should be logged into MyAccount dashboard" time="0"/>
   <testcase classname="Scenario: Remove product from wish list" name="And user clicks on &apos;Cameras&apos; from products menu" time="0"/>
-  <testcase classname="Scenario: Remove product from wish list" name="And user clicks on &apos;Canon&apos; from dropdown list" time="0.001"/>
+  <testcase classname="Scenario: Remove product from wish list" name="And user clicks on &apos;Canon&apos; from dropdown list" time="0"/>
   <testcase classname="Scenario: Remove product from wish list" name="And users hover mouse over heart icon it should show &apos;Add to Wish list&apos;" time="0"/>
   <testcase classname="Scenario: Remove product from wish list" name="And user clicks on wish list heart icon button" time="0"/>
   <testcase classname="Scenario: Remove product from wish list" name="And user should see &apos;Success: You have added &apos; product into the wishlist" time="0"/>
-  <testcase classname="Scenario: Remove product from wish list" name="And user clicks on wish list button" time="0"/>
-  <testcase classname="Scenario: Remove product from wish list" name="Then user should see the list of items added into the wish list" time="0">
-    <failure type="java.lang.AssertionError">java.lang.AssertionError
-	at org.junit.Assert.fail(Assert.java:87)
-	at org.junit.Assert.assertTrue(Assert.java:42)
-	at org.junit.Assert.assertTrue(Assert.java:53)
-	at stepDefinitions.AddProductIntoWishList.user_should_see_the_list_of_items_added_into_the_wish_list(AddProductIntoWishList.java:46)
-	at ✽.Then user should see the list of items added into the wish list(Features/RemoveProductFromWishList.feature:16)
-</failure>
-  </testcase>
-  <testcase classname="Scenario: Remove product from wish list" name="Scenario: Remove product from wish list" time="0.001">
-    <failure type="java.lang.AssertionError">java.lang.AssertionError
-	at org.junit.Assert.fail(Assert.java:87)
-	at org.junit.Assert.assertTrue(Assert.java:42)
-	at org.junit.Assert.assertTrue(Assert.java:53)
-	at stepDefinitions.AddProductIntoWishList.user_should_see_the_list_of_items_added_into_the_wish_list(AddProductIntoWishList.java:46)
-	at ✽.Then user should see the list of items added into the wish list(Features/RemoveProductFromWishList.feature:16)
-</failure>
-  </testcase>
-  <testcase classname="Scenario: Remove product from wish list" name="When user clicks on red &apos;X&apos; button" time="0.005">
-    <skipped/>
-    <system-out>
-  Background:                                                                # Features/RemoveProductFromWishList.feature:3
-    Given User is on Retail Website                                          # LoginTestStepDefinition.user_is_on_Retail_website()
-    When User Clicks on MyAccount                                            # LoginTestStepDefinition.user_click_on_MyAccount()
-    And User Clicks on Login                                                 # LoginTestStepDefinition.user_click_on_Login()
-    And User enter username &apos;sdet@tekschool.us&apos; and password &apos;sdet&apos;          # LoginTestStepDefinition.user_enter_username_sdet_tekschool_us_and_password_sdet(String,String)
-    And User clicks on Login Button                                          # LoginTestStepDefinition.user_click_on_Login_button()
-    And User should be logged into MyAccount dashboard                       # LoginTestStepDefinition.user_should_be_logged_in_to_MyAccount_dashboard()
-    And user clicks on &apos;Cameras&apos; from products menu                          # AddProductsToShoppingCart.user_clicks_on_Cameras_from_products_menu()
-    And user clicks on &apos;Canon&apos; from dropdown list                            # AddProductsToShoppingCart.user_clicks_on_Canon_from_dropdown_list()
-    And users hover mouse over heart icon it should show &apos;Add to Wish list&apos;  # AddProductIntoWishList.users_hover_mouse_over_heart_icon_it_should_show_Add_to_Wish_list()
-    And user clicks on wish list heart icon button                           # AddProductIntoWishList.user_clicks_on_wish_list_heart_icon_button()
-    And user should see &apos;Success: You have added &apos; product into the wishlist # AddProductIntoWishList.user_should_see_Success_You_have_added_product_into_the_wishlist(String)
-    And user clicks on wish list button                                      # AddProductIntoWishList.user_clicks_on_wish_list_button()
-    Then user should see the list of items added into the wish list          # AddProductIntoWishList.user_should_see_the_list_of_items_added_into_the_wish_list()
-      java.lang.AssertionError
-      	at org.junit.Assert.fail(Assert.java:87)
-      	at org.junit.Assert.assertTrue(Assert.java:42)
-      	at org.junit.Assert.assertTrue(Assert.java:53)
-      	at stepDefinitions.AddProductIntoWishList.user_should_see_the_list_of_items_added_into_the_wish_list(AddProductIntoWishList.java:46)
-      	at ?.Then user should see the list of items added into the wish list(Features/RemoveProductFromWishList.feature:16)
-
-</system-out>
-  </testcase>
-  <testcase classname="Scenario: Remove product from wish list" name="Then user should the message &apos;Your wish list is empty.&apos;" time="0.006">
-    <skipped/>
-  </testcase>
+  <testcase classname="Scenario: Remove product from wish list" name="And user clicks on wish list button" time="0.001"/>
+  <testcase classname="Scenario: Remove product from wish list" name="Then user should see the list of items added into the wish list" time="0"/>
+  <testcase classname="Scenario: Remove product from wish list" name="When user clicks on red &apos;X&apos; button" time="0"/>
+  <testcase classname="Scenario: Remove product from wish list" name="Then user should the message &apos;Your wish list is empty.&apos;" time="0"/>
+  <testcase classname="Scenario: Remove product from wish list" name="Scenario: Remove product from wish list" time="0.933"/>
   <testcase classname="Scenario: Removing product from shopping cart" name="Given User is on Retail Website" time="0"/>
   <testcase classname="Scenario: Removing product from shopping cart" name="And user clicks on &apos;Cameras&apos; from products menu" time="0"/>
   <testcase classname="Scenario: Removing product from shopping cart" name="And user clicks on &apos;Canon&apos; from dropdown list" time="0"/>
   <testcase classname="Scenario: Removing product from shopping cart" name="And user clicks on the image of the product Canon EOS 5D" time="0"/>
   <testcase classname="Scenario: Removing product from shopping cart" name="And user select available options as &apos;Blue&apos;" time="0"/>
-  <testcase classname="Scenario: Removing product from shopping cart" name="And user enters quantity as &apos;1&apos;" time="0"/>
+  <testcase classname="Scenario: Removing product from shopping cart" name="And user enters quantity as &apos;1&apos;" time="0.001"/>
   <testcase classname="Scenario: Removing product from shopping cart" name="And user clicks on blue Add to Cart button" time="0"/>
   <testcase classname="Scenario: Removing product from shopping cart" name="And user should see &apos;Success: You have added&apos; message" time="0"/>
   <testcase classname="Scenario: Removing product from shopping cart" name="And user clicks on &apos;Shopping Cart&apos;" time="0"/>
   <testcase classname="Scenario: Removing product from shopping cart" name="Then user should see quantity of product added to shopping cart" time="0"/>
   <testcase classname="Scenario: Removing product from shopping cart" name="When user clicks on &apos;X&apos; mark next to the product on shopping cart" time="0"/>
   <testcase classname="Scenario: Removing product from shopping cart" name="Then the item should be removed and &apos;Your shopping cart is empty!&apos; message is displayed" time="0"/>
-  <testcase classname="Scenario: Removing product from shopping cart" name="Scenario: Removing product from shopping cart" time="1.015"/>
-  <testcase classname="Scenario: Register Account for new Retail user" name="Given User is on Retail Website" time="0"/>
+  <testcase classname="Scenario: Removing product from shopping cart" name="Scenario: Removing product from shopping cart" time="0.87"/>
+  <testcase classname="Scenario: Register Account for new Retail user" name="Given User is on Retail Website" time="0.004"/>
   <testcase classname="Scenario: Register Account for new Retail user" name="When User Clicks on MyAccount" time="0"/>
   <testcase classname="Scenario: Register Account for new Retail user" name="And User click on Register" time="0"/>
   <testcase classname="Scenario: Register Account for new Retail user" name="And User fill out Register form with below information" time="0"/>
@@ -278,18 +251,18 @@
   <testcase classname="Scenario: Register Account for new Retail user" name="And User click on privacy and policy check box" time="0"/>
   <testcase classname="Scenario: Register Account for new Retail user" name="And User click on Continue button" time="0"/>
   <testcase classname="Scenario: Register Account for new Retail user" name="Then User Should see message &apos;Your Account Has Been Created!&apos;" time="0"/>
-  <testcase classname="Scenario: Register Account for new Retail user" name="Scenario: Register Account for new Retail user" time="0.89"/>
-  <testcase classname="Scenario: confirm calculation of price x quantity of total" name="Given User is on Retail Website" time="0"/>
+  <testcase classname="Scenario: Register Account for new Retail user" name="Scenario: Register Account for new Retail user" time="0.869"/>
+  <testcase classname="Scenario: confirm calculation of price x quantity of total" name="Given User is on Retail Website" time="0.001"/>
   <testcase classname="Scenario: confirm calculation of price x quantity of total" name="And User is on Retail Website" time="0"/>
   <testcase classname="Scenario: confirm calculation of price x quantity of total" name="And User Clicks on MyAccount" time="0"/>
   <testcase classname="Scenario: confirm calculation of price x quantity of total" name="And User Clicks on Login" time="0"/>
-  <testcase classname="Scenario: confirm calculation of price x quantity of total" name="And User enter username &apos;sdet@tekschool.us&apos; and password &apos;sdet&apos;" time="0"/>
+  <testcase classname="Scenario: confirm calculation of price x quantity of total" name="And User enter username &apos;shakib3@shakib.com&apos; and password &apos;sdet&apos;" time="0"/>
   <testcase classname="Scenario: confirm calculation of price x quantity of total" name="And User clicks on Login Button" time="0"/>
   <testcase classname="Scenario: confirm calculation of price x quantity of total" name="And User should be logged into MyAccount dashboard" time="0"/>
   <testcase classname="Scenario: confirm calculation of price x quantity of total" name="And user clicks on &apos;Cameras&apos; from products menu" time="0"/>
   <testcase classname="Scenario: confirm calculation of price x quantity of total" name="And user clicks on &apos;Canon&apos; from dropdown list" time="0"/>
   <testcase classname="Scenario: confirm calculation of price x quantity of total" name="And user clicks on ADD TO CART button" time="0"/>
-  <testcase classname="Scenario: confirm calculation of price x quantity of total" name="And user select available options as &apos;Blue&apos;" time="0"/>
+  <testcase classname="Scenario: confirm calculation of price x quantity of total" name="And user select available options as &apos;Blue&apos;" time="0.002"/>
   <testcase classname="Scenario: confirm calculation of price x quantity of total" name="And user enters quantity as &apos;1&apos;" time="0"/>
   <testcase classname="Scenario: confirm calculation of price x quantity of total" name="And user clicks on blue Add to Cart button" time="0"/>
   <testcase classname="Scenario: confirm calculation of price x quantity of total" name="And user should see &apos;Success: You have added&apos; message" time="0"/>
@@ -299,28 +272,14 @@
   <testcase classname="Scenario: confirm calculation of price x quantity of total" name="And user confirms that Quantity field , Unit Price and Total is displayed" time="0"/>
   <testcase classname="Scenario: confirm calculation of price x quantity of total" name="And user update the quantity to &apos;2&apos;" time="0"/>
   <testcase classname="Scenario: confirm calculation of price x quantity of total" name="And user clicks on refresh icon" time="0"/>
-  <testcase classname="Scenario: confirm calculation of price x quantity of total" name="Then user should see updated unit price x quanitity of total" time="0">
-    <failure message="expected:&lt;[$98.00]&gt; but was:&lt;[]&gt;" type="org.junit.ComparisonFailure">org.junit.ComparisonFailure: expected:&lt;[$98.00]&gt; but was:&lt;[]&gt;
-	at org.junit.Assert.assertEquals(Assert.java:117)
-	at org.junit.Assert.assertEquals(Assert.java:146)
-	at stepDefinitions.ShoppingCartCheckoutPageStepDefinition.user_should_see_updated_unit_price_x_quanitity_of_total(ShoppingCartCheckoutPageStepDefinition.java:50)
-	at ✽.Then user should see updated unit price x quanitity of total(Features/ShoppingCartCheckoutPage.feature:27)
-</failure>
-  </testcase>
-  <testcase classname="Scenario: confirm calculation of price x quantity of total" name="Scenario: confirm calculation of price x quantity of total" time="0">
-    <failure message="expected:&lt;[$98.00]&gt; but was:&lt;[]&gt;" type="org.junit.ComparisonFailure">org.junit.ComparisonFailure: expected:&lt;[$98.00]&gt; but was:&lt;[]&gt;
-	at org.junit.Assert.assertEquals(Assert.java:117)
-	at org.junit.Assert.assertEquals(Assert.java:146)
-	at stepDefinitions.ShoppingCartCheckoutPageStepDefinition.user_should_see_updated_unit_price_x_quanitity_of_total(ShoppingCartCheckoutPageStepDefinition.java:50)
-	at ✽.Then user should see updated unit price x quanitity of total(Features/ShoppingCartCheckoutPage.feature:27)
-</failure>
-  </testcase>
+  <testcase classname="Scenario: confirm calculation of price x quantity of total" name="Then user should see updated unit price x quanitity of total" time="0"/>
+  <testcase classname="Scenario: confirm calculation of price x quantity of total" name="Scenario: confirm calculation of price x quantity of total" time="0.885"/>
   <testcase classname="Scenario: user adds coupon code into shopping cart" name="Given User is on Retail Website" time="0"/>
   <testcase classname="Scenario: user adds coupon code into shopping cart" name="And User is on Retail Website" time="0"/>
   <testcase classname="Scenario: user adds coupon code into shopping cart" name="And User Clicks on MyAccount" time="0"/>
   <testcase classname="Scenario: user adds coupon code into shopping cart" name="And User Clicks on Login" time="0"/>
-  <testcase classname="Scenario: user adds coupon code into shopping cart" name="And User enter username &apos;sdet@tekschool.us&apos; and password &apos;sdet&apos;" time="0"/>
-  <testcase classname="Scenario: user adds coupon code into shopping cart" name="And User clicks on Login Button" time="0.001"/>
+  <testcase classname="Scenario: user adds coupon code into shopping cart" name="And User enter username &apos;shakib3@shakib.com&apos; and password &apos;sdet&apos;" time="0"/>
+  <testcase classname="Scenario: user adds coupon code into shopping cart" name="And User clicks on Login Button" time="0"/>
   <testcase classname="Scenario: user adds coupon code into shopping cart" name="And User should be logged into MyAccount dashboard" time="0"/>
   <testcase classname="Scenario: user adds coupon code into shopping cart" name="And user clicks on &apos;Cameras&apos; from products menu" time="0"/>
   <testcase classname="Scenario: user adds coupon code into shopping cart" name="And user clicks on &apos;Canon&apos; from dropdown list" time="0"/>
@@ -337,12 +296,12 @@
   <testcase classname="Scenario: user adds coupon code into shopping cart" name="And user enters &apos;sample&apos; coupon code" time="0"/>
   <testcase classname="Scenario: user adds coupon code into shopping cart" name="And user clicks on &apos;Apply coupon&apos; button" time="0"/>
   <testcase classname="Scenario: user adds coupon code into shopping cart" name="Then user should successfully see coupon added" time="0"/>
-  <testcase classname="Scenario: user adds coupon code into shopping cart" name="Scenario: user adds coupon code into shopping cart" time="0.888"/>
+  <testcase classname="Scenario: user adds coupon code into shopping cart" name="Scenario: user adds coupon code into shopping cart" time="1.074"/>
   <testcase classname="Scenario: User completes Estimate Shipping &amp; Taxes section" name="Given User is on Retail Website" time="0"/>
   <testcase classname="Scenario: User completes Estimate Shipping &amp; Taxes section" name="And User is on Retail Website" time="0"/>
   <testcase classname="Scenario: User completes Estimate Shipping &amp; Taxes section" name="And User Clicks on MyAccount" time="0"/>
   <testcase classname="Scenario: User completes Estimate Shipping &amp; Taxes section" name="And User Clicks on Login" time="0"/>
-  <testcase classname="Scenario: User completes Estimate Shipping &amp; Taxes section" name="And User enter username &apos;sdet@tekschool.us&apos; and password &apos;sdet&apos;" time="0"/>
+  <testcase classname="Scenario: User completes Estimate Shipping &amp; Taxes section" name="And User enter username &apos;shakib3@shakib.com&apos; and password &apos;sdet&apos;" time="0"/>
   <testcase classname="Scenario: User completes Estimate Shipping &amp; Taxes section" name="And User clicks on Login Button" time="0"/>
   <testcase classname="Scenario: User completes Estimate Shipping &amp; Taxes section" name="And User should be logged into MyAccount dashboard" time="0"/>
   <testcase classname="Scenario: User completes Estimate Shipping &amp; Taxes section" name="And user clicks on &apos;Cameras&apos; from products menu" time="0"/>
@@ -358,18 +317,18 @@
   <testcase classname="Scenario: User completes Estimate Shipping &amp; Taxes section" name="And user sees &apos;What would you like to do next?&apos; message in shopping cart" time="0"/>
   <testcase classname="Scenario: User completes Estimate Shipping &amp; Taxes section" name="And user clicks on Estimate Shipping &amp; Taxes" time="0"/>
   <testcase classname="Scenario: User completes Estimate Shipping &amp; Taxes section" name="And user selects &apos;Afghanistan&apos; as country" time="0"/>
-  <testcase classname="Scenario: User completes Estimate Shipping &amp; Taxes section" name="And user selects Region/State as &apos;Kabul&apos;" time="0.001"/>
+  <testcase classname="Scenario: User completes Estimate Shipping &amp; Taxes section" name="And user selects Region/State as &apos;Kabul&apos;" time="0"/>
   <testcase classname="Scenario: User completes Estimate Shipping &amp; Taxes section" name="And user enters Post Code as &apos;95351&apos;" time="0"/>
   <testcase classname="Scenario: User completes Estimate Shipping &amp; Taxes section" name="And user clicks on &apos;Get Quotes&apos; button" time="0"/>
   <testcase classname="Scenario: User completes Estimate Shipping &amp; Taxes section" name="And user clicks on &apos;Flat Shipping Rate&apos; button" time="0"/>
   <testcase classname="Scenario: User completes Estimate Shipping &amp; Taxes section" name="And user clicks on &apos;Apply Shipping&apos; button" time="0"/>
   <testcase classname="Scenario: User completes Estimate Shipping &amp; Taxes section" name="Then user sees &apos;Success: Your shipping estimate has been applied!&apos; message" time="0"/>
-  <testcase classname="Scenario: User completes Estimate Shipping &amp; Taxes section" name="Scenario: User completes Estimate Shipping &amp; Taxes section" time="0.907"/>
+  <testcase classname="Scenario: User completes Estimate Shipping &amp; Taxes section" name="Scenario: User completes Estimate Shipping &amp; Taxes section" time="0.898"/>
   <testcase classname="Scenario: Users applies gift certificate into shopping cart" name="Given User is on Retail Website" time="0"/>
   <testcase classname="Scenario: Users applies gift certificate into shopping cart" name="And User is on Retail Website" time="0"/>
   <testcase classname="Scenario: Users applies gift certificate into shopping cart" name="And User Clicks on MyAccount" time="0"/>
   <testcase classname="Scenario: Users applies gift certificate into shopping cart" name="And User Clicks on Login" time="0"/>
-  <testcase classname="Scenario: Users applies gift certificate into shopping cart" name="And User enter username &apos;sdet@tekschool.us&apos; and password &apos;sdet&apos;" time="0"/>
+  <testcase classname="Scenario: Users applies gift certificate into shopping cart" name="And User enter username &apos;shakib3@shakib.com&apos; and password &apos;sdet&apos;" time="0"/>
   <testcase classname="Scenario: Users applies gift certificate into shopping cart" name="And User clicks on Login Button" time="0"/>
   <testcase classname="Scenario: Users applies gift certificate into shopping cart" name="And User should be logged into MyAccount dashboard" time="0"/>
   <testcase classname="Scenario: Users applies gift certificate into shopping cart" name="And user clicks on &apos;Cameras&apos; from products menu" time="0"/>
@@ -387,56 +346,24 @@
   <testcase classname="Scenario: Users applies gift certificate into shopping cart" name="And user enters &apos;sample&apos; gift certificate code" time="0"/>
   <testcase classname="Scenario: Users applies gift certificate into shopping cart" name="And user clicks on &apos;Apply Gift Certificate&apos;" time="0"/>
   <testcase classname="Scenario: Users applies gift certificate into shopping cart" name="Then user should successfully add the gift certificate" time="0"/>
-  <testcase classname="Scenario: Users applies gift certificate into shopping cart" name="Scenario: Users applies gift certificate into shopping cart" time="0.851"/>
-  <testcase classname="Scenario: Confirmation of checkout table fields" name="Given User is on Retail Website" time="0"/>
-  <testcase classname="Scenario: Confirmation of checkout table fields" name="And User is on Retail Website" time="0"/>
-  <testcase classname="Scenario: Confirmation of checkout table fields" name="And User Clicks on MyAccount" time="0"/>
-  <testcase classname="Scenario: Confirmation of checkout table fields" name="And User Clicks on Login" time="0"/>
-  <testcase classname="Scenario: Confirmation of checkout table fields" name="And User enter username &apos;sdet@tekschool.us&apos; and password &apos;sdet&apos;" time="0"/>
-  <testcase classname="Scenario: Confirmation of checkout table fields" name="And User clicks on Login Button" time="0"/>
-  <testcase classname="Scenario: Confirmation of checkout table fields" name="And User should be logged into MyAccount dashboard" time="0"/>
-  <testcase classname="Scenario: Confirmation of checkout table fields" name="And user clicks on &apos;Cameras&apos; from products menu" time="0"/>
-  <testcase classname="Scenario: Confirmation of checkout table fields" name="And user clicks on &apos;Canon&apos; from dropdown list" time="0"/>
-  <testcase classname="Scenario: Confirmation of checkout table fields" name="And user clicks on ADD TO CART button" time="0"/>
-  <testcase classname="Scenario: Confirmation of checkout table fields" name="And user select available options as &apos;Blue&apos;" time="0"/>
-  <testcase classname="Scenario: Confirmation of checkout table fields" name="And user enters quantity as &apos;1&apos;" time="0"/>
-  <testcase classname="Scenario: Confirmation of checkout table fields" name="And user clicks on blue Add to Cart button" time="0"/>
-  <testcase classname="Scenario: Confirmation of checkout table fields" name="And user should see &apos;Success: You have added&apos; message" time="0"/>
-  <testcase classname="Scenario: Confirmation of checkout table fields" name="And user clicks on &apos;Shopping Cart&apos;" time="0"/>
-  <testcase classname="Scenario: Confirmation of checkout table fields" name="And user should see quantity of product added to shopping cart" time="0"/>
-  <testcase classname="Scenario: Confirmation of checkout table fields" name="When user clicks View Cart" time="0"/>
-  <testcase classname="Scenario: Confirmation of checkout table fields" name="And user sees &apos;What would you like to do next?&apos; message in shopping cart" time="0"/>
-  <testcase classname="Scenario: Confirmation of checkout table fields" name="And user clicks on Estimate Shipping &amp; Taxes" time="0.001"/>
-  <testcase classname="Scenario: Confirmation of checkout table fields" name="And user selects &apos;Afghanistan&apos; as country" time="0"/>
-  <testcase classname="Scenario: Confirmation of checkout table fields" name="And user selects Region/State as &apos;Kabul&apos;" time="0"/>
-  <testcase classname="Scenario: Confirmation of checkout table fields" name="And user enters Post Code as &apos;95351&apos;" time="0"/>
-  <testcase classname="Scenario: Confirmation of checkout table fields" name="And user clicks on &apos;Get Quotes&apos; button" time="0"/>
-  <testcase classname="Scenario: Confirmation of checkout table fields" name="And user clicks on &apos;Flat Shipping Rate&apos; button" time="0"/>
-  <testcase classname="Scenario: Confirmation of checkout table fields" name="And user clicks on &apos;Apply Shipping&apos; button" time="0"/>
-  <testcase classname="Scenario: Confirmation of checkout table fields" name="And user sees &apos;Success: Your shipping estimate has been applied!&apos; message" time="0"/>
-  <testcase classname="Scenario: Confirmation of checkout table fields" name="And user should be able to see &apos;Sub-Total&apos; at the end of shopping cart" time="0"/>
-  <testcase classname="Scenario: Confirmation of checkout table fields" name="And user should be able to see &apos;Flat Shipping Rate&apos; at the end of shopping cart" time="0"/>
-  <testcase classname="Scenario: Confirmation of checkout table fields" name="And user should be able to see &apos;Total&apos; at the end of shopping cart" time="0"/>
-  <testcase classname="Scenario: Confirmation of checkout table fields" name="And user clicks on Checkout Button" time="0"/>
-  <testcase classname="Scenario: Confirmation of checkout table fields" name="Then user should get to &apos;Checkout&apos; page" time="0"/>
-  <testcase classname="Scenario: Confirmation of checkout table fields" name="Scenario: Confirmation of checkout table fields" time="0.898"/>
+  <testcase classname="Scenario: Users applies gift certificate into shopping cart" name="Scenario: Users applies gift certificate into shopping cart" time="0.861"/>
   <testcase classname="Scenario: All three currencies should be present" name="Given User is on Retail Website" time="0"/>
   <testcase classname="Scenario: All three currencies should be present" name="And User is on Retail Website" time="0"/>
   <testcase classname="Scenario: All three currencies should be present" name="And User Clicks on MyAccount" time="0"/>
   <testcase classname="Scenario: All three currencies should be present" name="And User Clicks on Login" time="0"/>
-  <testcase classname="Scenario: All three currencies should be present" name="And User enter username &apos;sdet@tekschool.us&apos; and password &apos;sdet&apos;" time="0"/>
+  <testcase classname="Scenario: All three currencies should be present" name="And User enter username &apos;shakib@shakib.com&apos; and password &apos;sdet&apos;" time="0"/>
   <testcase classname="Scenario: All three currencies should be present" name="And User clicks on Login Button" time="0"/>
   <testcase classname="Scenario: All three currencies should be present" name="And User should be logged into MyAccount dashboard" time="0"/>
   <testcase classname="Scenario: All three currencies should be present" name="And user clicks on &apos;Cameras&apos; from products menu" time="0"/>
   <testcase classname="Scenario: All three currencies should be present" name="And user clicks on &apos;Canon&apos; from dropdown list" time="0"/>
   <testcase classname="Scenario: All three currencies should be present" name="When user clicks on Currency button" time="0"/>
   <testcase classname="Scenario: All three currencies should be present" name="Then user should be able to see Euro , Pound Sterling and US Dollar button" time="0"/>
-  <testcase classname="Scenario: All three currencies should be present" name="Scenario: All three currencies should be present" time="0.831"/>
+  <testcase classname="Scenario: All three currencies should be present" name="Scenario: All three currencies should be present" time="1.036"/>
   <testcase classname="Scenario: currency should be visible under product description" name="Given User is on Retail Website" time="0"/>
   <testcase classname="Scenario: currency should be visible under product description" name="And User is on Retail Website" time="0"/>
   <testcase classname="Scenario: currency should be visible under product description" name="And User Clicks on MyAccount" time="0"/>
   <testcase classname="Scenario: currency should be visible under product description" name="And User Clicks on Login" time="0"/>
-  <testcase classname="Scenario: currency should be visible under product description" name="And User enter username &apos;sdet@tekschool.us&apos; and password &apos;sdet&apos;" time="0"/>
+  <testcase classname="Scenario: currency should be visible under product description" name="And User enter username &apos;shakib@shakib.com&apos; and password &apos;sdet&apos;" time="0"/>
   <testcase classname="Scenario: currency should be visible under product description" name="And User clicks on Login Button" time="0"/>
   <testcase classname="Scenario: currency should be visible under product description" name="And User should be logged into MyAccount dashboard" time="0"/>
   <testcase classname="Scenario: currency should be visible under product description" name="And user clicks on &apos;Cameras&apos; from products menu" time="0"/>
@@ -444,24 +371,24 @@
   <testcase classname="Scenario: currency should be visible under product description" name="When user clicks on Currency button" time="0"/>
   <testcase classname="Scenario: currency should be visible under product description" name="And user clicks on US Dollar Button" time="0"/>
   <testcase classname="Scenario: currency should be visible under product description" name="Then user should see price change under product description" time="0"/>
-  <testcase classname="Scenario: currency should be visible under product description" name="Scenario: currency should be visible under product description" time="0.874"/>
+  <testcase classname="Scenario: currency should be visible under product description" name="Scenario: currency should be visible under product description" time="1.03"/>
   <testcase classname="Scenario: currency should be visible under product details" name="Given User is on Retail Website" time="0"/>
   <testcase classname="Scenario: currency should be visible under product details" name="And User is on Retail Website" time="0"/>
   <testcase classname="Scenario: currency should be visible under product details" name="And User Clicks on MyAccount" time="0"/>
   <testcase classname="Scenario: currency should be visible under product details" name="And User Clicks on Login" time="0"/>
-  <testcase classname="Scenario: currency should be visible under product details" name="And User enter username &apos;sdet@tekschool.us&apos; and password &apos;sdet&apos;" time="0"/>
+  <testcase classname="Scenario: currency should be visible under product details" name="And User enter username &apos;shakib@shakib.com&apos; and password &apos;sdet&apos;" time="0"/>
   <testcase classname="Scenario: currency should be visible under product details" name="And User clicks on Login Button" time="0"/>
   <testcase classname="Scenario: currency should be visible under product details" name="And User should be logged into MyAccount dashboard" time="0"/>
   <testcase classname="Scenario: currency should be visible under product details" name="And user clicks on &apos;Cameras&apos; from products menu" time="0"/>
   <testcase classname="Scenario: currency should be visible under product details" name="And user clicks on &apos;Canon&apos; from dropdown list" time="0"/>
   <testcase classname="Scenario: currency should be visible under product details" name="When user clicks on the image of the product Canon EOS 5D" time="0"/>
   <testcase classname="Scenario: currency should be visible under product details" name="Then user should be able to see the US Dollar Currency" time="0"/>
-  <testcase classname="Scenario: currency should be visible under product details" name="Scenario: currency should be visible under product details" time="0.934"/>
+  <testcase classname="Scenario: currency should be visible under product details" name="Scenario: currency should be visible under product details" time="0.922"/>
   <testcase classname="Scenario: currency should be visible under shopping cart" name="Given User is on Retail Website" time="0"/>
   <testcase classname="Scenario: currency should be visible under shopping cart" name="And User is on Retail Website" time="0"/>
   <testcase classname="Scenario: currency should be visible under shopping cart" name="And User Clicks on MyAccount" time="0"/>
   <testcase classname="Scenario: currency should be visible under shopping cart" name="And User Clicks on Login" time="0"/>
-  <testcase classname="Scenario: currency should be visible under shopping cart" name="And User enter username &apos;sdet@tekschool.us&apos; and password &apos;sdet&apos;" time="0"/>
+  <testcase classname="Scenario: currency should be visible under shopping cart" name="And User enter username &apos;shakib@shakib.com&apos; and password &apos;sdet&apos;" time="0"/>
   <testcase classname="Scenario: currency should be visible under shopping cart" name="And User clicks on Login Button" time="0"/>
   <testcase classname="Scenario: currency should be visible under shopping cart" name="And User should be logged into MyAccount dashboard" time="0"/>
   <testcase classname="Scenario: currency should be visible under shopping cart" name="And user clicks on &apos;Cameras&apos; from products menu" time="0"/>
@@ -474,12 +401,12 @@
   <testcase classname="Scenario: currency should be visible under shopping cart" name="And user should see &apos;Success: You have added&apos; message" time="0"/>
   <testcase classname="Scenario: currency should be visible under shopping cart" name="And user clicks on &apos;Shopping Cart&apos;" time="0"/>
   <testcase classname="Scenario: currency should be visible under shopping cart" name="Then Then user should be able to see the US Dollar Currency" time="0"/>
-  <testcase classname="Scenario: currency should be visible under shopping cart" name="Scenario: currency should be visible under shopping cart" time="0.905"/>
+  <testcase classname="Scenario: currency should be visible under shopping cart" name="Scenario: currency should be visible under shopping cart" time="0.939"/>
   <testcase classname="Scenario: currency should be visible under wish list cart" name="Given User is on Retail Website" time="0"/>
   <testcase classname="Scenario: currency should be visible under wish list cart" name="And User is on Retail Website" time="0"/>
-  <testcase classname="Scenario: currency should be visible under wish list cart" name="And User Clicks on MyAccount" time="0.001"/>
+  <testcase classname="Scenario: currency should be visible under wish list cart" name="And User Clicks on MyAccount" time="0"/>
   <testcase classname="Scenario: currency should be visible under wish list cart" name="And User Clicks on Login" time="0"/>
-  <testcase classname="Scenario: currency should be visible under wish list cart" name="And User enter username &apos;sdet@tekschool.us&apos; and password &apos;sdet&apos;" time="0"/>
+  <testcase classname="Scenario: currency should be visible under wish list cart" name="And User enter username &apos;shakib@shakib.com&apos; and password &apos;sdet&apos;" time="0"/>
   <testcase classname="Scenario: currency should be visible under wish list cart" name="And User clicks on Login Button" time="0"/>
   <testcase classname="Scenario: currency should be visible under wish list cart" name="And User should be logged into MyAccount dashboard" time="0"/>
   <testcase classname="Scenario: currency should be visible under wish list cart" name="And user clicks on &apos;Cameras&apos; from products menu" time="0"/>
@@ -487,57 +414,39 @@
   <testcase classname="Scenario: currency should be visible under wish list cart" name="When user clicks on wish list heart icon button" time="0"/>
   <testcase classname="Scenario: currency should be visible under wish list cart" name="And user should see &apos;Success: You have added &apos; product into the wishlist" time="0"/>
   <testcase classname="Scenario: currency should be visible under wish list cart" name="And user clicks on wish list button" time="0"/>
-  <testcase classname="Scenario: currency should be visible under wish list cart" name="And user should see the list of items added into the wish list" time="0">
-    <failure type="java.lang.AssertionError">java.lang.AssertionError
-	at org.junit.Assert.fail(Assert.java:87)
-	at org.junit.Assert.assertTrue(Assert.java:42)
-	at org.junit.Assert.assertTrue(Assert.java:53)
-	at stepDefinitions.AddProductIntoWishList.user_should_see_the_list_of_items_added_into_the_wish_list(AddProductIntoWishList.java:46)
-	at ✽.And user should see the list of items added into the wish list(Features/currency.feature:46)
-</failure>
-  </testcase>
-  <testcase classname="Scenario: currency should be visible under wish list cart" name="Scenario: currency should be visible under wish list cart" time="0">
-    <failure type="java.lang.AssertionError">java.lang.AssertionError
-	at org.junit.Assert.fail(Assert.java:87)
-	at org.junit.Assert.assertTrue(Assert.java:42)
-	at org.junit.Assert.assertTrue(Assert.java:53)
-	at stepDefinitions.AddProductIntoWishList.user_should_see_the_list_of_items_added_into_the_wish_list(AddProductIntoWishList.java:46)
-	at ✽.And user should see the list of items added into the wish list(Features/currency.feature:46)
-</failure>
-  </testcase>
-  <testcase classname="Scenario: currency should be visible under wish list cart" name="Then Then the currency should be US dollar" time="0.001">
-    <skipped/>
-  </testcase>
+  <testcase classname="Scenario: currency should be visible under wish list cart" name="And user should see the list of items added into the wish list" time="0"/>
+  <testcase classname="Scenario: currency should be visible under wish list cart" name="Then Then the currency should be US dollar" time="0"/>
+  <testcase classname="Scenario: currency should be visible under wish list cart" name="Scenario: currency should be visible under wish list cart" time="0.893"/>
   <testcase classname="Scenario: default currency should be US Dollar upon login" name="Given User is on Retail Website" time="0"/>
   <testcase classname="Scenario: default currency should be US Dollar upon login" name="And User is on Retail Website" time="0"/>
   <testcase classname="Scenario: default currency should be US Dollar upon login" name="And User Clicks on MyAccount" time="0"/>
   <testcase classname="Scenario: default currency should be US Dollar upon login" name="And User Clicks on Login" time="0"/>
-  <testcase classname="Scenario: default currency should be US Dollar upon login" name="And User enter username &apos;sdet@tekschool.us&apos; and password &apos;sdet&apos;" time="0"/>
+  <testcase classname="Scenario: default currency should be US Dollar upon login" name="And User enter username &apos;shakib@shakib.com&apos; and password &apos;sdet&apos;" time="0"/>
   <testcase classname="Scenario: default currency should be US Dollar upon login" name="And User clicks on Login Button" time="0"/>
   <testcase classname="Scenario: default currency should be US Dollar upon login" name="And User should be logged into MyAccount dashboard" time="0"/>
   <testcase classname="Scenario: default currency should be US Dollar upon login" name="And user clicks on &apos;Cameras&apos; from products menu" time="0"/>
   <testcase classname="Scenario: default currency should be US Dollar upon login" name="And user clicks on &apos;Canon&apos; from dropdown list" time="0"/>
   <testcase classname="Scenario: default currency should be US Dollar upon login" name="Then user should see US dollar as default currency" time="0"/>
-  <testcase classname="Scenario: default currency should be US Dollar upon login" name="Scenario: default currency should be US Dollar upon login" time="0.902"/>
+  <testcase classname="Scenario: default currency should be US Dollar upon login" name="Scenario: default currency should be US Dollar upon login" time="0.963"/>
   <testcase classname="Scenario: select different currency as default when logging in and out" name="Given User is on Retail Website" time="0"/>
   <testcase classname="Scenario: select different currency as default when logging in and out" name="And User is on Retail Website" time="0"/>
-  <testcase classname="Scenario: select different currency as default when logging in and out" name="And User Clicks on MyAccount" time="0"/>
+  <testcase classname="Scenario: select different currency as default when logging in and out" name="And User Clicks on MyAccount" time="0.001"/>
   <testcase classname="Scenario: select different currency as default when logging in and out" name="And User Clicks on Login" time="0"/>
-  <testcase classname="Scenario: select different currency as default when logging in and out" name="And User enter username &apos;sdet@tekschool.us&apos; and password &apos;sdet&apos;" time="0"/>
+  <testcase classname="Scenario: select different currency as default when logging in and out" name="And User enter username &apos;shakib@shakib.com&apos; and password &apos;sdet&apos;" time="0"/>
   <testcase classname="Scenario: select different currency as default when logging in and out" name="And User clicks on Login Button" time="0"/>
   <testcase classname="Scenario: select different currency as default when logging in and out" name="And User should be logged into MyAccount dashboard" time="0"/>
   <testcase classname="Scenario: select different currency as default when logging in and out" name="And user clicks on &apos;Cameras&apos; from products menu" time="0"/>
   <testcase classname="Scenario: select different currency as default when logging in and out" name="And user clicks on &apos;Canon&apos; from dropdown list" time="0"/>
   <testcase classname="Scenario: select different currency as default when logging in and out" name="When user clicks on Currency button" time="0"/>
   <testcase classname="Scenario: select different currency as default when logging in and out" name="And user selects different currency like &apos;Pound Sterling&apos;" time="0"/>
-  <testcase classname="Scenario: select different currency as default when logging in and out" name="And User Clicks on MyAccount" time="0.001"/>
+  <testcase classname="Scenario: select different currency as default when logging in and out" name="And User Clicks on MyAccount" time="0"/>
   <testcase classname="Scenario: select different currency as default when logging in and out" name="And User click on Logout" time="0"/>
   <testcase classname="Scenario: select different currency as default when logging in and out" name="And User Should be logged out from MyAccount dashboard" time="0"/>
   <testcase classname="Scenario: select different currency as default when logging in and out" name="And User Clicks on MyAccount" time="0"/>
   <testcase classname="Scenario: select different currency as default when logging in and out" name="And User Clicks on Login" time="0"/>
-  <testcase classname="Scenario: select different currency as default when logging in and out" name="And User enter username &apos;sdet@tekschool.us&apos; and password &apos;sdet&apos;" time="0"/>
+  <testcase classname="Scenario: select different currency as default when logging in and out" name="And User enter username &apos;shakib@shakib.com&apos; and password &apos;sdet&apos;" time="0"/>
   <testcase classname="Scenario: select different currency as default when logging in and out" name="And User clicks on Login Button" time="0"/>
   <testcase classname="Scenario: select different currency as default when logging in and out" name="And User should be logged into MyAccount dashboard" time="0"/>
   <testcase classname="Scenario: select different currency as default when logging in and out" name="Then User should see Pound Sterling as default currency" time="0"/>
-  <testcase classname="Scenario: select different currency as default when logging in and out" name="Scenario: select different currency as default when logging in and out" time="0.858"/>
+  <testcase classname="Scenario: select different currency as default when logging in and out" name="Scenario: select different currency as default when logging in and out" time="1.225"/>
 </testsuite>

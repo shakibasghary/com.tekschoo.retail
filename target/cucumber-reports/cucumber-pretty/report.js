@@ -7,7 +7,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 8730161100,
+  "duration": 10383299400,
   "status": "passed"
 });
 formatter.background({
@@ -34,7 +34,7 @@ formatter.step({
 });
 formatter.step({
   "line": 7,
-  "name": "User enter username \u0027sdet@tekschool.us\u0027 and password \u0027sdet\u0027",
+  "name": "User enter username \u0027shakib2@shakib.com\u0027 and password \u0027sdet\u0027",
   "keyword": "And "
 });
 formatter.step({
@@ -61,66 +61,66 @@ formatter.match({
   "location": "LoginTestStepDefinition.user_is_on_Retail_website()"
 });
 formatter.result({
-  "duration": 3286027500,
+  "duration": 7283929500,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_click_on_MyAccount()"
 });
 formatter.result({
-  "duration": 112713200,
+  "duration": 105792400,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_click_on_Login()"
 });
 formatter.result({
-  "duration": 3757391800,
+  "duration": 3748321700,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "sdet@tekschool.us",
+      "val": "shakib2@shakib.com",
       "offset": 21
     },
     {
       "val": "sdet",
-      "offset": 54
+      "offset": 55
     }
   ],
   "location": "LoginTestStepDefinition.user_enter_username_sdet_tekschool_us_and_password_sdet(String,String)"
 });
 formatter.result({
-  "duration": 691021700,
+  "duration": 650774600,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_click_on_Login_button()"
 });
 formatter.result({
-  "duration": 445268300,
+  "duration": 438303700,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_should_be_logged_in_to_MyAccount_dashboard()"
 });
 formatter.result({
-  "duration": 419435800,
+  "duration": 442494600,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductsToShoppingCart.user_clicks_on_Cameras_from_products_menu()"
 });
 formatter.result({
-  "duration": 113767600,
+  "duration": 127386100,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductsToShoppingCart.user_clicks_on_Canon_from_dropdown_list()"
 });
 formatter.result({
-  "duration": 453667500,
+  "duration": 448209700,
   "status": "passed"
 });
 formatter.scenario({
@@ -160,14 +160,14 @@ formatter.match({
   "location": "AddProductIntoWishList.users_hover_mouse_over_heart_icon_it_should_show_Add_to_Wish_list()"
 });
 formatter.result({
-  "duration": 684294700,
+  "duration": 602833200,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductIntoWishList.user_clicks_on_wish_list_heart_icon_button()"
 });
 formatter.result({
-  "duration": 78778000,
+  "duration": 93714200,
   "status": "passed"
 });
 formatter.match({
@@ -180,15 +180,15 @@ formatter.match({
   "location": "AddProductIntoWishList.user_should_see_Success_You_have_added_product_into_the_wishlist(String)"
 });
 formatter.result({
-  "duration": 519342400,
+  "duration": 479971800,
   "status": "passed"
 });
 formatter.after({
-  "duration": 894747100,
+  "duration": 876489400,
   "status": "passed"
 });
 formatter.before({
-  "duration": 6461760300,
+  "duration": 6251800800,
   "status": "passed"
 });
 formatter.background({
@@ -215,7 +215,7 @@ formatter.step({
 });
 formatter.step({
   "line": 7,
-  "name": "User enter username \u0027sdet@tekschool.us\u0027 and password \u0027sdet\u0027",
+  "name": "User enter username \u0027shakib2@shakib.com\u0027 and password \u0027sdet\u0027",
   "keyword": "And "
 });
 formatter.step({
@@ -242,66 +242,66 @@ formatter.match({
   "location": "LoginTestStepDefinition.user_is_on_Retail_website()"
 });
 formatter.result({
-  "duration": 2211442500,
+  "duration": 6963917600,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_click_on_MyAccount()"
 });
 formatter.result({
-  "duration": 100903300,
+  "duration": 104597700,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_click_on_Login()"
 });
 formatter.result({
-  "duration": 3684365500,
+  "duration": 3695986500,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "sdet@tekschool.us",
+      "val": "shakib2@shakib.com",
       "offset": 21
     },
     {
       "val": "sdet",
-      "offset": 54
+      "offset": 55
     }
   ],
   "location": "LoginTestStepDefinition.user_enter_username_sdet_tekschool_us_and_password_sdet(String,String)"
 });
 formatter.result({
-  "duration": 642548700,
+  "duration": 641672500,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_click_on_Login_button()"
 });
 formatter.result({
-  "duration": 411092300,
+  "duration": 426598200,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_should_be_logged_in_to_MyAccount_dashboard()"
 });
 formatter.result({
-  "duration": 419263300,
+  "duration": 420178500,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductsToShoppingCart.user_clicks_on_Cameras_from_products_menu()"
 });
 formatter.result({
-  "duration": 107253600,
+  "duration": 133482000,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductsToShoppingCart.user_clicks_on_Canon_from_dropdown_list()"
 });
 formatter.result({
-  "duration": 388562600,
+  "duration": 562850300,
   "status": "passed"
 });
 formatter.scenario({
@@ -352,21 +352,21 @@ formatter.match({
   "location": "AddProductsToShoppingCart.user_clicks_on_the_image_of_the_product_Canon_EOS_D(int)"
 });
 formatter.result({
-  "duration": 1271661800,
+  "duration": 2583753600,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductIntoWishList.users_hover_mouse_over_heart_icon_it_should_show_Add_to_Wish_list()"
 });
 formatter.result({
-  "duration": 1223706500,
+  "duration": 802953700,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductIntoWishList.user_clicks_on_wish_list_heart_icon_button()"
 });
 formatter.result({
-  "duration": 82733000,
+  "duration": 82621400,
   "status": "passed"
 });
 formatter.match({
@@ -379,15 +379,15 @@ formatter.match({
   "location": "AddProductIntoWishList.user_should_see_Success_You_have_added_product_into_the_wishlist(String)"
 });
 formatter.result({
-  "duration": 508972300,
+  "duration": 470687200,
   "status": "passed"
 });
 formatter.after({
-  "duration": 870888400,
+  "duration": 1075929500,
   "status": "passed"
 });
 formatter.before({
-  "duration": 6413565900,
+  "duration": 6425283800,
   "status": "passed"
 });
 formatter.background({
@@ -414,7 +414,7 @@ formatter.step({
 });
 formatter.step({
   "line": 7,
-  "name": "User enter username \u0027sdet@tekschool.us\u0027 and password \u0027sdet\u0027",
+  "name": "User enter username \u0027shakib2@shakib.com\u0027 and password \u0027sdet\u0027",
   "keyword": "And "
 });
 formatter.step({
@@ -441,66 +441,66 @@ formatter.match({
   "location": "LoginTestStepDefinition.user_is_on_Retail_website()"
 });
 formatter.result({
-  "duration": 1714998400,
+  "duration": 1697575400,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_click_on_MyAccount()"
 });
 formatter.result({
-  "duration": 101313700,
+  "duration": 97245400,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_click_on_Login()"
 });
 formatter.result({
-  "duration": 3668956500,
+  "duration": 3685552300,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "sdet@tekschool.us",
+      "val": "shakib2@shakib.com",
       "offset": 21
     },
     {
       "val": "sdet",
-      "offset": 54
+      "offset": 55
     }
   ],
   "location": "LoginTestStepDefinition.user_enter_username_sdet_tekschool_us_and_password_sdet(String,String)"
 });
 formatter.result({
-  "duration": 615138000,
+  "duration": 627177400,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_click_on_Login_button()"
 });
 formatter.result({
-  "duration": 414586100,
+  "duration": 439344000,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_should_be_logged_in_to_MyAccount_dashboard()"
 });
 formatter.result({
-  "duration": 410817800,
+  "duration": 411072600,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductsToShoppingCart.user_clicks_on_Cameras_from_products_menu()"
 });
 formatter.result({
-  "duration": 106544900,
+  "duration": 108296900,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductsToShoppingCart.user_clicks_on_Canon_from_dropdown_list()"
 });
 formatter.result({
-  "duration": 367629200,
+  "duration": 506095300,
   "status": "passed"
 });
 formatter.scenario({
@@ -518,6 +518,10 @@ formatter.scenario({
     {
       "line": 27,
       "name": "@AddToWishList"
+    },
+    {
+      "line": 27,
+      "name": "@Test2"
     }
   ]
 });
@@ -550,14 +554,14 @@ formatter.match({
   "location": "AddProductIntoWishList.users_hover_mouse_over_heart_icon_it_should_show_Add_to_Wish_list()"
 });
 formatter.result({
-  "duration": 556641200,
+  "duration": 658718900,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductIntoWishList.user_clicks_on_wish_list_heart_icon_button()"
 });
 formatter.result({
-  "duration": 78028900,
+  "duration": 85469500,
   "status": "passed"
 });
 formatter.match({
@@ -570,25 +574,25 @@ formatter.match({
   "location": "AddProductIntoWishList.user_should_see_Success_You_have_added_product_into_the_wishlist(String)"
 });
 formatter.result({
-  "duration": 443691400,
+  "duration": 492949900,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductIntoWishList.user_clicks_on_wish_list_button()"
 });
 formatter.result({
-  "duration": 696547200,
+  "duration": 750689500,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductIntoWishList.user_should_see_the_list_of_items_added_into_the_wish_list()"
 });
 formatter.result({
-  "duration": 362806300,
+  "duration": 362253500,
   "status": "passed"
 });
 formatter.after({
-  "duration": 906024300,
+  "duration": 897877100,
   "status": "passed"
 });
 formatter.uri("Features/AddProductsToShoppingCart.feature");
@@ -600,7 +604,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 6020521100,
+  "duration": 5998945600,
   "status": "passed"
 });
 formatter.background({
@@ -629,21 +633,21 @@ formatter.match({
   "location": "LoginTestStepDefinition.user_is_on_Retail_website()"
 });
 formatter.result({
-  "duration": 1442123600,
+  "duration": 1527915100,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductsToShoppingCart.user_clicks_on_Cameras_from_products_menu()"
 });
 formatter.result({
-  "duration": 114849700,
+  "duration": 146337900,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductsToShoppingCart.user_clicks_on_Canon_from_dropdown_list()"
 });
 formatter.result({
-  "duration": 399626200,
+  "duration": 401973600,
   "status": "passed"
 });
 formatter.scenario({
@@ -678,22 +682,22 @@ formatter.match({
   "location": "AddProductsToShoppingCart.user_clicks_on_ADD_TO_CART_button()"
 });
 formatter.result({
-  "duration": 94505400,
+  "duration": 107274600,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductsToShoppingCart.user_should_see_Success_You_have_added_message()"
 });
 formatter.result({
-  "duration": 17165895200,
+  "duration": 17133096100,
   "status": "passed"
 });
 formatter.after({
-  "duration": 926290300,
+  "duration": 934169800,
   "status": "passed"
 });
 formatter.before({
-  "duration": 6387505000,
+  "duration": 6022891500,
   "status": "passed"
 });
 formatter.background({
@@ -722,21 +726,21 @@ formatter.match({
   "location": "LoginTestStepDefinition.user_is_on_Retail_website()"
 });
 formatter.result({
-  "duration": 1614821900,
+  "duration": 1477186200,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductsToShoppingCart.user_clicks_on_Cameras_from_products_menu()"
 });
 formatter.result({
-  "duration": 111070300,
+  "duration": 114519800,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductsToShoppingCart.user_clicks_on_Canon_from_dropdown_list()"
 });
 formatter.result({
-  "duration": 406023700,
+  "duration": 518593600,
   "status": "passed"
 });
 formatter.scenario({
@@ -792,7 +796,7 @@ formatter.match({
   "location": "AddProductsToShoppingCart.user_clicks_on_the_image_of_the_product_Canon_EOS_D(int)"
 });
 formatter.result({
-  "duration": 1216843400,
+  "duration": 2709177600,
   "status": "passed"
 });
 formatter.match({
@@ -805,7 +809,7 @@ formatter.match({
   "location": "AddProductsToShoppingCart.user_select_available_options_as_Red(String)"
 });
 formatter.result({
-  "duration": 487185900,
+  "duration": 324926200,
   "status": "passed"
 });
 formatter.match({
@@ -818,29 +822,29 @@ formatter.match({
   "location": "AddProductsToShoppingCart.user_enters_quantity_as(String)"
 });
 formatter.result({
-  "duration": 210944800,
+  "duration": 514152300,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductsToShoppingCart.user_clicks_on_blue_Add_to_Cart_button()"
 });
 formatter.result({
-  "duration": 204953100,
+  "duration": 359896500,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductsToShoppingCart.user_should_see_Success_You_have_added_message()"
 });
 formatter.result({
-  "duration": 122834800,
+  "duration": 209712200,
   "status": "passed"
 });
 formatter.after({
-  "duration": 891603700,
+  "duration": 2418880400,
   "status": "passed"
 });
 formatter.before({
-  "duration": 6127368700,
+  "duration": 6221307200,
   "status": "passed"
 });
 formatter.background({
@@ -869,21 +873,21 @@ formatter.match({
   "location": "LoginTestStepDefinition.user_is_on_Retail_website()"
 });
 formatter.result({
-  "duration": 1518912100,
+  "duration": 1344424000,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductsToShoppingCart.user_clicks_on_Cameras_from_products_menu()"
 });
 formatter.result({
-  "duration": 123766500,
+  "duration": 113290300,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductsToShoppingCart.user_clicks_on_Canon_from_dropdown_list()"
 });
 formatter.result({
-  "duration": 434043400,
+  "duration": 430970200,
   "status": "passed"
 });
 formatter.scenario({
@@ -949,7 +953,7 @@ formatter.match({
   "location": "AddProductsToShoppingCart.user_clicks_on_the_image_of_the_product_Canon_EOS_D(int)"
 });
 formatter.result({
-  "duration": 1273071000,
+  "duration": 2283491600,
   "status": "passed"
 });
 formatter.match({
@@ -962,7 +966,7 @@ formatter.match({
   "location": "AddProductsToShoppingCart.user_select_available_options_as_Red(String)"
 });
 formatter.result({
-  "duration": 510887400,
+  "duration": 285469700,
   "status": "passed"
 });
 formatter.match({
@@ -975,43 +979,43 @@ formatter.match({
   "location": "AddProductsToShoppingCart.user_enters_quantity_as(String)"
 });
 formatter.result({
-  "duration": 216859000,
+  "duration": 455853300,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductsToShoppingCart.user_clicks_on_blue_Add_to_Cart_button()"
 });
 formatter.result({
-  "duration": 195887700,
+  "duration": 410597700,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductsToShoppingCart.user_should_see_Success_You_have_added_message()"
 });
 formatter.result({
-  "duration": 139181300,
+  "duration": 972964000,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductsToShoppingCart.user_clicks_on_Shopping_Cart()"
 });
 formatter.result({
-  "duration": 115368300,
+  "duration": 108883600,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductsToShoppingCart.user_should_see_quantity_of_product_added_to_shopping_cart()"
 });
 formatter.result({
-  "duration": 426884300,
+  "duration": 457044300,
   "status": "passed"
 });
 formatter.after({
-  "duration": 880595600,
+  "duration": 872651600,
   "status": "passed"
 });
 formatter.before({
-  "duration": 6372939900,
+  "duration": 6320642500,
   "status": "passed"
 });
 formatter.background({
@@ -1040,21 +1044,21 @@ formatter.match({
   "location": "LoginTestStepDefinition.user_is_on_Retail_website()"
 });
 formatter.result({
-  "duration": 1611473300,
+  "duration": 1748763600,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductsToShoppingCart.user_clicks_on_Cameras_from_products_menu()"
 });
 formatter.result({
-  "duration": 106181400,
+  "duration": 112130400,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductsToShoppingCart.user_clicks_on_Canon_from_dropdown_list()"
 });
 formatter.result({
-  "duration": 438717500,
+  "duration": 413266400,
   "status": "passed"
 });
 formatter.scenario({
@@ -1135,7 +1139,7 @@ formatter.match({
   "location": "AddProductsToShoppingCart.user_clicks_on_the_image_of_the_product_Canon_EOS_D(int)"
 });
 formatter.result({
-  "duration": 1129785100,
+  "duration": 1234282000,
   "status": "passed"
 });
 formatter.match({
@@ -1148,7 +1152,7 @@ formatter.match({
   "location": "AddProductsToShoppingCart.user_select_available_options_as_Red(String)"
 });
 formatter.result({
-  "duration": 496690400,
+  "duration": 415549200,
   "status": "passed"
 });
 formatter.match({
@@ -1161,60 +1165,529 @@ formatter.match({
   "location": "AddProductsToShoppingCart.user_enters_quantity_as(String)"
 });
 formatter.result({
-  "duration": 207037000,
+  "duration": 350459900,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductsToShoppingCart.user_clicks_on_blue_Add_to_Cart_button()"
 });
 formatter.result({
-  "duration": 197693400,
+  "duration": 195934100,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductsToShoppingCart.user_should_see_Success_You_have_added_message()"
 });
 formatter.result({
-  "duration": 135553100,
+  "duration": 186480300,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductsToShoppingCart.user_clicks_on_Shopping_Cart()"
 });
 formatter.result({
-  "duration": 121302300,
+  "duration": 108672300,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductsToShoppingCart.user_should_see_quantity_of_product_added_to_shopping_cart()"
 });
 formatter.result({
-  "duration": 448566100,
+  "duration": 446042500,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductsToShoppingCart.user_clicks_on_blue_Add_to_Cart_button()"
 });
 formatter.result({
-  "duration": 348360700,
+  "duration": 180829500,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductsToShoppingCart.user_clicks_on_Shopping_Cart()"
 });
 formatter.result({
-  "duration": 77711200,
+  "duration": 101403000,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductsToShoppingCart.user_should_see_increase_in_quantities_of_product_added_to_the_cart()"
 });
 formatter.result({
-  "duration": 43134300,
+  "duration": 117533200,
   "status": "passed"
 });
 formatter.after({
-  "duration": 870786000,
+  "duration": 945742600,
+  "status": "passed"
+});
+formatter.uri("Features/CheckOutProductConfirmation.feature");
+formatter.feature({
+  "line": 1,
+  "name": "CheckOut product confirmation",
+  "description": "",
+  "id": "checkout-product-confirmation",
+  "keyword": "Feature"
+});
+formatter.before({
+  "duration": 5993960700,
+  "status": "passed"
+});
+formatter.background({
+  "line": 3,
+  "name": "",
+  "description": "",
+  "type": "background",
+  "keyword": "Background"
+});
+formatter.step({
+  "line": 4,
+  "name": "User is on Retail Website",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 5,
+  "name": "User is on Retail Website",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 6,
+  "name": "User Clicks on MyAccount",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 7,
+  "name": "User Clicks on Login",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 8,
+  "name": "User enter username \u0027shakib4@shakib.com\u0027 and password \u0027sdet\u0027",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 9,
+  "name": "User clicks on Login Button",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 10,
+  "name": "User should be logged into MyAccount dashboard",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 11,
+  "name": "user clicks on \u0027Cameras\u0027 from products menu",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 12,
+  "name": "user clicks on \u0027Canon\u0027 from dropdown list",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 13,
+  "name": "user clicks on ADD TO CART button",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 14,
+  "name": "user select available options as \u0027Blue\u0027",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 15,
+  "name": "user enters quantity as \u00271\u0027",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 16,
+  "name": "user clicks on blue Add to Cart button",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 17,
+  "name": "user should see \u0027Success: You have added\u0027 message",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 18,
+  "name": "user clicks on \u0027Shopping Cart\u0027",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 19,
+  "name": "user should see quantity of product added to shopping cart",
+  "keyword": "And "
+});
+formatter.match({
+  "location": "LoginTestStepDefinition.user_is_on_Retail_website()"
+});
+formatter.result({
+  "duration": 1401507400,
+  "status": "passed"
+});
+formatter.match({
+  "location": "LoginTestStepDefinition.user_is_on_Retail_website()"
+});
+formatter.result({
+  "duration": 775191600,
+  "status": "passed"
+});
+formatter.match({
+  "location": "LoginTestStepDefinition.user_click_on_MyAccount()"
+});
+formatter.result({
+  "duration": 95284500,
+  "status": "passed"
+});
+formatter.match({
+  "location": "LoginTestStepDefinition.user_click_on_Login()"
+});
+formatter.result({
+  "duration": 3646375500,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "shakib4@shakib.com",
+      "offset": 21
+    },
+    {
+      "val": "sdet",
+      "offset": 55
+    }
+  ],
+  "location": "LoginTestStepDefinition.user_enter_username_sdet_tekschool_us_and_password_sdet(String,String)"
+});
+formatter.result({
+  "duration": 623781700,
+  "status": "passed"
+});
+formatter.match({
+  "location": "LoginTestStepDefinition.user_click_on_Login_button()"
+});
+formatter.result({
+  "duration": 502470200,
+  "status": "passed"
+});
+formatter.match({
+  "location": "LoginTestStepDefinition.user_should_be_logged_in_to_MyAccount_dashboard()"
+});
+formatter.result({
+  "duration": 395988600,
+  "status": "passed"
+});
+formatter.match({
+  "location": "AddProductsToShoppingCart.user_clicks_on_Cameras_from_products_menu()"
+});
+formatter.result({
+  "duration": 113390600,
+  "status": "passed"
+});
+formatter.match({
+  "location": "AddProductsToShoppingCart.user_clicks_on_Canon_from_dropdown_list()"
+});
+formatter.result({
+  "duration": 436391900,
+  "status": "passed"
+});
+formatter.match({
+  "location": "AddProductsToShoppingCart.user_clicks_on_ADD_TO_CART_button()"
+});
+formatter.result({
+  "duration": 101263200,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Blue",
+      "offset": 34
+    }
+  ],
+  "location": "AddProductsToShoppingCart.user_select_available_options_as_Red(String)"
+});
+formatter.result({
+  "duration": 1617409100,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "1",
+      "offset": 25
+    }
+  ],
+  "location": "AddProductsToShoppingCart.user_enters_quantity_as(String)"
+});
+formatter.result({
+  "duration": 355989000,
+  "status": "passed"
+});
+formatter.match({
+  "location": "AddProductsToShoppingCart.user_clicks_on_blue_Add_to_Cart_button()"
+});
+formatter.result({
+  "duration": 218875500,
+  "status": "passed"
+});
+formatter.match({
+  "location": "AddProductsToShoppingCart.user_should_see_Success_You_have_added_message()"
+});
+formatter.result({
+  "duration": 126739100,
+  "status": "passed"
+});
+formatter.match({
+  "location": "AddProductsToShoppingCart.user_clicks_on_Shopping_Cart()"
+});
+formatter.result({
+  "duration": 104547300,
+  "status": "passed"
+});
+formatter.match({
+  "location": "AddProductsToShoppingCart.user_should_see_quantity_of_product_added_to_shopping_cart()"
+});
+formatter.result({
+  "duration": 432727000,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 22,
+  "name": "Confirmation of checkout table fields",
+  "description": "",
+  "id": "checkout-product-confirmation;confirmation-of-checkout-table-fields",
+  "type": "scenario",
+  "keyword": "Scenario",
+  "tags": [
+    {
+      "line": 21,
+      "name": "@regression"
+    },
+    {
+      "line": 21,
+      "name": "@CheckOut"
+    },
+    {
+      "line": 21,
+      "name": "@Test4"
+    }
+  ]
+});
+formatter.step({
+  "line": 23,
+  "name": "user clicks View Cart",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 24,
+  "name": "user sees \u0027What would you like to do next?\u0027 message in shopping cart",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 25,
+  "name": "user clicks on Estimate Shipping \u0026 Taxes",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 26,
+  "name": "user selects \u0027Afghanistan\u0027 as country",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 27,
+  "name": "user selects Region/State as \u0027Kabul\u0027",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 28,
+  "name": "user enters Post Code as \u002795351\u0027",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 29,
+  "name": "user clicks on \u0027Get Quotes\u0027 button",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 30,
+  "name": "user clicks on \u0027Flat Shipping Rate\u0027 button",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 31,
+  "name": "user clicks on \u0027Apply Shipping\u0027 button",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 32,
+  "name": "user sees \u0027Success: Your shipping estimate has been applied!\u0027 message",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 33,
+  "name": "user should be able to see \u0027Sub-Total\u0027 at the end of shopping cart",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 34,
+  "name": "user should be able to see \u0027Flat Shipping Rate\u0027 at the end of shopping cart",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 35,
+  "name": "user should be able to see \u0027Total\u0027 at the end of shopping cart",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 36,
+  "name": "user clicks on Checkout Button",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 37,
+  "name": "user should get to \u0027Checkout\u0027 page",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "ShoppingCartCheckoutPageStepDefinition.user_clicks_View_Cart()"
+});
+formatter.result({
+  "duration": 461334600,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "What would you like to do next?",
+      "offset": 11
+    }
+  ],
+  "location": "ShoppingCartCheckoutPageStepDefinition.user_sees_What_would_you_like_to_do_next_message_in_shopping_cart(String)"
+});
+formatter.result({
+  "duration": 52395600,
+  "status": "passed"
+});
+formatter.match({
+  "location": "ShoppingCartCheckoutPageStepDefinition.user_clicks_on_Estimate_Shipping_Taxes()"
+});
+formatter.result({
+  "duration": 82424700,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Afghanistan",
+      "offset": 14
+    }
+  ],
+  "location": "ShoppingCartCheckoutPageStepDefinition.user_selects_Afghanistan_as_country(String)"
+});
+formatter.result({
+  "duration": 4284489100,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Kabul",
+      "offset": 30
+    }
+  ],
+  "location": "ShoppingCartCheckoutPageStepDefinition.user_selects_Region_State_as_Kabul(String)"
+});
+formatter.result({
+  "duration": 418710500,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "95351",
+      "offset": 26
+    }
+  ],
+  "location": "ShoppingCartCheckoutPageStepDefinition.user_enters_Post_Code_as(String)"
+});
+formatter.result({
+  "duration": 241574100,
+  "status": "passed"
+});
+formatter.match({
+  "location": "ShoppingCartCheckoutPageStepDefinition.user_clicks_on_Get_Quotes_button()"
+});
+formatter.result({
+  "duration": 108864800,
+  "status": "passed"
+});
+formatter.match({
+  "location": "ShoppingCartCheckoutPageStepDefinition.user_clicks_on_Flat_Shipping_Rate_button()"
+});
+formatter.result({
+  "duration": 196024600,
+  "status": "passed"
+});
+formatter.match({
+  "location": "ShoppingCartCheckoutPageStepDefinition.user_clicks_on_Apply_Shipping_button()"
+});
+formatter.result({
+  "duration": 110429400,
+  "status": "passed"
+});
+formatter.match({
+  "location": "ShoppingCartCheckoutPageStepDefinition.user_should_see_Success_Your_shipping_estimate_has_been_applied_message()"
+});
+formatter.result({
+  "duration": 454355300,
+  "status": "passed"
+});
+formatter.match({
+  "location": "ShoppingCartCheckoutPageStepDefinition.user_should_be_able_to_see_Sub_Total_at_the_end_of_shopping_cart()"
+});
+formatter.result({
+  "duration": 45533600,
+  "status": "passed"
+});
+formatter.match({
+  "location": "ShoppingCartCheckoutPageStepDefinition.user_should_be_able_to_see_Flat_Shipping_Rate_at_the_end_of_shopping_cart()"
+});
+formatter.result({
+  "duration": 47287700,
+  "status": "passed"
+});
+formatter.match({
+  "location": "ShoppingCartCheckoutPageStepDefinition.user_should_be_able_to_see_Total_at_the_end_of_shopping_cart()"
+});
+formatter.result({
+  "duration": 45379100,
+  "status": "passed"
+});
+formatter.match({
+  "location": "ShoppingCartCheckoutPageStepDefinition.user_clicks_on_CheckOut_Button()"
+});
+formatter.result({
+  "duration": 432792200,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Checkout",
+      "offset": 20
+    }
+  ],
+  "location": "ShoppingCartCheckoutPageStepDefinition.user_should_get_to_CheckOut_page(String)"
+});
+formatter.result({
+  "duration": 412306500,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 878460000,
   "status": "passed"
 });
 formatter.uri("Features/DataBaseFeature.feature");
@@ -1226,7 +1699,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 6627104300,
+  "duration": 6671766800,
   "status": "passed"
 });
 formatter.scenario({
@@ -1266,7 +1739,7 @@ formatter.match({
   "location": "SqlQueryStepDefinition.user_connects_to_PostgreSQL()"
 });
 formatter.result({
-  "duration": 450633700,
+  "duration": 249096600,
   "status": "passed"
 });
 formatter.match({
@@ -1279,18 +1752,18 @@ formatter.match({
   "location": "SqlQueryStepDefinition.user_sends(String)"
 });
 formatter.result({
-  "duration": 333471600,
+  "duration": 75746100,
   "status": "passed"
 });
 formatter.match({
   "location": "SqlQueryStepDefinition.user_should_get_all_information_from_that_table()"
 });
 formatter.result({
-  "duration": 80460000,
+  "duration": 67435400,
   "status": "passed"
 });
 formatter.after({
-  "duration": 835742200,
+  "duration": 845520600,
   "status": "passed"
 });
 formatter.uri("Features/Login.feature");
@@ -1308,7 +1781,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 6106648000,
+  "duration": 6149592000,
   "status": "passed"
 });
 formatter.background({
@@ -1342,14 +1815,14 @@ formatter.match({
   "location": "LoginTestStepDefinition.user_is_on_Retail_website()"
 });
 formatter.result({
-  "duration": 1599702000,
+  "duration": 1732623400,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_click_on_MyAccount()"
 });
 formatter.result({
-  "duration": 102364700,
+  "duration": 102748000,
   "status": "passed"
 });
 formatter.scenario({
@@ -1394,7 +1867,7 @@ formatter.match({
   "location": "LoginTestStepDefinition.user_click_on_Login()"
 });
 formatter.result({
-  "duration": 3670751400,
+  "duration": 3708274000,
   "status": "passed"
 });
 formatter.match({
@@ -1411,25 +1884,25 @@ formatter.match({
   "location": "LoginTestStepDefinition.user_enter_username_sdet_tekschool_us_and_password_sdet(String,String)"
 });
 formatter.result({
-  "duration": 626208200,
+  "duration": 735365400,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_click_on_Login_button()"
 });
 formatter.result({
-  "duration": 411293700,
+  "duration": 676077000,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_should_be_logged_in_to_MyAccount_dashboard()"
 });
 formatter.result({
-  "duration": 428042600,
+  "duration": 403805300,
   "status": "passed"
 });
 formatter.after({
-  "duration": 851797700,
+  "duration": 867531900,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -1522,7 +1995,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 6051129800,
+  "duration": 5991958800,
   "status": "passed"
 });
 formatter.background({
@@ -1556,14 +2029,14 @@ formatter.match({
   "location": "LoginTestStepDefinition.user_is_on_Retail_website()"
 });
 formatter.result({
-  "duration": 1465092000,
+  "duration": 1466039500,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_click_on_MyAccount()"
 });
 formatter.result({
-  "duration": 104621400,
+  "duration": 108434600,
   "status": "passed"
 });
 formatter.scenario({
@@ -1612,7 +2085,7 @@ formatter.match({
   "location": "LoginTestStepDefinition.user_click_on_Login()"
 });
 formatter.result({
-  "duration": 3663246200,
+  "duration": 3716443700,
   "status": "passed"
 });
 formatter.match({
@@ -1629,29 +2102,29 @@ formatter.match({
   "location": "LoginTestStepDefinition.user_enter_username_sdet_tekschool_us_and_password_sdet(String,String)"
 });
 formatter.result({
-  "duration": 619291600,
+  "duration": 627363300,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_click_on_Login_button()"
 });
 formatter.result({
-  "duration": 446428900,
+  "duration": 510436400,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_should_be_logged_in_to_MyAccount_dashboard()"
 });
 formatter.result({
-  "duration": 416484900,
+  "duration": 402656700,
   "status": "passed"
 });
 formatter.after({
-  "duration": 809391800,
+  "duration": 2064734800,
   "status": "passed"
 });
 formatter.before({
-  "duration": 6093558100,
+  "duration": 6583903400,
   "status": "passed"
 });
 formatter.background({
@@ -1685,14 +2158,14 @@ formatter.match({
   "location": "LoginTestStepDefinition.user_is_on_Retail_website()"
 });
 formatter.result({
-  "duration": 1422588200,
+  "duration": 1780430400,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_click_on_MyAccount()"
 });
 formatter.result({
-  "duration": 94227000,
+  "duration": 108291300,
   "status": "passed"
 });
 formatter.scenario({
@@ -1741,7 +2214,7 @@ formatter.match({
   "location": "LoginTestStepDefinition.user_click_on_Login()"
 });
 formatter.result({
-  "duration": 3775829700,
+  "duration": 3806250400,
   "status": "passed"
 });
 formatter.match({
@@ -1758,29 +2231,29 @@ formatter.match({
   "location": "LoginTestStepDefinition.user_enter_username_sdet_tekschool_us_and_password_sdet(String,String)"
 });
 formatter.result({
-  "duration": 627488800,
+  "duration": 657265800,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_click_on_Login_button()"
 });
 formatter.result({
-  "duration": 422261800,
+  "duration": 446154400,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_should_be_logged_in_to_MyAccount_dashboard()"
 });
 formatter.result({
-  "duration": 483444200,
+  "duration": 410592900,
   "status": "passed"
 });
 formatter.after({
-  "duration": 824768600,
+  "duration": 965082700,
   "status": "passed"
 });
 formatter.before({
-  "duration": 6223904100,
+  "duration": 5960367800,
   "status": "passed"
 });
 formatter.background({
@@ -1814,14 +2287,14 @@ formatter.match({
   "location": "LoginTestStepDefinition.user_is_on_Retail_website()"
 });
 formatter.result({
-  "duration": 1385644000,
+  "duration": 2107332100,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_click_on_MyAccount()"
 });
 formatter.result({
-  "duration": 110651200,
+  "duration": 93516700,
   "status": "passed"
 });
 formatter.scenario({
@@ -1870,7 +2343,7 @@ formatter.match({
   "location": "LoginTestStepDefinition.user_click_on_Login()"
 });
 formatter.result({
-  "duration": 3716672100,
+  "duration": 3687669800,
   "status": "passed"
 });
 formatter.match({
@@ -1887,29 +2360,29 @@ formatter.match({
   "location": "LoginTestStepDefinition.user_enter_username_sdet_tekschool_us_and_password_sdet(String,String)"
 });
 formatter.result({
-  "duration": 684022000,
+  "duration": 667827900,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_click_on_Login_button()"
 });
 formatter.result({
-  "duration": 449041600,
+  "duration": 468176600,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_should_be_logged_in_to_MyAccount_dashboard()"
 });
 formatter.result({
-  "duration": 426537800,
+  "duration": 440191300,
   "status": "passed"
 });
 formatter.after({
-  "duration": 2042899100,
+  "duration": 840476500,
   "status": "passed"
 });
 formatter.before({
-  "duration": 5999360300,
+  "duration": 6081663000,
   "status": "passed"
 });
 formatter.background({
@@ -1943,14 +2416,14 @@ formatter.match({
   "location": "LoginTestStepDefinition.user_is_on_Retail_website()"
 });
 formatter.result({
-  "duration": 1481006700,
+  "duration": 2163196100,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_click_on_MyAccount()"
 });
 formatter.result({
-  "duration": 101912700,
+  "duration": 99631300,
   "status": "passed"
 });
 formatter.scenario({
@@ -2010,7 +2483,7 @@ formatter.match({
   "location": "LoginTestStepDefinition.user_click_on_Login()"
 });
 formatter.result({
-  "duration": 3647194400,
+  "duration": 3686162800,
   "status": "passed"
 });
 formatter.match({
@@ -2027,46 +2500,46 @@ formatter.match({
   "location": "LoginTestStepDefinition.user_enter_username_sdet_tekschool_us_and_password_sdet(String,String)"
 });
 formatter.result({
-  "duration": 658051800,
+  "duration": 601696900,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_click_on_Login_button()"
 });
 formatter.result({
-  "duration": 423459700,
+  "duration": 389717000,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_should_be_logged_in_to_MyAccount_dashboard()"
 });
 formatter.result({
-  "duration": 403514400,
+  "duration": 421753300,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_click_on_MyAccount()"
 });
 formatter.result({
-  "duration": 82789500,
+  "duration": 74808500,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.User_click_on_Logout()"
 });
 formatter.result({
-  "duration": 425819700,
+  "duration": 388949400,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.User_Should_be_logged_out_from_MyAccount_dashboard()"
 });
 formatter.result({
-  "duration": 405041500,
+  "duration": 370810700,
   "status": "passed"
 });
 formatter.after({
-  "duration": 833531900,
+  "duration": 847639300,
   "status": "passed"
 });
 formatter.uri("Features/RemoveProductFromWishList.feature");
@@ -2078,7 +2551,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 6205303600,
+  "duration": 6398632700,
   "status": "passed"
 });
 formatter.background({
@@ -2105,7 +2578,7 @@ formatter.step({
 });
 formatter.step({
   "line": 7,
-  "name": "User enter username \u0027sdet@tekschool.us\u0027 and password \u0027sdet\u0027",
+  "name": "User enter username \u0027shakib2@shakib.com\u0027 and password \u0027sdet\u0027",
   "keyword": "And "
 });
 formatter.step({
@@ -2157,80 +2630,80 @@ formatter.match({
   "location": "LoginTestStepDefinition.user_is_on_Retail_website()"
 });
 formatter.result({
-  "duration": 1820653300,
+  "duration": 1621234300,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_click_on_MyAccount()"
 });
 formatter.result({
-  "duration": 103078000,
+  "duration": 119399700,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_click_on_Login()"
 });
 formatter.result({
-  "duration": 3703427000,
+  "duration": 3687094800,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "sdet@tekschool.us",
+      "val": "shakib2@shakib.com",
       "offset": 21
     },
     {
       "val": "sdet",
-      "offset": 54
+      "offset": 55
     }
   ],
   "location": "LoginTestStepDefinition.user_enter_username_sdet_tekschool_us_and_password_sdet(String,String)"
 });
 formatter.result({
-  "duration": 631416400,
+  "duration": 680890500,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_click_on_Login_button()"
 });
 formatter.result({
-  "duration": 384877500,
+  "duration": 430439900,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_should_be_logged_in_to_MyAccount_dashboard()"
 });
 formatter.result({
-  "duration": 403074800,
+  "duration": 405495200,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductsToShoppingCart.user_clicks_on_Cameras_from_products_menu()"
 });
 formatter.result({
-  "duration": 98168900,
+  "duration": 106219000,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductsToShoppingCart.user_clicks_on_Canon_from_dropdown_list()"
 });
 formatter.result({
-  "duration": 370354800,
+  "duration": 437402000,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductIntoWishList.users_hover_mouse_over_heart_icon_it_should_show_Add_to_Wish_list()"
 });
 formatter.result({
-  "duration": 596322500,
+  "duration": 593002100,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductIntoWishList.user_clicks_on_wish_list_heart_icon_button()"
 });
 formatter.result({
-  "duration": 82866000,
+  "duration": 82092200,
   "status": "passed"
 });
 formatter.match({
@@ -2243,21 +2716,21 @@ formatter.match({
   "location": "AddProductIntoWishList.user_should_see_Success_You_have_added_product_into_the_wishlist(String)"
 });
 formatter.result({
-  "duration": 448552500,
+  "duration": 527501300,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductIntoWishList.user_clicks_on_wish_list_button()"
 });
 formatter.result({
-  "duration": 714970700,
+  "duration": 701643200,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductIntoWishList.user_should_see_the_list_of_items_added_into_the_wish_list()"
 });
 formatter.result({
-  "duration": 351084900,
+  "duration": 386587000,
   "status": "passed"
 });
 formatter.scenario({
@@ -2292,7 +2765,7 @@ formatter.match({
   "location": "RemoveProductFromWishList.user_clicks_on_red_X_button()"
 });
 formatter.result({
-  "duration": 410100700,
+  "duration": 451126900,
   "status": "passed"
 });
 formatter.match({
@@ -2305,11 +2778,11 @@ formatter.match({
   "location": "RemoveProductFromWishList.user_should_the_message_Your_wish_list_is_empty(String)"
 });
 formatter.result({
-  "duration": 50995400,
+  "duration": 55440600,
   "status": "passed"
 });
 formatter.after({
-  "duration": 826744500,
+  "duration": 930584300,
   "status": "passed"
 });
 formatter.uri("Features/RemovingProductsFromShoppingCart.feature");
@@ -2321,7 +2794,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 6203869800,
+  "duration": 6414650800,
   "status": "passed"
 });
 formatter.background({
@@ -2385,21 +2858,21 @@ formatter.match({
   "location": "LoginTestStepDefinition.user_is_on_Retail_website()"
 });
 formatter.result({
-  "duration": 1458828800,
+  "duration": 11449666400,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductsToShoppingCart.user_clicks_on_Cameras_from_products_menu()"
 });
 formatter.result({
-  "duration": 109858300,
+  "duration": 113864800,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductsToShoppingCart.user_clicks_on_Canon_from_dropdown_list()"
 });
 formatter.result({
-  "duration": 452240600,
+  "duration": 461080600,
   "status": "passed"
 });
 formatter.match({
@@ -2412,7 +2885,7 @@ formatter.match({
   "location": "AddProductsToShoppingCart.user_clicks_on_the_image_of_the_product_Canon_EOS_D(int)"
 });
 formatter.result({
-  "duration": 1307597100,
+  "duration": 1266981100,
   "status": "passed"
 });
 formatter.match({
@@ -2425,7 +2898,7 @@ formatter.match({
   "location": "AddProductsToShoppingCart.user_select_available_options_as_Red(String)"
 });
 formatter.result({
-  "duration": 475666300,
+  "duration": 511977400,
   "status": "passed"
 });
 formatter.match({
@@ -2438,35 +2911,35 @@ formatter.match({
   "location": "AddProductsToShoppingCart.user_enters_quantity_as(String)"
 });
 formatter.result({
-  "duration": 440931800,
+  "duration": 265221900,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductsToShoppingCart.user_clicks_on_blue_Add_to_Cart_button()"
 });
 formatter.result({
-  "duration": 249561600,
+  "duration": 201374400,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductsToShoppingCart.user_should_see_Success_You_have_added_message()"
 });
 formatter.result({
-  "duration": 190748800,
+  "duration": 166648000,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductsToShoppingCart.user_clicks_on_Shopping_Cart()"
 });
 formatter.result({
-  "duration": 132014400,
+  "duration": 114053900,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductsToShoppingCart.user_should_see_quantity_of_product_added_to_shopping_cart()"
 });
 formatter.result({
-  "duration": 433821500,
+  "duration": 453210800,
   "status": "passed"
 });
 formatter.scenario({
@@ -2501,7 +2974,7 @@ formatter.match({
   "location": "RemoveProductFromShoppingCart.user_clicks_on_X_mark_next_to_the_product_on_shopping_cart()"
 });
 formatter.result({
-  "duration": 107949200,
+  "duration": 100552300,
   "status": "passed"
 });
 formatter.match({
@@ -2514,11 +2987,11 @@ formatter.match({
   "location": "RemoveProductFromShoppingCart.the_item_should_be_removed_and_Your_shopping_cart_is_empty_message_is_displayed(String)"
 });
 formatter.result({
-  "duration": 486362400,
+  "duration": 569981100,
   "status": "passed"
 });
 formatter.after({
-  "duration": 869183600,
+  "duration": 861303600,
   "status": "passed"
 });
 formatter.uri("Features/RetailTestScenarios.feature");
@@ -2530,7 +3003,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 5997042700,
+  "duration": 6167043700,
   "status": "passed"
 });
 formatter.background({
@@ -2549,7 +3022,7 @@ formatter.match({
   "location": "LoginTestStepDefinition.user_is_on_Retail_website()"
 });
 formatter.result({
-  "duration": 1459370900,
+  "duration": 1747795800,
   "status": "passed"
 });
 formatter.scenario({
@@ -2598,7 +3071,7 @@ formatter.step({
       "cells": [
         "James",
         "Madison",
-        "jmadison@max.com",
+        "jmadison@max3.com",
         "1112223344",
         "james123"
       ],
@@ -2631,42 +3104,42 @@ formatter.match({
   "location": "LoginTestStepDefinition.user_click_on_MyAccount()"
 });
 formatter.result({
-  "duration": 104031200,
+  "duration": 127668100,
   "status": "passed"
 });
 formatter.match({
   "location": "RegisterFormStepDefinition.user_click_on_Register()"
 });
 formatter.result({
-  "duration": 663710600,
+  "duration": 573597000,
   "status": "passed"
 });
 formatter.match({
   "location": "RegisterFormStepDefinition.user_fill_out_Register_form_with_below_information(DataTable)"
 });
 formatter.result({
-  "duration": 924703500,
+  "duration": 1245948400,
   "status": "passed"
 });
 formatter.match({
   "location": "RegisterFormStepDefinition.user_select_yes_for_Subscribe()"
 });
 formatter.result({
-  "duration": 480189000,
+  "duration": 475263500,
   "status": "passed"
 });
 formatter.match({
   "location": "RegisterFormStepDefinition.user_click_on_privacy_and_policy_check_box()"
 });
 formatter.result({
-  "duration": 116002900,
+  "duration": 90101000,
   "status": "passed"
 });
 formatter.match({
   "location": "RegisterFormStepDefinition.user_click_on_Continue_button()"
 });
 formatter.result({
-  "duration": 553544600,
+  "duration": 504359100,
   "status": "passed"
 });
 formatter.match({
@@ -2679,11 +3152,11 @@ formatter.match({
   "location": "RegisterFormStepDefinition.user_Should_see_message_Your_Account_Has_Been_Created(String)"
 });
 formatter.result({
-  "duration": 5355608800,
+  "duration": 6264191100,
   "status": "passed"
 });
 formatter.after({
-  "duration": 832228900,
+  "duration": 859393000,
   "status": "passed"
 });
 formatter.uri("Features/ShoppingCartCheckoutPage.feature");
@@ -2695,7 +3168,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 6181821100,
+  "duration": 6231515500,
   "status": "passed"
 });
 formatter.background({
@@ -2727,7 +3200,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "User enter username \u0027sdet@tekschool.us\u0027 and password \u0027sdet\u0027",
+  "name": "User enter username \u0027shakib3@shakib.com\u0027 and password \u0027sdet\u0027",
   "keyword": "And "
 });
 formatter.step({
@@ -2789,80 +3262,80 @@ formatter.match({
   "location": "LoginTestStepDefinition.user_is_on_Retail_website()"
 });
 formatter.result({
-  "duration": 1749614500,
+  "duration": 2448092400,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_is_on_Retail_website()"
 });
 formatter.result({
-  "duration": 725767800,
+  "duration": 723809300,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_click_on_MyAccount()"
 });
 formatter.result({
-  "duration": 95503500,
+  "duration": 102093000,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_click_on_Login()"
 });
 formatter.result({
-  "duration": 3661321300,
+  "duration": 3654793200,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "sdet@tekschool.us",
+      "val": "shakib3@shakib.com",
       "offset": 21
     },
     {
       "val": "sdet",
-      "offset": 54
+      "offset": 55
     }
   ],
   "location": "LoginTestStepDefinition.user_enter_username_sdet_tekschool_us_and_password_sdet(String,String)"
 });
 formatter.result({
-  "duration": 656500900,
+  "duration": 628868600,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_click_on_Login_button()"
 });
 formatter.result({
-  "duration": 623775000,
+  "duration": 439447300,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_should_be_logged_in_to_MyAccount_dashboard()"
 });
 formatter.result({
-  "duration": 405418700,
+  "duration": 418890500,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductsToShoppingCart.user_clicks_on_Cameras_from_products_menu()"
 });
 formatter.result({
-  "duration": 99988000,
+  "duration": 99236800,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductsToShoppingCart.user_clicks_on_Canon_from_dropdown_list()"
 });
 formatter.result({
-  "duration": 427441000,
+  "duration": 383566400,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductsToShoppingCart.user_clicks_on_ADD_TO_CART_button()"
 });
 formatter.result({
-  "duration": 98584200,
+  "duration": 96002400,
   "status": "passed"
 });
 formatter.match({
@@ -2875,7 +3348,7 @@ formatter.match({
   "location": "AddProductsToShoppingCart.user_select_available_options_as_Red(String)"
 });
 formatter.result({
-  "duration": 2617329800,
+  "duration": 1869044300,
   "status": "passed"
 });
 formatter.match({
@@ -2888,35 +3361,35 @@ formatter.match({
   "location": "AddProductsToShoppingCart.user_enters_quantity_as(String)"
 });
 formatter.result({
-  "duration": 205726600,
+  "duration": 332751000,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductsToShoppingCart.user_clicks_on_blue_Add_to_Cart_button()"
 });
 formatter.result({
-  "duration": 351340400,
+  "duration": 195770700,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductsToShoppingCart.user_should_see_Success_You_have_added_message()"
 });
 formatter.result({
-  "duration": 277938200,
+  "duration": 132361000,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductsToShoppingCart.user_clicks_on_Shopping_Cart()"
 });
 formatter.result({
-  "duration": 111044800,
+  "duration": 280840600,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductsToShoppingCart.user_should_see_quantity_of_product_added_to_shopping_cart()"
 });
 formatter.result({
-  "duration": 402024100,
+  "duration": 438280800,
   "status": "passed"
 });
 formatter.scenario({
@@ -2934,6 +3407,10 @@ formatter.scenario({
     {
       "line": 20,
       "name": "@CheckOut"
+    },
+    {
+      "line": 20,
+      "name": "@test"
     }
   ]
 });
@@ -2966,14 +3443,14 @@ formatter.match({
   "location": "ShoppingCartCheckoutPageStepDefinition.user_clicks_View_Cart()"
 });
 formatter.result({
-  "duration": 496828900,
+  "duration": 537376800,
   "status": "passed"
 });
 formatter.match({
   "location": "ShoppingCartCheckoutPageStepDefinition.user_confirms_that_Quantity_field_Unit_Price_and_Total_is_displayed()"
 });
 formatter.result({
-  "duration": 135302500,
+  "duration": 143234200,
   "status": "passed"
 });
 formatter.match({
@@ -2986,29 +3463,29 @@ formatter.match({
   "location": "ShoppingCartCheckoutPageStepDefinition.user_update_the_quantity_to(String)"
 });
 formatter.result({
-  "duration": 182019700,
+  "duration": 180509900,
   "status": "passed"
 });
 formatter.match({
   "location": "ShoppingCartCheckoutPageStepDefinition.user_clicks_on_refresh_icon()"
 });
 formatter.result({
-  "duration": 849320800,
+  "duration": 854508200,
   "status": "passed"
 });
 formatter.match({
   "location": "ShoppingCartCheckoutPageStepDefinition.user_should_see_updated_unit_price_x_quanitity_of_total()"
 });
 formatter.result({
-  "duration": 46394300,
+  "duration": 42538500,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1018060900,
+  "duration": 882902000,
   "status": "passed"
 });
 formatter.before({
-  "duration": 6172346100,
+  "duration": 6190518000,
   "status": "passed"
 });
 formatter.background({
@@ -3040,7 +3517,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "User enter username \u0027sdet@tekschool.us\u0027 and password \u0027sdet\u0027",
+  "name": "User enter username \u0027shakib3@shakib.com\u0027 and password \u0027sdet\u0027",
   "keyword": "And "
 });
 formatter.step({
@@ -3102,80 +3579,80 @@ formatter.match({
   "location": "LoginTestStepDefinition.user_is_on_Retail_website()"
 });
 formatter.result({
-  "duration": 2284483200,
+  "duration": 1983136400,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_is_on_Retail_website()"
 });
 formatter.result({
-  "duration": 752477500,
+  "duration": 751435000,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_click_on_MyAccount()"
 });
 formatter.result({
-  "duration": 96350900,
+  "duration": 97441500,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_click_on_Login()"
 });
 formatter.result({
-  "duration": 3682594200,
+  "duration": 3654511700,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "sdet@tekschool.us",
+      "val": "shakib3@shakib.com",
       "offset": 21
     },
     {
       "val": "sdet",
-      "offset": 54
+      "offset": 55
     }
   ],
   "location": "LoginTestStepDefinition.user_enter_username_sdet_tekschool_us_and_password_sdet(String,String)"
 });
 formatter.result({
-  "duration": 645731600,
+  "duration": 647662300,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_click_on_Login_button()"
 });
 formatter.result({
-  "duration": 512200900,
+  "duration": 451885800,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_should_be_logged_in_to_MyAccount_dashboard()"
 });
 formatter.result({
-  "duration": 430919900,
+  "duration": 424183100,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductsToShoppingCart.user_clicks_on_Cameras_from_products_menu()"
 });
 formatter.result({
-  "duration": 87263600,
+  "duration": 105702900,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductsToShoppingCart.user_clicks_on_Canon_from_dropdown_list()"
 });
 formatter.result({
-  "duration": 456719700,
+  "duration": 465067600,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductsToShoppingCart.user_clicks_on_ADD_TO_CART_button()"
 });
 formatter.result({
-  "duration": 90114400,
+  "duration": 110517300,
   "status": "passed"
 });
 formatter.match({
@@ -3188,7 +3665,7 @@ formatter.match({
   "location": "AddProductsToShoppingCart.user_select_available_options_as_Red(String)"
 });
 formatter.result({
-  "duration": 2389568100,
+  "duration": 1458953400,
   "status": "passed"
 });
 formatter.match({
@@ -3201,35 +3678,35 @@ formatter.match({
   "location": "AddProductsToShoppingCart.user_enters_quantity_as(String)"
 });
 formatter.result({
-  "duration": 192568000,
+  "duration": 348550500,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductsToShoppingCart.user_clicks_on_blue_Add_to_Cart_button()"
 });
 formatter.result({
-  "duration": 188303000,
+  "duration": 328447700,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductsToShoppingCart.user_should_see_Success_You_have_added_message()"
 });
 formatter.result({
-  "duration": 142553200,
+  "duration": 135980600,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductsToShoppingCart.user_clicks_on_Shopping_Cart()"
 });
 formatter.result({
-  "duration": 94730100,
+  "duration": 104242100,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductsToShoppingCart.user_should_see_quantity_of_product_added_to_shopping_cart()"
 });
 formatter.result({
-  "duration": 381671100,
+  "duration": 405244100,
   "status": "passed"
 });
 formatter.scenario({
@@ -3284,7 +3761,7 @@ formatter.match({
   "location": "ShoppingCartCheckoutPageStepDefinition.user_clicks_View_Cart()"
 });
 formatter.result({
-  "duration": 459899200,
+  "duration": 487063200,
   "status": "passed"
 });
 formatter.match({
@@ -3297,14 +3774,14 @@ formatter.match({
   "location": "ShoppingCartCheckoutPageStepDefinition.user_sees_What_would_you_like_to_do_next_message_in_shopping_cart(String)"
 });
 formatter.result({
-  "duration": 53303100,
+  "duration": 52980700,
   "status": "passed"
 });
 formatter.match({
   "location": "ShoppingCartCheckoutPageStepDefinition.user_clicks_on_Use_Coupon_Code()"
 });
 formatter.result({
-  "duration": 134576200,
+  "duration": 148589000,
   "status": "passed"
 });
 formatter.match({
@@ -3317,29 +3794,29 @@ formatter.match({
   "location": "ShoppingCartCheckoutPageStepDefinition.user_enters_sample_coupon_code(String)"
 });
 formatter.result({
-  "duration": 174316900,
+  "duration": 259706200,
   "status": "passed"
 });
 formatter.match({
   "location": "ShoppingCartCheckoutPageStepDefinition.user_clicks_on_Apply_coupon_button()"
 });
 formatter.result({
-  "duration": 147792200,
+  "duration": 175360800,
   "status": "passed"
 });
 formatter.match({
   "location": "ShoppingCartCheckoutPageStepDefinition.user_should_successfully_see_coupon_added()"
 });
 formatter.result({
-  "duration": 114241300,
+  "duration": 105461100,
   "status": "passed"
 });
 formatter.after({
-  "duration": 920546200,
+  "duration": 1073203100,
   "status": "passed"
 });
 formatter.before({
-  "duration": 6002346400,
+  "duration": 6358105300,
   "status": "passed"
 });
 formatter.background({
@@ -3371,7 +3848,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "User enter username \u0027sdet@tekschool.us\u0027 and password \u0027sdet\u0027",
+  "name": "User enter username \u0027shakib3@shakib.com\u0027 and password \u0027sdet\u0027",
   "keyword": "And "
 });
 formatter.step({
@@ -3433,80 +3910,80 @@ formatter.match({
   "location": "LoginTestStepDefinition.user_is_on_Retail_website()"
 });
 formatter.result({
-  "duration": 1437309900,
+  "duration": 1400875400,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_is_on_Retail_website()"
 });
 formatter.result({
-  "duration": 745786400,
+  "duration": 719608300,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_click_on_MyAccount()"
 });
 formatter.result({
-  "duration": 93076300,
+  "duration": 91488600,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_click_on_Login()"
 });
 formatter.result({
-  "duration": 3669514800,
+  "duration": 3667015800,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "sdet@tekschool.us",
+      "val": "shakib3@shakib.com",
       "offset": 21
     },
     {
       "val": "sdet",
-      "offset": 54
+      "offset": 55
     }
   ],
   "location": "LoginTestStepDefinition.user_enter_username_sdet_tekschool_us_and_password_sdet(String,String)"
 });
 formatter.result({
-  "duration": 643077500,
+  "duration": 632457800,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_click_on_Login_button()"
 });
 formatter.result({
-  "duration": 506399100,
+  "duration": 483182200,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_should_be_logged_in_to_MyAccount_dashboard()"
 });
 formatter.result({
-  "duration": 417403500,
+  "duration": 401670800,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductsToShoppingCart.user_clicks_on_Cameras_from_products_menu()"
 });
 formatter.result({
-  "duration": 100948500,
+  "duration": 112036200,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductsToShoppingCart.user_clicks_on_Canon_from_dropdown_list()"
 });
 formatter.result({
-  "duration": 399212900,
+  "duration": 528801700,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductsToShoppingCart.user_clicks_on_ADD_TO_CART_button()"
 });
 formatter.result({
-  "duration": 97853000,
+  "duration": 145940600,
   "status": "passed"
 });
 formatter.match({
@@ -3519,7 +3996,7 @@ formatter.match({
   "location": "AddProductsToShoppingCart.user_select_available_options_as_Red(String)"
 });
 formatter.result({
-  "duration": 1188047900,
+  "duration": 1882531500,
   "status": "passed"
 });
 formatter.match({
@@ -3532,35 +4009,35 @@ formatter.match({
   "location": "AddProductsToShoppingCart.user_enters_quantity_as(String)"
 });
 formatter.result({
-  "duration": 494628300,
+  "duration": 252486600,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductsToShoppingCart.user_clicks_on_blue_Add_to_Cart_button()"
 });
 formatter.result({
-  "duration": 424065600,
+  "duration": 219454900,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductsToShoppingCart.user_should_see_Success_You_have_added_message()"
 });
 formatter.result({
-  "duration": 178906900,
+  "duration": 170266600,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductsToShoppingCart.user_clicks_on_Shopping_Cart()"
 });
 formatter.result({
-  "duration": 117590000,
+  "duration": 162204000,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductsToShoppingCart.user_should_see_quantity_of_product_added_to_shopping_cart()"
 });
 formatter.result({
-  "duration": 449568200,
+  "duration": 457258200,
   "status": "passed"
 });
 formatter.scenario({
@@ -3635,7 +4112,7 @@ formatter.match({
   "location": "ShoppingCartCheckoutPageStepDefinition.user_clicks_View_Cart()"
 });
 formatter.result({
-  "duration": 478741000,
+  "duration": 652815800,
   "status": "passed"
 });
 formatter.match({
@@ -3648,14 +4125,14 @@ formatter.match({
   "location": "ShoppingCartCheckoutPageStepDefinition.user_sees_What_would_you_like_to_do_next_message_in_shopping_cart(String)"
 });
 formatter.result({
-  "duration": 53327400,
+  "duration": 52912400,
   "status": "passed"
 });
 formatter.match({
   "location": "ShoppingCartCheckoutPageStepDefinition.user_clicks_on_Estimate_Shipping_Taxes()"
 });
 formatter.result({
-  "duration": 278948100,
+  "duration": 95737700,
   "status": "passed"
 });
 formatter.match({
@@ -3668,7 +4145,7 @@ formatter.match({
   "location": "ShoppingCartCheckoutPageStepDefinition.user_selects_Afghanistan_as_country(String)"
 });
 formatter.result({
-  "duration": 534791600,
+  "duration": 7080770800,
   "status": "passed"
 });
 formatter.match({
@@ -3681,7 +4158,7 @@ formatter.match({
   "location": "ShoppingCartCheckoutPageStepDefinition.user_selects_Region_State_as_Kabul(String)"
 });
 formatter.result({
-  "duration": 364596900,
+  "duration": 391947600,
   "status": "passed"
 });
 formatter.match({
@@ -3694,43 +4171,43 @@ formatter.match({
   "location": "ShoppingCartCheckoutPageStepDefinition.user_enters_Post_Code_as(String)"
 });
 formatter.result({
-  "duration": 237068900,
+  "duration": 211556100,
   "status": "passed"
 });
 formatter.match({
   "location": "ShoppingCartCheckoutPageStepDefinition.user_clicks_on_Get_Quotes_button()"
 });
 formatter.result({
-  "duration": 104551500,
+  "duration": 102606700,
   "status": "passed"
 });
 formatter.match({
   "location": "ShoppingCartCheckoutPageStepDefinition.user_clicks_on_Flat_Shipping_Rate_button()"
 });
 formatter.result({
-  "duration": 166088300,
+  "duration": 175076800,
   "status": "passed"
 });
 formatter.match({
   "location": "ShoppingCartCheckoutPageStepDefinition.user_clicks_on_Apply_Shipping_button()"
 });
 formatter.result({
-  "duration": 88044300,
+  "duration": 100000800,
   "status": "passed"
 });
 formatter.match({
   "location": "ShoppingCartCheckoutPageStepDefinition.user_should_see_Success_Your_shipping_estimate_has_been_applied_message()"
 });
 formatter.result({
-  "duration": 388393800,
+  "duration": 413493600,
   "status": "passed"
 });
 formatter.after({
-  "duration": 847294000,
+  "duration": 896241300,
   "status": "passed"
 });
 formatter.before({
-  "duration": 6144180500,
+  "duration": 6382322000,
   "status": "passed"
 });
 formatter.background({
@@ -3762,7 +4239,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "User enter username \u0027sdet@tekschool.us\u0027 and password \u0027sdet\u0027",
+  "name": "User enter username \u0027shakib3@shakib.com\u0027 and password \u0027sdet\u0027",
   "keyword": "And "
 });
 formatter.step({
@@ -3824,80 +4301,80 @@ formatter.match({
   "location": "LoginTestStepDefinition.user_is_on_Retail_website()"
 });
 formatter.result({
-  "duration": 1526940700,
+  "duration": 1585855800,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_is_on_Retail_website()"
 });
 formatter.result({
-  "duration": 760058400,
+  "duration": 761489100,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_click_on_MyAccount()"
 });
 formatter.result({
-  "duration": 108113500,
+  "duration": 103822000,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_click_on_Login()"
 });
 formatter.result({
-  "duration": 3643566100,
+  "duration": 3630299700,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "sdet@tekschool.us",
+      "val": "shakib3@shakib.com",
       "offset": 21
     },
     {
       "val": "sdet",
-      "offset": 54
+      "offset": 55
     }
   ],
   "location": "LoginTestStepDefinition.user_enter_username_sdet_tekschool_us_and_password_sdet(String,String)"
 });
 formatter.result({
-  "duration": 600466200,
+  "duration": 659688700,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_click_on_Login_button()"
 });
 formatter.result({
-  "duration": 519221000,
+  "duration": 534036500,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_should_be_logged_in_to_MyAccount_dashboard()"
 });
 formatter.result({
-  "duration": 408159400,
+  "duration": 415353200,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductsToShoppingCart.user_clicks_on_Cameras_from_products_menu()"
 });
 formatter.result({
-  "duration": 108055500,
+  "duration": 163257600,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductsToShoppingCart.user_clicks_on_Canon_from_dropdown_list()"
 });
 formatter.result({
-  "duration": 387386800,
+  "duration": 642515700,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductsToShoppingCart.user_clicks_on_ADD_TO_CART_button()"
 });
 formatter.result({
-  "duration": 107770600,
+  "duration": 117741300,
   "status": "passed"
 });
 formatter.match({
@@ -3910,7 +4387,7 @@ formatter.match({
   "location": "AddProductsToShoppingCart.user_select_available_options_as_Red(String)"
 });
 formatter.result({
-  "duration": 1772482400,
+  "duration": 1765285900,
   "status": "passed"
 });
 formatter.match({
@@ -3923,35 +4400,35 @@ formatter.match({
   "location": "AddProductsToShoppingCart.user_enters_quantity_as(String)"
 });
 formatter.result({
-  "duration": 230221300,
+  "duration": 244093800,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductsToShoppingCart.user_clicks_on_blue_Add_to_Cart_button()"
 });
 formatter.result({
-  "duration": 197747100,
+  "duration": 190698000,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductsToShoppingCart.user_should_see_Success_You_have_added_message()"
 });
 formatter.result({
-  "duration": 137766300,
+  "duration": 124357100,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductsToShoppingCart.user_clicks_on_Shopping_Cart()"
 });
 formatter.result({
-  "duration": 110860500,
+  "duration": 105323300,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductsToShoppingCart.user_should_see_quantity_of_product_added_to_shopping_cart()"
 });
 formatter.result({
-  "duration": 412726200,
+  "duration": 417259800,
   "status": "passed"
 });
 formatter.scenario({
@@ -4006,7 +4483,7 @@ formatter.match({
   "location": "ShoppingCartCheckoutPageStepDefinition.user_clicks_View_Cart()"
 });
 formatter.result({
-  "duration": 461163400,
+  "duration": 593996000,
   "status": "passed"
 });
 formatter.match({
@@ -4019,14 +4496,14 @@ formatter.match({
   "location": "ShoppingCartCheckoutPageStepDefinition.user_sees_What_would_you_like_to_do_next_message_in_shopping_cart(String)"
 });
 formatter.result({
-  "duration": 52510400,
+  "duration": 51182700,
   "status": "passed"
 });
 formatter.match({
   "location": "ShoppingCartCheckoutPageStepDefinition.user_clicks_Use_Gift_Certificate_section()"
 });
 formatter.result({
-  "duration": 484531200,
+  "duration": 507979000,
   "status": "passed"
 });
 formatter.match({
@@ -4039,482 +4516,25 @@ formatter.match({
   "location": "ShoppingCartCheckoutPageStepDefinition.user_enters_sample_gift_certificate_code(String)"
 });
 formatter.result({
-  "duration": 150110100,
+  "duration": 150548800,
   "status": "passed"
 });
 formatter.match({
   "location": "ShoppingCartCheckoutPageStepDefinition.user_clicks_on_Apply_Gift_Certificate()"
 });
 formatter.result({
-  "duration": 109386100,
+  "duration": 103968900,
   "status": "passed"
 });
 formatter.match({
   "location": "ShoppingCartCheckoutPageStepDefinition.user_should_successfully_add_the_gift_certificate()"
 });
 formatter.result({
-  "duration": 473046400,
+  "duration": 448684900,
   "status": "passed"
 });
 formatter.after({
-  "duration": 869738300,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 6073654800,
-  "status": "passed"
-});
-formatter.background({
-  "line": 3,
-  "name": "",
-  "description": "",
-  "type": "background",
-  "keyword": "Background"
-});
-formatter.step({
-  "line": 4,
-  "name": "User is on Retail Website",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 5,
-  "name": "User is on Retail Website",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 6,
-  "name": "User Clicks on MyAccount",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 7,
-  "name": "User Clicks on Login",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 8,
-  "name": "User enter username \u0027sdet@tekschool.us\u0027 and password \u0027sdet\u0027",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "User clicks on Login Button",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "User should be logged into MyAccount dashboard",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "user clicks on \u0027Cameras\u0027 from products menu",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 12,
-  "name": "user clicks on \u0027Canon\u0027 from dropdown list",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 13,
-  "name": "user clicks on ADD TO CART button",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 14,
-  "name": "user select available options as \u0027Blue\u0027",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "user enters quantity as \u00271\u0027",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 16,
-  "name": "user clicks on blue Add to Cart button",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 17,
-  "name": "user should see \u0027Success: You have added\u0027 message",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 18,
-  "name": "user clicks on \u0027Shopping Cart\u0027",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 19,
-  "name": "user should see quantity of product added to shopping cart",
-  "keyword": "And "
-});
-formatter.match({
-  "location": "LoginTestStepDefinition.user_is_on_Retail_website()"
-});
-formatter.result({
-  "duration": 1438991200,
-  "status": "passed"
-});
-formatter.match({
-  "location": "LoginTestStepDefinition.user_is_on_Retail_website()"
-});
-formatter.result({
-  "duration": 759045900,
-  "status": "passed"
-});
-formatter.match({
-  "location": "LoginTestStepDefinition.user_click_on_MyAccount()"
-});
-formatter.result({
-  "duration": 99321200,
-  "status": "passed"
-});
-formatter.match({
-  "location": "LoginTestStepDefinition.user_click_on_Login()"
-});
-formatter.result({
-  "duration": 3707534400,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "sdet@tekschool.us",
-      "offset": 21
-    },
-    {
-      "val": "sdet",
-      "offset": 54
-    }
-  ],
-  "location": "LoginTestStepDefinition.user_enter_username_sdet_tekschool_us_and_password_sdet(String,String)"
-});
-formatter.result({
-  "duration": 631907900,
-  "status": "passed"
-});
-formatter.match({
-  "location": "LoginTestStepDefinition.user_click_on_Login_button()"
-});
-formatter.result({
-  "duration": 516260700,
-  "status": "passed"
-});
-formatter.match({
-  "location": "LoginTestStepDefinition.user_should_be_logged_in_to_MyAccount_dashboard()"
-});
-formatter.result({
-  "duration": 416722200,
-  "status": "passed"
-});
-formatter.match({
-  "location": "AddProductsToShoppingCart.user_clicks_on_Cameras_from_products_menu()"
-});
-formatter.result({
-  "duration": 97693700,
-  "status": "passed"
-});
-formatter.match({
-  "location": "AddProductsToShoppingCart.user_clicks_on_Canon_from_dropdown_list()"
-});
-formatter.result({
-  "duration": 452424300,
-  "status": "passed"
-});
-formatter.match({
-  "location": "AddProductsToShoppingCart.user_clicks_on_ADD_TO_CART_button()"
-});
-formatter.result({
-  "duration": 96840100,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "Blue",
-      "offset": 34
-    }
-  ],
-  "location": "AddProductsToShoppingCart.user_select_available_options_as_Red(String)"
-});
-formatter.result({
-  "duration": 1742308800,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "1",
-      "offset": 25
-    }
-  ],
-  "location": "AddProductsToShoppingCart.user_enters_quantity_as(String)"
-});
-formatter.result({
-  "duration": 201343200,
-  "status": "passed"
-});
-formatter.match({
-  "location": "AddProductsToShoppingCart.user_clicks_on_blue_Add_to_Cart_button()"
-});
-formatter.result({
-  "duration": 181998000,
-  "status": "passed"
-});
-formatter.match({
-  "location": "AddProductsToShoppingCart.user_should_see_Success_You_have_added_message()"
-});
-formatter.result({
-  "duration": 212437500,
-  "status": "passed"
-});
-formatter.match({
-  "location": "AddProductsToShoppingCart.user_clicks_on_Shopping_Cart()"
-});
-formatter.result({
-  "duration": 122034300,
-  "status": "passed"
-});
-formatter.match({
-  "location": "AddProductsToShoppingCart.user_should_see_quantity_of_product_added_to_shopping_cart()"
-});
-formatter.result({
-  "duration": 444872200,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 60,
-  "name": "Confirmation of checkout table fields",
-  "description": "",
-  "id": "shopping-cart-checkout-page-manipulation;confirmation-of-checkout-table-fields",
-  "type": "scenario",
-  "keyword": "Scenario",
-  "tags": [
-    {
-      "line": 59,
-      "name": "@regression"
-    },
-    {
-      "line": 59,
-      "name": "@CheckOut"
-    }
-  ]
-});
-formatter.step({
-  "line": 61,
-  "name": "user clicks View Cart",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 62,
-  "name": "user sees \u0027What would you like to do next?\u0027 message in shopping cart",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 63,
-  "name": "user clicks on Estimate Shipping \u0026 Taxes",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 64,
-  "name": "user selects \u0027Afghanistan\u0027 as country",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 65,
-  "name": "user selects Region/State as \u0027Kabul\u0027",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 66,
-  "name": "user enters Post Code as \u002795351\u0027",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 67,
-  "name": "user clicks on \u0027Get Quotes\u0027 button",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 68,
-  "name": "user clicks on \u0027Flat Shipping Rate\u0027 button",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 69,
-  "name": "user clicks on \u0027Apply Shipping\u0027 button",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 70,
-  "name": "user sees \u0027Success: Your shipping estimate has been applied!\u0027 message",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 71,
-  "name": "user should be able to see \u0027Sub-Total\u0027 at the end of shopping cart",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 72,
-  "name": "user should be able to see \u0027Flat Shipping Rate\u0027 at the end of shopping cart",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 73,
-  "name": "user should be able to see \u0027Total\u0027 at the end of shopping cart",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 74,
-  "name": "user clicks on Checkout Button",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 75,
-  "name": "user should get to \u0027Checkout\u0027 page",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "ShoppingCartCheckoutPageStepDefinition.user_clicks_View_Cart()"
-});
-formatter.result({
-  "duration": 506974200,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "What would you like to do next?",
-      "offset": 11
-    }
-  ],
-  "location": "ShoppingCartCheckoutPageStepDefinition.user_sees_What_would_you_like_to_do_next_message_in_shopping_cart(String)"
-});
-formatter.result({
-  "duration": 63412000,
-  "status": "passed"
-});
-formatter.match({
-  "location": "ShoppingCartCheckoutPageStepDefinition.user_clicks_on_Estimate_Shipping_Taxes()"
-});
-formatter.result({
-  "duration": 28074725600,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "Afghanistan",
-      "offset": 14
-    }
-  ],
-  "location": "ShoppingCartCheckoutPageStepDefinition.user_selects_Afghanistan_as_country(String)"
-});
-formatter.result({
-  "duration": 488280300,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "Kabul",
-      "offset": 30
-    }
-  ],
-  "location": "ShoppingCartCheckoutPageStepDefinition.user_selects_Region_State_as_Kabul(String)"
-});
-formatter.result({
-  "duration": 398528700,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "95351",
-      "offset": 26
-    }
-  ],
-  "location": "ShoppingCartCheckoutPageStepDefinition.user_enters_Post_Code_as(String)"
-});
-formatter.result({
-  "duration": 205622200,
-  "status": "passed"
-});
-formatter.match({
-  "location": "ShoppingCartCheckoutPageStepDefinition.user_clicks_on_Get_Quotes_button()"
-});
-formatter.result({
-  "duration": 96177900,
-  "status": "passed"
-});
-formatter.match({
-  "location": "ShoppingCartCheckoutPageStepDefinition.user_clicks_on_Flat_Shipping_Rate_button()"
-});
-formatter.result({
-  "duration": 192660300,
-  "status": "passed"
-});
-formatter.match({
-  "location": "ShoppingCartCheckoutPageStepDefinition.user_clicks_on_Apply_Shipping_button()"
-});
-formatter.result({
-  "duration": 103758800,
-  "status": "passed"
-});
-formatter.match({
-  "location": "ShoppingCartCheckoutPageStepDefinition.user_should_see_Success_Your_shipping_estimate_has_been_applied_message()"
-});
-formatter.result({
-  "duration": 417446000,
-  "status": "passed"
-});
-formatter.match({
-  "location": "ShoppingCartCheckoutPageStepDefinition.user_should_be_able_to_see_Sub_Total_at_the_end_of_shopping_cart()"
-});
-formatter.result({
-  "duration": 49522900,
-  "status": "passed"
-});
-formatter.match({
-  "location": "ShoppingCartCheckoutPageStepDefinition.user_should_be_able_to_see_Flat_Shipping_Rate_at_the_end_of_shopping_cart()"
-});
-formatter.result({
-  "duration": 40513000,
-  "status": "passed"
-});
-formatter.match({
-  "location": "ShoppingCartCheckoutPageStepDefinition.user_should_be_able_to_see_Total_at_the_end_of_shopping_cart()"
-});
-formatter.result({
-  "duration": 41082100,
-  "status": "passed"
-});
-formatter.match({
-  "location": "ShoppingCartCheckoutPageStepDefinition.user_clicks_on_CheckOut_Button()"
-});
-formatter.result({
-  "duration": 413149100,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "Checkout",
-      "offset": 20
-    }
-  ],
-  "location": "ShoppingCartCheckoutPageStepDefinition.user_should_get_to_CheckOut_page(String)"
-});
-formatter.result({
-  "duration": 433156100,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 2363006800,
+  "duration": 859217300,
   "status": "passed"
 });
 formatter.uri("Features/currency.feature");
@@ -4526,7 +4546,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 6462440000,
+  "duration": 6035447100,
   "status": "passed"
 });
 formatter.background({
@@ -4558,7 +4578,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "User enter username \u0027sdet@tekschool.us\u0027 and password \u0027sdet\u0027",
+  "name": "User enter username \u0027shakib@shakib.com\u0027 and password \u0027sdet\u0027",
   "keyword": "And "
 });
 formatter.step({
@@ -4585,34 +4605,34 @@ formatter.match({
   "location": "LoginTestStepDefinition.user_is_on_Retail_website()"
 });
 formatter.result({
-  "duration": 4340490100,
+  "duration": 1652675300,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_is_on_Retail_website()"
 });
 formatter.result({
-  "duration": 1049035300,
+  "duration": 705128300,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_click_on_MyAccount()"
 });
 formatter.result({
-  "duration": 102219100,
+  "duration": 102173900,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_click_on_Login()"
 });
 formatter.result({
-  "duration": 3731529800,
+  "duration": 3731525300,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "sdet@tekschool.us",
+      "val": "shakib@shakib.com",
       "offset": 21
     },
     {
@@ -4623,35 +4643,35 @@ formatter.match({
   "location": "LoginTestStepDefinition.user_enter_username_sdet_tekschool_us_and_password_sdet(String,String)"
 });
 formatter.result({
-  "duration": 610810600,
+  "duration": 652468900,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_click_on_Login_button()"
 });
 formatter.result({
-  "duration": 566420800,
+  "duration": 567970400,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_should_be_logged_in_to_MyAccount_dashboard()"
 });
 formatter.result({
-  "duration": 432833300,
+  "duration": 420237100,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductsToShoppingCart.user_clicks_on_Cameras_from_products_menu()"
 });
 formatter.result({
-  "duration": 97973400,
+  "duration": 96756500,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductsToShoppingCart.user_clicks_on_Canon_from_dropdown_list()"
 });
 formatter.result({
-  "duration": 927356900,
+  "duration": 487615100,
   "status": "passed"
 });
 formatter.scenario({
@@ -4686,22 +4706,22 @@ formatter.match({
   "location": "CurrencyManipulation.user_clicks_on_Currency_button()"
 });
 formatter.result({
-  "duration": 172871800,
+  "duration": 117788000,
   "status": "passed"
 });
 formatter.match({
   "location": "CurrencyManipulation.user_should_be_able_to_see_Euro_Pound_Sterling_and_US_Dollar_button()"
 });
 formatter.result({
-  "duration": 450990200,
+  "duration": 455102600,
   "status": "passed"
 });
 formatter.after({
-  "duration": 822159500,
+  "duration": 1035047600,
   "status": "passed"
 });
 formatter.before({
-  "duration": 5963603300,
+  "duration": 6084609400,
   "status": "passed"
 });
 formatter.background({
@@ -4733,7 +4753,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "User enter username \u0027sdet@tekschool.us\u0027 and password \u0027sdet\u0027",
+  "name": "User enter username \u0027shakib@shakib.com\u0027 and password \u0027sdet\u0027",
   "keyword": "And "
 });
 formatter.step({
@@ -4760,34 +4780,34 @@ formatter.match({
   "location": "LoginTestStepDefinition.user_is_on_Retail_website()"
 });
 formatter.result({
-  "duration": 1941447900,
+  "duration": 1442908000,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_is_on_Retail_website()"
 });
 formatter.result({
-  "duration": 807081800,
+  "duration": 759097800,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_click_on_MyAccount()"
 });
 formatter.result({
-  "duration": 101554500,
+  "duration": 98571000,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_click_on_Login()"
 });
 formatter.result({
-  "duration": 3745058900,
+  "duration": 3674011200,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "sdet@tekschool.us",
+      "val": "shakib@shakib.com",
       "offset": 21
     },
     {
@@ -4798,35 +4818,35 @@ formatter.match({
   "location": "LoginTestStepDefinition.user_enter_username_sdet_tekschool_us_and_password_sdet(String,String)"
 });
 formatter.result({
-  "duration": 627589400,
+  "duration": 620700900,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_click_on_Login_button()"
 });
 formatter.result({
-  "duration": 469211200,
+  "duration": 464796700,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_should_be_logged_in_to_MyAccount_dashboard()"
 });
 formatter.result({
-  "duration": 403501600,
+  "duration": 450757800,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductsToShoppingCart.user_clicks_on_Cameras_from_products_menu()"
 });
 formatter.result({
-  "duration": 100857100,
+  "duration": 107254900,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductsToShoppingCart.user_clicks_on_Canon_from_dropdown_list()"
 });
 formatter.result({
-  "duration": 417025400,
+  "duration": 513378700,
   "status": "passed"
 });
 formatter.scenario({
@@ -4866,29 +4886,29 @@ formatter.match({
   "location": "CurrencyManipulation.user_clicks_on_Currency_button()"
 });
 formatter.result({
-  "duration": 107017400,
+  "duration": 111171500,
   "status": "passed"
 });
 formatter.match({
   "location": "CurrencyManipulation.user_clicks_on_US_Dollar_Button()"
 });
 formatter.result({
-  "duration": 612054200,
+  "duration": 507304800,
   "status": "passed"
 });
 formatter.match({
   "location": "CurrencyManipulation.user_should_see_price_change_under_product_description()"
 });
 formatter.result({
-  "duration": 530230500,
+  "duration": 529159400,
   "status": "passed"
 });
 formatter.after({
-  "duration": 831204200,
+  "duration": 1028548200,
   "status": "passed"
 });
 formatter.before({
-  "duration": 6213382300,
+  "duration": 6153397900,
   "status": "passed"
 });
 formatter.background({
@@ -4920,7 +4940,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "User enter username \u0027sdet@tekschool.us\u0027 and password \u0027sdet\u0027",
+  "name": "User enter username \u0027shakib@shakib.com\u0027 and password \u0027sdet\u0027",
   "keyword": "And "
 });
 formatter.step({
@@ -4947,34 +4967,34 @@ formatter.match({
   "location": "LoginTestStepDefinition.user_is_on_Retail_website()"
 });
 formatter.result({
-  "duration": 2571694700,
+  "duration": 1912543100,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_is_on_Retail_website()"
 });
 formatter.result({
-  "duration": 761080400,
+  "duration": 720165900,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_click_on_MyAccount()"
 });
 formatter.result({
-  "duration": 99443600,
+  "duration": 95661900,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_click_on_Login()"
 });
 formatter.result({
-  "duration": 3707412300,
+  "duration": 3704930300,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "sdet@tekschool.us",
+      "val": "shakib@shakib.com",
       "offset": 21
     },
     {
@@ -4985,35 +5005,35 @@ formatter.match({
   "location": "LoginTestStepDefinition.user_enter_username_sdet_tekschool_us_and_password_sdet(String,String)"
 });
 formatter.result({
-  "duration": 613183700,
+  "duration": 749361300,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_click_on_Login_button()"
 });
 formatter.result({
-  "duration": 483732000,
+  "duration": 473601300,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_should_be_logged_in_to_MyAccount_dashboard()"
 });
 formatter.result({
-  "duration": 434609600,
+  "duration": 416433500,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductsToShoppingCart.user_clicks_on_Cameras_from_products_menu()"
 });
 formatter.result({
-  "duration": 96551800,
+  "duration": 96427000,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductsToShoppingCart.user_clicks_on_Canon_from_dropdown_list()"
 });
 formatter.result({
-  "duration": 448087400,
+  "duration": 416181500,
   "status": "passed"
 });
 formatter.scenario({
@@ -5054,22 +5074,22 @@ formatter.match({
   "location": "AddProductsToShoppingCart.user_clicks_on_the_image_of_the_product_Canon_EOS_D(int)"
 });
 formatter.result({
-  "duration": 18691074300,
+  "duration": 1842905700,
   "status": "passed"
 });
 formatter.match({
   "location": "CurrencyManipulation.user_should_be_able_to_see_the_US_Dollar_Currency()"
 });
 formatter.result({
-  "duration": 703676100,
+  "duration": 438320800,
   "status": "passed"
 });
 formatter.after({
-  "duration": 932806900,
+  "duration": 898265400,
   "status": "passed"
 });
 formatter.before({
-  "duration": 6051189800,
+  "duration": 5960881600,
   "status": "passed"
 });
 formatter.background({
@@ -5101,7 +5121,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "User enter username \u0027sdet@tekschool.us\u0027 and password \u0027sdet\u0027",
+  "name": "User enter username \u0027shakib@shakib.com\u0027 and password \u0027sdet\u0027",
   "keyword": "And "
 });
 formatter.step({
@@ -5128,34 +5148,34 @@ formatter.match({
   "location": "LoginTestStepDefinition.user_is_on_Retail_website()"
 });
 formatter.result({
-  "duration": 1577571400,
+  "duration": 1791420400,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_is_on_Retail_website()"
 });
 formatter.result({
-  "duration": 763457900,
+  "duration": 749465300,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_click_on_MyAccount()"
 });
 formatter.result({
-  "duration": 92087400,
+  "duration": 98200200,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_click_on_Login()"
 });
 formatter.result({
-  "duration": 3695888300,
+  "duration": 3638789300,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "sdet@tekschool.us",
+      "val": "shakib@shakib.com",
       "offset": 21
     },
     {
@@ -5166,35 +5186,35 @@ formatter.match({
   "location": "LoginTestStepDefinition.user_enter_username_sdet_tekschool_us_and_password_sdet(String,String)"
 });
 formatter.result({
-  "duration": 645859600,
+  "duration": 611063800,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_click_on_Login_button()"
 });
 formatter.result({
-  "duration": 521107800,
+  "duration": 400930800,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_should_be_logged_in_to_MyAccount_dashboard()"
 });
 formatter.result({
-  "duration": 408460100,
+  "duration": 409867800,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductsToShoppingCart.user_clicks_on_Cameras_from_products_menu()"
 });
 formatter.result({
-  "duration": 101441500,
+  "duration": 95171900,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductsToShoppingCart.user_clicks_on_Canon_from_dropdown_list()"
 });
 formatter.result({
-  "duration": 445096700,
+  "duration": 454754600,
   "status": "passed"
 });
 formatter.scenario({
@@ -5265,7 +5285,7 @@ formatter.match({
   "location": "AddProductsToShoppingCart.user_clicks_on_the_image_of_the_product_Canon_EOS_D(int)"
 });
 formatter.result({
-  "duration": 9090007700,
+  "duration": 1473586200,
   "status": "passed"
 });
 formatter.match({
@@ -5278,7 +5298,7 @@ formatter.match({
   "location": "AddProductsToShoppingCart.user_clicks_on_the_image_of_the_product_Canon_EOS_D(int)"
 });
 formatter.result({
-  "duration": 2494751900,
+  "duration": 1298454100,
   "status": "passed"
 });
 formatter.match({
@@ -5291,7 +5311,7 @@ formatter.match({
   "location": "AddProductsToShoppingCart.user_select_available_options_as_Red(String)"
 });
 formatter.result({
-  "duration": 530100100,
+  "duration": 1647986200,
   "status": "passed"
 });
 formatter.match({
@@ -5304,43 +5324,43 @@ formatter.match({
   "location": "AddProductsToShoppingCart.user_enters_quantity_as(String)"
 });
 formatter.result({
-  "duration": 602373600,
+  "duration": 510455300,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductsToShoppingCart.user_clicks_on_blue_Add_to_Cart_button()"
 });
 formatter.result({
-  "duration": 207624300,
+  "duration": 453737800,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductsToShoppingCart.user_should_see_Success_You_have_added_message()"
 });
 formatter.result({
-  "duration": 168828000,
+  "duration": 122214500,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductsToShoppingCart.user_clicks_on_Shopping_Cart()"
 });
 formatter.result({
-  "duration": 105210100,
+  "duration": 121762600,
   "status": "passed"
 });
 formatter.match({
   "location": "CurrencyManipulation.then_user_should_be_able_to_see_the_US_Dollar_Currency()"
 });
 formatter.result({
-  "duration": 461773300,
+  "duration": 452955600,
   "status": "passed"
 });
 formatter.after({
-  "duration": 947999400,
+  "duration": 868941700,
   "status": "passed"
 });
 formatter.before({
-  "duration": 6346528400,
+  "duration": 6332847100,
   "status": "passed"
 });
 formatter.background({
@@ -5372,7 +5392,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "User enter username \u0027sdet@tekschool.us\u0027 and password \u0027sdet\u0027",
+  "name": "User enter username \u0027shakib@shakib.com\u0027 and password \u0027sdet\u0027",
   "keyword": "And "
 });
 formatter.step({
@@ -5399,34 +5419,34 @@ formatter.match({
   "location": "LoginTestStepDefinition.user_is_on_Retail_website()"
 });
 formatter.result({
-  "duration": 1534097500,
+  "duration": 1394582000,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_is_on_Retail_website()"
 });
 formatter.result({
-  "duration": 696881800,
+  "duration": 696411100,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_click_on_MyAccount()"
 });
 formatter.result({
-  "duration": 93131700,
+  "duration": 97082300,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_click_on_Login()"
 });
 formatter.result({
-  "duration": 3748165700,
+  "duration": 3678648700,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "sdet@tekschool.us",
+      "val": "shakib@shakib.com",
       "offset": 21
     },
     {
@@ -5437,35 +5457,35 @@ formatter.match({
   "location": "LoginTestStepDefinition.user_enter_username_sdet_tekschool_us_and_password_sdet(String,String)"
 });
 formatter.result({
-  "duration": 628014600,
+  "duration": 651568100,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_click_on_Login_button()"
 });
 formatter.result({
-  "duration": 481508500,
+  "duration": 433709700,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_should_be_logged_in_to_MyAccount_dashboard()"
 });
 formatter.result({
-  "duration": 411058900,
+  "duration": 410865800,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductsToShoppingCart.user_clicks_on_Cameras_from_products_menu()"
 });
 formatter.result({
-  "duration": 93711500,
+  "duration": 98125500,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductsToShoppingCart.user_clicks_on_Canon_from_dropdown_list()"
 });
 formatter.result({
-  "duration": 381351300,
+  "duration": 422060800,
   "status": "passed"
 });
 formatter.scenario({
@@ -5515,7 +5535,7 @@ formatter.match({
   "location": "AddProductIntoWishList.user_clicks_on_wish_list_heart_icon_button()"
 });
 formatter.result({
-  "duration": 127044200,
+  "duration": 118866500,
   "status": "passed"
 });
 formatter.match({
@@ -5528,36 +5548,36 @@ formatter.match({
   "location": "AddProductIntoWishList.user_should_see_Success_You_have_added_product_into_the_wishlist(String)"
 });
 formatter.result({
-  "duration": 495305000,
+  "duration": 495345600,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductIntoWishList.user_clicks_on_wish_list_button()"
 });
 formatter.result({
-  "duration": 679715900,
+  "duration": 703503700,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductIntoWishList.user_should_see_the_list_of_items_added_into_the_wish_list()"
 });
 formatter.result({
-  "duration": 423087600,
-  "error_message": "java.lang.AssertionError\r\n\tat org.junit.Assert.fail(Assert.java:87)\r\n\tat org.junit.Assert.assertTrue(Assert.java:42)\r\n\tat org.junit.Assert.assertTrue(Assert.java:53)\r\n\tat stepDefinitions.AddProductIntoWishList.user_should_see_the_list_of_items_added_into_the_wish_list(AddProductIntoWishList.java:46)\r\n\tat ✽.And user should see the list of items added into the wish list(Features/currency.feature:46)\r\n",
-  "status": "failed"
+  "duration": 355591100,
+  "status": "passed"
 });
 formatter.match({
   "location": "CurrencyManipulation.then_the_currency_should_be_US_dollar()"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 372081700,
+  "status": "passed"
 });
 formatter.after({
-  "duration": 1383632100,
+  "duration": 872115500,
   "status": "passed"
 });
 formatter.before({
-  "duration": 5953695700,
+  "duration": 6032561800,
   "status": "passed"
 });
 formatter.background({
@@ -5589,7 +5609,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "User enter username \u0027sdet@tekschool.us\u0027 and password \u0027sdet\u0027",
+  "name": "User enter username \u0027shakib@shakib.com\u0027 and password \u0027sdet\u0027",
   "keyword": "And "
 });
 formatter.step({
@@ -5616,34 +5636,34 @@ formatter.match({
   "location": "LoginTestStepDefinition.user_is_on_Retail_website()"
 });
 formatter.result({
-  "duration": 1753399600,
+  "duration": 1524748700,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_is_on_Retail_website()"
 });
 formatter.result({
-  "duration": 768432800,
+  "duration": 736761200,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_click_on_MyAccount()"
 });
 formatter.result({
-  "duration": 100488300,
+  "duration": 96963800,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_click_on_Login()"
 });
 formatter.result({
-  "duration": 3647047400,
+  "duration": 3689818600,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "sdet@tekschool.us",
+      "val": "shakib@shakib.com",
       "offset": 21
     },
     {
@@ -5654,35 +5674,35 @@ formatter.match({
   "location": "LoginTestStepDefinition.user_enter_username_sdet_tekschool_us_and_password_sdet(String,String)"
 });
 formatter.result({
-  "duration": 628080900,
+  "duration": 631269800,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_click_on_Login_button()"
 });
 formatter.result({
-  "duration": 469334600,
+  "duration": 440138100,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_should_be_logged_in_to_MyAccount_dashboard()"
 });
 formatter.result({
-  "duration": 407674300,
+  "duration": 414388100,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductsToShoppingCart.user_clicks_on_Cameras_from_products_menu()"
 });
 formatter.result({
-  "duration": 107249900,
+  "duration": 138479100,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductsToShoppingCart.user_clicks_on_Canon_from_dropdown_list()"
 });
 formatter.result({
-  "duration": 387714000,
+  "duration": 525070900,
   "status": "passed"
 });
 formatter.scenario({
@@ -5712,15 +5732,15 @@ formatter.match({
   "location": "CurrencyManipulation.user_should_see_US_dollar_as_default_currency()"
 });
 formatter.result({
-  "duration": 389953500,
+  "duration": 417945500,
   "status": "passed"
 });
 formatter.after({
-  "duration": 870821300,
+  "duration": 961574100,
   "status": "passed"
 });
 formatter.before({
-  "duration": 6037716600,
+  "duration": 6011066200,
   "status": "passed"
 });
 formatter.background({
@@ -5752,7 +5772,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "User enter username \u0027sdet@tekschool.us\u0027 and password \u0027sdet\u0027",
+  "name": "User enter username \u0027shakib@shakib.com\u0027 and password \u0027sdet\u0027",
   "keyword": "And "
 });
 formatter.step({
@@ -5779,34 +5799,34 @@ formatter.match({
   "location": "LoginTestStepDefinition.user_is_on_Retail_website()"
 });
 formatter.result({
-  "duration": 1570357300,
+  "duration": 1512391700,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_is_on_Retail_website()"
 });
 formatter.result({
-  "duration": 779825700,
+  "duration": 734474200,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_click_on_MyAccount()"
 });
 formatter.result({
-  "duration": 91001900,
+  "duration": 95824500,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_click_on_Login()"
 });
 formatter.result({
-  "duration": 3687785900,
+  "duration": 3665004100,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "sdet@tekschool.us",
+      "val": "shakib@shakib.com",
       "offset": 21
     },
     {
@@ -5817,35 +5837,35 @@ formatter.match({
   "location": "LoginTestStepDefinition.user_enter_username_sdet_tekschool_us_and_password_sdet(String,String)"
 });
 formatter.result({
-  "duration": 614940900,
+  "duration": 638811100,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_click_on_Login_button()"
 });
 formatter.result({
-  "duration": 527600600,
+  "duration": 420291000,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_should_be_logged_in_to_MyAccount_dashboard()"
 });
 formatter.result({
-  "duration": 416385900,
+  "duration": 414010600,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductsToShoppingCart.user_clicks_on_Cameras_from_products_menu()"
 });
 formatter.result({
-  "duration": 97088600,
+  "duration": 102941400,
   "status": "passed"
 });
 formatter.match({
   "location": "AddProductsToShoppingCart.user_clicks_on_Canon_from_dropdown_list()"
 });
 formatter.result({
-  "duration": 438005200,
+  "duration": 418824400,
   "status": "passed"
 });
 formatter.scenario({
@@ -5903,7 +5923,7 @@ formatter.step({
 });
 formatter.step({
   "line": 62,
-  "name": "User enter username \u0027sdet@tekschool.us\u0027 and password \u0027sdet\u0027",
+  "name": "User enter username \u0027shakib@shakib.com\u0027 and password \u0027sdet\u0027",
   "keyword": "And "
 });
 formatter.step({
@@ -5925,55 +5945,55 @@ formatter.match({
   "location": "CurrencyManipulation.user_clicks_on_Currency_button()"
 });
 formatter.result({
-  "duration": 100053200,
+  "duration": 117698700,
   "status": "passed"
 });
 formatter.match({
   "location": "CurrencyManipulation.user_selects_different_currency_like_Pound_Sterling()"
 });
 formatter.result({
-  "duration": 489730200,
+  "duration": 511817500,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_click_on_MyAccount()"
 });
 formatter.result({
-  "duration": 86589300,
+  "duration": 95450400,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.User_click_on_Logout()"
 });
 formatter.result({
-  "duration": 409678200,
+  "duration": 468156800,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.User_Should_be_logged_out_from_MyAccount_dashboard()"
 });
 formatter.result({
-  "duration": 366304100,
+  "duration": 339118100,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_click_on_MyAccount()"
 });
 formatter.result({
-  "duration": 82325800,
+  "duration": 77067400,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_click_on_Login()"
 });
 formatter.result({
-  "duration": 3647868700,
+  "duration": 3651164000,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "sdet@tekschool.us",
+      "val": "shakib@shakib.com",
       "offset": 21
     },
     {
@@ -5984,32 +6004,32 @@ formatter.match({
   "location": "LoginTestStepDefinition.user_enter_username_sdet_tekschool_us_and_password_sdet(String,String)"
 });
 formatter.result({
-  "duration": 598796100,
+  "duration": 576761800,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_click_on_Login_button()"
 });
 formatter.result({
-  "duration": 3908394600,
+  "duration": 427380900,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTestStepDefinition.user_should_be_logged_in_to_MyAccount_dashboard()"
 });
 formatter.result({
-  "duration": 395129500,
+  "duration": 401475300,
   "status": "passed"
 });
 formatter.match({
   "location": "CurrencyManipulation.user_should_see_Pound_Sterling_as_default_currency()"
 });
 formatter.result({
-  "duration": 365195500,
+  "duration": 356757800,
   "status": "passed"
 });
 formatter.after({
-  "duration": 889876500,
+  "duration": 1224798300,
   "status": "passed"
 });
 });
